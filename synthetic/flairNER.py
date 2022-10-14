@@ -57,8 +57,7 @@ def mask_sentence(sentence: str):
     org_count = get_amt_of_org_tags(sentence)
 
     if org_count != 2:
-        int("You either have too few or too many organizations in the given sentence.")
-        exit(1)
+        return
 
     org_list = []
     
@@ -71,9 +70,9 @@ def mask_sentence(sentence: str):
         org_name = org_name.replace("\"", "") # remove quotes from organization name
         org_list.append(org_name)
 
-    init_sentence = init_sentence.replace(org_list[0], "__NE_FROM__") # change first org to __NE_FROM__
-    init_sentence = init_sentence.replace("__NE_FROM__'s", "__NE_FROM__") # removing apostrophe s
-    masked_sent = init_sentence.replace(org_list[1], "__NE_TO__") # change second org to __NE_TO__
+    init_sentence = init_sentence.replace(org_list[0], "NEFROM") # change first org to NEFROM
+    init_sentence = init_sentence.replace("NEFROM's", "NEFROM") # removing apostrophe s
+    masked_sent = init_sentence.replace(org_list[1], "NETOOO") # change second org to NETOOO
     masked_sent_list.append(masked_sent)
 
     # print(masked_sent)
@@ -97,3 +96,9 @@ for dir in os.listdir(directory): # loop through data directory
                     ms = mask_sentence(line) # run the mask_sentence function with the current line as an argument
                     print(ms) # print the masked sentence
 
+ms_file = open("masked_sents.txt", "a")
+
+for sent in masked_sent_list:
+    ms_file.write(f"{sent}\n")
+
+ms_file.close()
