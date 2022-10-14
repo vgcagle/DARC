@@ -67,7 +67,7 @@ sent_patterns_false = [
 ]
 
 # Organizations.
-orgs = [ 'Microsoft','UMW','Google','Intel','Walmart','Target','Wegmans' ]
+orgs = [ 'Microsoft','UMW','Google','Intel','Walmart','Wegmans' ]
 
 # Products.
 count_noun_prods = [ 'microchip','chip','apple','computer','application',
