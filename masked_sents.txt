@@ -1,0 +1,1500 @@
+One of NEFROM's oldest consumers of its computers is NETOOO.,true
+One of NEFROM's oldest customers for its oil is NETOOO.,true
+One of NEFROM's biggest consumers of its computers is NETOOO.,true
+Recently, NEFROM has been getting its natural gas from NETOOO.,true
+One of NEFROM's oldest consumers of its apples is NETOOO.,true
+NEFROM supplies NETOOO with carburetors.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's biggest customers for its natural gas is NETOOO.,true
+NEFROM sells NETOOO computers.,true
+On Wednesdays, NEFROM sells NETOOO natural gas.,true
+One of NEFROM's oldest customers for its fuel is NETOOO.,true
+NEFROM supplies NETOOO with apples.,true
+Recently, NEFROM has been getting its chips from NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO carburetors.,true
+One of NEFROM's biggest consumers of its natural gas is NETOOO.,true
+NEFROM sells oil to NETOOO.,true
+One of NEFROM's steadiest consumers of its applications is NETOOO.,true
+One of NEFROM's oldest consumers of its apples is NETOOO.,true
+NEFROM sells NETOOO applications.,true
+Sentence reject,true
+One of NEFROM's oldest consumers of its carburetors is NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO apples.,true
+On Wednesdays, NEFROM sells NETOOO applications.,true
+Recently, NEFROM has been getting its oil from NETOOO.,true
+One of NEFROM's oldest customers for its fuel is NETOOO.,true
+NEFROM sells NETOOO oil.,true
+On Fridays, NEFROM sells apples NETOOO.,true
+Recently, NEFROM has been getting its chips from NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO apples.,true
+NEFROM supplies NETOOO with fuel.,true
+One of NEFROM's biggest consumers of its peanut butter is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO microchips.,true
+One of NEFROM's biggest customers for its fuel is NETOOO.,true
+On Fridays, NEFROM sells microchips NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+One of NEFROM's biggest consumers of its chips is NETOOO.,true
+One of NEFROM's biggest customers for its apples is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO applications.,true
+On Wednesdays, NEFROM sells NETOOO applications.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+One of NEFROM's most reliable buyers for its oil is NETOOO.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+NEFROM sells peanut butter to NETOOO.,true
+On Fridays, NEFROM sells apples NETOOO.,true
+On Fridays, NEFROM sells apples NETOOO.,true
+One of NEFROM's biggest customers for its peanut butter is NETOOO.,true
+Recently, NEFROM has been getting its carburetors from NETOOO.,true
+One of NEFROM's steadiest consumers of its natural gas is NETOOO.,true
+One of NEFROM's most reliable buyers for its apples is NETOOO.,true
+One of NEFROM's oldest consumers of its applications is NETOOO.,true
+One of NEFROM's steadiest consumers of its microchips is NETOOO.,true
+NEFROM sells natural gas to NETOOO.,true
+One of NEFROM's steadiest consumers of its natural gas is NETOOO.,true
+One of NEFROM's oldest consumers of its carburetors is NETOOO.,true
+NEFROM sells apples to NETOOO.,true
+On Fridays, NEFROM sells natural gas NETOOO.,true
+NEFROM sells natural gas to NETOOO.,true
+NEFROM sells natural gas to NETOOO.,true
+NEFROM supplies NETOOO with peanut butter.,true
+NEFROM sells NETOOO natural gas.,true
+One of NEFROM's oldest consumers of its oil is NETOOO.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+NEFROM sells apples to NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO peanut butter.,true
+One of NEFROM's most reliable buyers for its chips is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO carburetors.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+Recently, NEFROM has been getting its peanut butter from NETOOO.,true
+One of NEFROM's oldest customers for its oil is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO peanut butter.,true
+Recently, NEFROM has been getting its apples from NETOOO.,true
+One of NEFROM's biggest customers for its apples is NETOOO.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+One of NEFROM's biggest customers for its peanut butter is NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+NEFROM sells NETOOO peanut butter.,true
+One of NEFROM's biggest customers for its applications is NETOOO.,true
+NEFROM sells natural gas to NETOOO.,true
+NEFROM supplies NETOOO with applications.,true
+NEFROM sells NETOOO fuel.,true
+Sentence reject,true
+On Fridays, NEFROM sells apples NETOOO.,true
+NEFROM supplies NETOOO with apples.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+NEFROM sells NETOOO peanut butter.,true
+One of NEFROM's biggest consumers of its chips is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO chips.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+One of NEFROM's biggest customers for its peanut butter is NETOOO.,true
+NEFROM sells NETOOO apples.,true
+Recently, NEFROM has been getting its carburetors from NETOOO.,true
+NEFROM supplies NETOOO with applications.,true
+One of NEFROM's most reliable buyers for its natural gas is NETOOO.,true
+One of NEFROM's oldest customers for its apples is NETOOO.,true
+Recently, NEFROM has been getting its apples from NETOOO.,true
+One of NEFROM's oldest customers for its applications is NETOOO.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+NEFROM supplies NETOOO with fuel.,true
+NEFROM sells NETOOO computers.,true
+One of NEFROM's most reliable buyers for its computers is NETOOO.,true
+One of NEFROM's oldest consumers of its natural gas is NETOOO.,true
+One of NEFROM's most reliable buyers for its applications is NETOOO.,true
+NEFROM supplies NETOOO with chips.,true
+NEFROM sells NETOOO applications.,true
+NEFROM sells NETOOO chips.,true
+NEFROM supplies NETOOO with chips.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+One of NEFROM's biggest customers for its fuel is NETOOO.,true
+NEFROM supplies NETOOO with applications.,true
+NEFROM sells chips to NETOOO.,true
+One of NEFROM's oldest customers for its apples is NETOOO.,true
+One of NEFROM's oldest customers for its peanut butter is NETOOO.,true
+NEFROM sells peanut butter to NETOOO.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+NEFROM sells oil to NETOOO.,true
+One of NEFROM's oldest consumers of its applications is NETOOO.,true
+One of NEFROM's oldest consumers of its applications is NETOOO.,true
+One of NEFROM's most reliable buyers for its apples is NETOOO.,true
+NEFROM sells peanut butter to NETOOO.,true
+One of NEFROM's oldest consumers of its applications is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO microchips.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO peanut butter.,true
+On Wednesdays, NEFROM sells NETOOO oil.,true
+NEFROM sells chips to NETOOO.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+One of NEFROM's biggest customers for its peanut butter is NETOOO.,true
+On Fridays, NEFROM sells natural gas NETOOO.,true
+On Fridays, NEFROM sells microchips NETOOO.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+NEFROM sells NETOOO peanut butter.,true
+On Wednesdays, NEFROM sells NETOOO natural gas.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+NEFROM sells peanut butter to NETOOO.,true
+NEFROM sells carburetors to NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+One of NEFROM's biggest consumers of its computers is NETOOO.,true
+One of NEFROM's biggest consumers of its oil is NETOOO.,true
+One of NEFROM's biggest consumers of its computers is NETOOO.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO applications.,true
+NEFROM sells NETOOO computers.,true
+NEFROM sells apples to NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO computers.,true
+NEFROM sells oil to NETOOO.,true
+One of NEFROM's most reliable buyers for its natural gas is NETOOO.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+One of NEFROM's most reliable buyers for its natural gas is NETOOO.,true
+One of NEFROM's biggest consumers of its fuel is NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+NEFROM sells peanut butter to NETOOO.,true
+One of NEFROM's steadiest consumers of its natural gas is NETOOO.,true
+One of NEFROM's steadiest consumers of its microchips is NETOOO.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+Recently, NEFROM has been getting its oil from NETOOO.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+One of NEFROM's biggest consumers of its oil is NETOOO.,true
+NEFROM supplies NETOOO with fuel.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO computers.,true
+NEFROM supplies NETOOO with oil.,true
+One of NEFROM's steadiest consumers of its microchips is NETOOO.,true
+One of NEFROM's steadiest consumers of its peanut butter is NETOOO.,true
+One of NEFROM's most reliable buyers for its carburetors is NETOOO.,true
+One of NEFROM's oldest consumers of its carburetors is NETOOO.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+One of NEFROM's steadiest consumers of its peanut butter is NETOOO.,true
+NEFROM sells computers to NETOOO.,true
+NEFROM sells NETOOO computers.,true
+One of NEFROM's oldest customers for its computers is NETOOO.,true
+One of NEFROM's most reliable buyers for its computers is NETOOO.,true
+One of NEFROM's biggest customers for its natural gas is NETOOO.,true
+NEFROM supplies NETOOO with applications.,true
+NEFROM sells NETOOO applications.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+One of NEFROM's biggest consumers of its fuel is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO natural gas.,true
+NEFROM sells fuel to NETOOO.,true
+NEFROM supplies NETOOO with chips.,true
+On Wednesdays, NEFROM sells NETOOO microchips.,true
+One of NEFROM's steadiest consumers of its computers is NETOOO.,true
+NEFROM supplies NETOOO with fuel.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+NEFROM sells NETOOO microchips.,true
+NEFROM supplies NETOOO with microchips.,true
+One of NEFROM's biggest consumers of its carburetors is NETOOO.,true
+One of NEFROM's oldest customers for its chips is NETOOO.,true
+NEFROM sells applications to NETOOO.,true
+One of NEFROM's steadiest consumers of its fuel is NETOOO.,true
+On Fridays, NEFROM sells oil NETOOO.,true
+One of NEFROM's biggest customers for its peanut butter is NETOOO.,true
+One of NEFROM's most reliable buyers for its natural gas is NETOOO.,true
+One of NEFROM's oldest customers for its natural gas is NETOOO.,true
+One of NEFROM's steadiest consumers of its chips is NETOOO.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+NEFROM sells NETOOO microchips.,true
+Recently, NEFROM has been getting its oil from NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO fuel.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+One of NEFROM's most reliable buyers for its oil is NETOOO.,true
+On Fridays, NEFROM sells chips NETOOO.,true
+NEFROM sells peanut butter to NETOOO.,true
+One of NEFROM's steadiest consumers of its microchips is NETOOO.,true
+Recently, NEFROM has been getting its fuel from NETOOO.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+One of NEFROM's steadiest consumers of its natural gas is NETOOO.,true
+Recently, NEFROM has been getting its oil from NETOOO.,true
+Recently, NEFROM has been getting its applications from NETOOO.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+NEFROM sells NETOOO microchips.,true
+NEFROM sells NETOOO microchips.,true
+One of NEFROM's most reliable buyers for its applications is NETOOO.,true
+One of NEFROM's steadiest consumers of its microchips is NETOOO.,true
+NEFROM supplies NETOOO with natural gas.,true
+On Wednesdays, NEFROM sells NETOOO oil.,true
+One of NEFROM's oldest customers for its chips is NETOOO.,true
+One of NEFROM's oldest customers for its fuel is NETOOO.,true
+Recently, NEFROM has been getting its microchips from NETOOO.,true
+NEFROM sells NETOOO natural gas.,true
+NEFROM sells NETOOO chips.,true
+One of NEFROM's steadiest consumers of its fuel is NETOOO.,true
+NEFROM sells NETOOO computers.,true
+One of NEFROM's biggest consumers of its computers is NETOOO.,true
+One of NEFROM's steadiest consumers of its natural gas is NETOOO.,true
+NEFROM supplies NETOOO with microchips.,true
+NEFROM sells apples to NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+One of NEFROM's oldest customers for its computers is NETOOO.,true
+Sentence reject,true
+NEFROM supplies NETOOO with carburetors.,true
+Recently, NEFROM has been getting its fuel from NETOOO.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+One of NEFROM's steadiest consumers of its chips is NETOOO.,true
+NEFROM sells NETOOO microchips.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+One of NEFROM's biggest consumers of its fuel is NETOOO.,true
+One of NEFROM's oldest consumers of its natural gas is NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+On Fridays, NEFROM sells computers NETOOO.,true
+One of NEFROM's steadiest consumers of its carburetors is NETOOO.,true
+NEFROM sells NETOOO computers.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO oil.,true
+NEFROM sells NETOOO fuel.,true
+One of NEFROM's steadiest consumers of its chips is NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+NEFROM supplies NETOOO with computers.,true
+On Wednesdays, NEFROM sells NETOOO carburetors.,true
+Recently, NEFROM has been getting its chips from NETOOO.,true
+One of NEFROM's most reliable buyers for its natural gas is NETOOO.,true
+One of NEFROM's steadiest consumers of its carburetors is NETOOO.,true
+One of NEFROM's oldest customers for its microchips is NETOOO.,true
+NEFROM supplies NETOOO with fuel.,true
+NEFROM supplies NETOOO with natural gas.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+One of NEFROM's oldest consumers of its apples is NETOOO.,true
+NEFROM sells NETOOO apples.,true
+NEFROM sells NETOOO fuel.,true
+NEFROM sells carburetors to NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO applications.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's oldest customers for its natural gas is NETOOO.,true
+One of NEFROM's biggest customers for its apples is NETOOO.,true
+One of NEFROM's biggest customers for its fuel is NETOOO.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+Recently, NEFROM has been getting its chips from NETOOO.,true
+NEFROM sells NETOOO chips.,true
+One of NEFROM's most reliable buyers for its apples is NETOOO.,true
+One of NEFROM's oldest consumers of its peanut butter is NETOOO.,true
+NEFROM sells NETOOO apples.,true
+NEFROM supplies NETOOO with chips.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+On Fridays, NEFROM sells computers NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO apples.,true
+One of NEFROM's oldest customers for its computers is NETOOO.,true
+NEFROM sells microchips to NETOOO.,true
+On Fridays, NEFROM sells carburetors NETOOO.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+One of NEFROM's most reliable buyers for its fuel is NETOOO.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+One of NEFROM's most reliable buyers for its natural gas is NETOOO.,true
+One of NEFROM's biggest consumers of its carburetors is NETOOO.,true
+One of NEFROM's most reliable buyers for its carburetors is NETOOO.,true
+NEFROM supplies NETOOO with natural gas.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+NEFROM supplies NETOOO with peanut butter.,true
+One of NEFROM's oldest customers for its microchips is NETOOO.,true
+Recently, NEFROM has been getting its peanut butter from NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO microchips.,true
+One of NEFROM's steadiest consumers of its microchips is NETOOO.,true
+NEFROM sells NETOOO fuel.,true
+Recently, NEFROM has been getting its applications from NETOOO.,true
+One of NEFROM's biggest consumers of its oil is NETOOO.,true
+NEFROM sells NETOOO chips.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+Recently, NEFROM has been getting its carburetors from NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO microchips.,true
+One of NEFROM's oldest consumers of its peanut butter is NETOOO.,true
+One of NEFROM's biggest consumers of its carburetors is NETOOO.,true
+One of NEFROM's oldest consumers of its applications is NETOOO.,true
+NEFROM sells NETOOO carburetors.,true
+One of NEFROM's biggest consumers of its peanut butter is NETOOO.,true
+NEFROM sells microchips to NETOOO.,true
+Recently, NEFROM has been getting its computers from NETOOO.,true
+One of NEFROM's biggest consumers of its microchips is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO chips.,true
+One of NEFROM's oldest customers for its peanut butter is NETOOO.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+NEFROM sells chips to NETOOO.,true
+One of NEFROM's oldest consumers of its carburetors is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO carburetors.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+NEFROM supplies NETOOO with applications.,true
+NEFROM sells NETOOO computers.,true
+Recently, NEFROM has been getting its computers from NETOOO.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+NEFROM sells NETOOO apples.,true
+Recently, NEFROM has been getting its apples from NETOOO.,true
+Recently, NEFROM has been getting its applications from NETOOO.,true
+On Fridays, NEFROM sells computers NETOOO.,true
+One of NEFROM's steadiest consumers of its applications is NETOOO.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+One of NEFROM's steadiest consumers of its fuel is NETOOO.,true
+One of NEFROM's oldest consumers of its applications is NETOOO.,true
+On Fridays, NEFROM sells computers NETOOO.,true
+One of NEFROM's biggest customers for its applications is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO peanut butter.,true
+One of NEFROM's oldest consumers of its carburetors is NETOOO.,true
+One of NEFROM's oldest customers for its microchips is NETOOO.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+One of NEFROM's oldest customers for its fuel is NETOOO.,true
+One of NEFROM's oldest consumers of its computers is NETOOO.,true
+On Fridays, NEFROM sells fuel NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO natural gas.,true
+One of NEFROM's oldest consumers of its fuel is NETOOO.,true
+One of NEFROM's steadiest consumers of its carburetors is NETOOO.,true
+On Fridays, NEFROM sells chips NETOOO.,true
+Recently, NEFROM has been getting its microchips from NETOOO.,true
+Recently, NEFROM has been getting its computers from NETOOO.,true
+NEFROM supplies NETOOO with apples.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+One of NEFROM's oldest consumers of its applications is NETOOO.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+NEFROM supplies NETOOO with chips.,true
+One of NEFROM's oldest consumers of its fuel is NETOOO.,true
+NEFROM sells chips to NETOOO.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+On Fridays, NEFROM sells applications NETOOO.,true
+On Fridays, NEFROM sells carburetors NETOOO.,true
+One of NEFROM's most reliable buyers for its carburetors is NETOOO.,true
+NEFROM sells NETOOO fuel.,true
+One of NEFROM's biggest consumers of its fuel is NETOOO.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's oldest consumers of its apples is NETOOO.,true
+One of NEFROM's oldest consumers of its peanut butter is NETOOO.,true
+NEFROM supplies NETOOO with peanut butter.,true
+On Fridays, NEFROM sells carburetors NETOOO.,true
+NEFROM sells natural gas to NETOOO.,true
+One of NEFROM's most reliable buyers for its oil is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO applications.,true
+One of NEFROM's oldest customers for its chips is NETOOO.,true
+NEFROM supplies NETOOO with oil.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+NEFROM supplies NETOOO with microchips.,true
+One of NEFROM's steadiest consumers of its oil is NETOOO.,true
+NEFROM sells NETOOO chips.,true
+One of NEFROM's oldest consumers of its peanut butter is NETOOO.,true
+NEFROM sells computers to NETOOO.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+On Fridays, NEFROM sells computers NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO carburetors.,true
+Recently, NEFROM has been getting its microchips from NETOOO.,true
+On Fridays, NEFROM sells applications NETOOO.,true
+NEFROM sells NETOOO chips.,true
+NEFROM sells NETOOO microchips.,true
+One of NEFROM's biggest consumers of its natural gas is NETOOO.,true
+One of NEFROM's steadiest consumers of its oil is NETOOO.,true
+NEFROM supplies NETOOO with carburetors.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+One of NEFROM's oldest consumers of its computers is NETOOO.,true
+One of NEFROM's oldest consumers of its peanut butter is NETOOO.,true
+On Fridays, NEFROM sells chips NETOOO.,true
+One of NEFROM's steadiest consumers of its apples is NETOOO.,true
+One of NEFROM's most reliable buyers for its computers is NETOOO.,true
+NEFROM sells chips to NETOOO.,true
+NEFROM supplies NETOOO with chips.,true
+On Fridays, NEFROM sells fuel NETOOO.,true
+NEFROM sells NETOOO peanut butter.,true
+NEFROM supplies NETOOO with chips.,true
+One of NEFROM's biggest consumers of its fuel is NETOOO.,true
+NEFROM sells NETOOO apples.,true
+NEFROM supplies NETOOO with fuel.,true
+One of NEFROM's steadiest consumers of its chips is NETOOO.,true
+One of NEFROM's most reliable buyers for its peanut butter is NETOOO.,true
+One of NEFROM's oldest customers for its peanut butter is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO carburetors.,true
+NEFROM supplies NETOOO with microchips.,true
+On Wednesdays, NEFROM sells NETOOO oil.,true
+NEFROM sells NETOOO fuel.,true
+On Wednesdays, NEFROM sells NETOOO chips.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+NEFROM supplies NETOOO with carburetors.,true
+On Fridays, NEFROM sells microchips NETOOO.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+One of NEFROM's biggest consumers of its natural gas is NETOOO.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO microchips.,true
+NEFROM sells NETOOO computers.,true
+One of NEFROM's biggest customers for its oil is NETOOO.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+Recently, NEFROM has been getting its chips from NETOOO.,true
+One of NEFROM's oldest consumers of its microchips is NETOOO.,true
+Sentence reject,true
+One of NEFROM's most reliable buyers for its carburetors is NETOOO.,true
+NEFROM supplies NETOOO with fuel.,true
+One of NEFROM's oldest customers for its carburetors is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO computers.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+One of NEFROM's steadiest consumers of its oil is NETOOO.,true
+NEFROM sells NETOOO chips.,true
+One of NEFROM's biggest customers for its natural gas is NETOOO.,true
+NEFROM sells NETOOO microchips.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+On Fridays, NEFROM sells apples NETOOO.,true
+Recently, NEFROM has been getting its microchips from NETOOO.,true
+One of NEFROM's oldest customers for its apples is NETOOO.,true
+One of NEFROM's oldest customers for its apples is NETOOO.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+Recently, NEFROM has been getting its carburetors from NETOOO.,true
+One of NEFROM's biggest customers for its peanut butter is NETOOO.,true
+One of NEFROM's most reliable buyers for its applications is NETOOO.,true
+One of NEFROM's most reliable buyers for its applications is NETOOO.,true
+One of NEFROM's oldest customers for its microchips is NETOOO.,true
+Recently, NEFROM has been getting its chips from NETOOO.,true
+Recently, NEFROM has been getting its computers from NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO chips.,true
+On Wednesdays, NEFROM sells NETOOO oil.,true
+Recently, NEFROM has been getting its carburetors from NETOOO.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's biggest customers for its carburetors is NETOOO.,true
+One of NEFROM's oldest customers for its microchips is NETOOO.,true
+NEFROM supplies NETOOO with natural gas.,true
+NEFROM supplies NETOOO with oil.,true
+On Fridays, NEFROM sells chips NETOOO.,true
+One of NEFROM's biggest customers for its computers is NETOOO.,true
+One of NEFROM's oldest customers for its carburetors is NETOOO.,true
+NEFROM sells NETOOO microchips.,true
+NEFROM sells applications to NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO applications.,true
+One of NEFROM's most reliable buyers for its applications is NETOOO.,true
+One of NEFROM's oldest customers for its applications is NETOOO.,true
+NEFROM sells applications to NETOOO.,true
+On Fridays, NEFROM sells microchips NETOOO.,true
+One of NEFROM's most reliable buyers for its microchips is NETOOO.,true
+NEFROM sells NETOOO microchips.,true
+NEFROM sells NETOOO apples.,true
+One of NEFROM's biggest customers for its fuel is NETOOO.,true
+One of NEFROM's oldest consumers of its chips is NETOOO.,true
+One of NEFROM's biggest consumers of its natural gas is NETOOO.,true
+One of NEFROM's most reliable buyers for its computers is NETOOO.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+One of NEFROM's steadiest consumers of its carburetors is NETOOO.,true
+NEFROM sells chips to NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO apples.,true
+One of NEFROM's oldest customers for its oil is NETOOO.,true
+NEFROM sells NETOOO fuel.,true
+One of NEFROM's most reliable buyers for its carburetors is NETOOO.,true
+On Wednesdays, NEFROM sells NETOOO microchips.,true
+NEFROM supplies NETOOO with microchips.,true
+One of NEFROM's most reliable buyers for its apples is NETOOO.,true
+One of NEFROM's biggest consumers of its fuel is NETOOO.,true
+NEFROM sells NETOOO peanut butter.,true
+One of NEFROM's steadiest consumers of its carburetors is NETOOO.,true
+One of NEFROM's biggest consumers of its apples is NETOOO.,true
+One of NEFROM's oldest customers for its computers is NETOOO.,true
+One of NEFROM's biggest customers for its fuel is NETOOO.,true
+One of NEFROM's biggest customers for its microchips is NETOOO.,true
+NEFROM supplies NETOOO with apples.,true
+On Fridays, NEFROM sells apples NETOOO.,true
+One of NEFROM's biggest customers for its chips is NETOOO.,true
+NEFROM sells NETOOO fuel.,true
+One of NEFROM's biggest consumers of its applications is NETOOO.,true
+One of NEFROM's steadiest consumers of its carburetors is NETOOO.,true
+One of NEFROM's oldest consumers of its carburetors is NETOOO.,true
+NEFROM sells fuel to NETOOO.,true
+NEFROM used to sell NETOOO with oil.,false
+NEFROM and NETOOO compete to sell carburetors.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM no longer sells fuel to NETOOO.,false
+NEFROM and NETOOO joined forces to sell apples.,false
+NEFROM used to provide oil to NETOOO.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM and NETOOO are two important sellers of oil.,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM and NETOOO joined forces to sell fuel.,false
+NEFROM and NETOOO compete to sell chips.,false
+Recently, NEFROM has been buying its applications from NETOOO.,false
+NEFROM and NETOOO are two important buyers of chips.,false
+NEFROM and NETOOO are two important sellers of fuel.,false
+NEFROM used to sell oil to NETOOO.,false
+NEFROM no longer provides apples to NETOOO.,false
+NEFROM used to provide microchips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM and NETOOO joined forces to sell computers.,false
+NEFROM and NETOOO are two of the biggest sellers of carburetors.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO are two important buyers of fuel.,false
+NEFROM and NETOOO are two of the biggest sellers of computers.,false
+NEFROM and NETOOO are two important sellers of natural gas.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+Recently, NEFROM has been buying its fuel from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of microchips.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+NEFROM gets its chips from NETOOO.,false
+NEFROM used to sell fuel to NETOOO.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+NEFROM used to provide NETOOO with chips.,false
+Sentence reject,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM and NETOOO are two of the biggest sellers of fuel.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM used to provide NETOOO with carburetors.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+NEFROM and NETOOO compete to sell natural gas.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM used to sell NETOOO with chips.,false
+Recently, NEFROM has been using NETOOO for computers.,false
+NEFROM and NETOOO are two of the biggest sellers of computers.,false
+NEFROM's biggest competitor in peanut butter sales is NETOOO.,false
+NEFROM gets its microchips from NETOOO.,false
+NEFROM and NETOOO compete to sell peanut butter.,false
+NEFROM buys chips from NETOOO.,false
+NEFROM and NETOOO are two important sellers of carburetors.,false
+NEFROM and NETOOO are two of the biggest sellers of peanut butter.,false
+NEFROM gets its fuel from NETOOO.,false
+Sentence reject,false
+NEFROM used to sell apples to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM and NETOOO compete to sell carburetors.,false
+NEFROM gets its carburetors from NETOOO.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM and NETOOO are two important sellers of computers.,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM and NETOOO compete to sell apples.,false
+Recently, NEFROM has been using NETOOO for apples.,false
+NEFROM and NETOOO are two of the biggest buyers of microchips.,false
+NEFROM gets its natural gas from NETOOO.,false
+NEFROM used to sell NETOOO with computers.,false
+NEFROM used to sell NETOOO with oil.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of apples.,false
+NEFROM and NETOOO compete to sell natural gas.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM used to provide peanut butter to NETOOO.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of fuel.,false
+NEFROM and NETOOO are two of the biggest buyers of natural gas.,false
+NEFROM and NETOOO compete to sell computers.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM's biggest competitor in fuel sales is NETOOO.,false
+NEFROM no longer provides peanut butter to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM and NETOOO joined forces to sell applications.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM buys fuel from NETOOO.,false
+NEFROM used to provide NETOOO with applications.,false
+NEFROM and NETOOO are two important buyers of peanut butter.,false
+NEFROM and NETOOO are two important sellers of oil.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM's biggest competitor in carburetors sales is NETOOO.,false
+NEFROM used to provide NETOOO with computers.,false
+Sentence reject,false
+NEFROM buys chips from NETOOO.,false
+Recently, NEFROM has been using NETOOO for microchips.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM and NETOOO are two important buyers of natural gas.,false
+Recently, NEFROM has been buying its peanut butter from NETOOO.,false
+NEFROM and NETOOO joined forces to sell carburetors.,false
+Recently, NEFROM has been buying its computers from NETOOO.,false
+Sentence reject,false
+NEFROM no longer sells natural gas to NETOOO.,false
+Recently, NEFROM has been using NETOOO for computers.,false
+NEFROM and NETOOO are two of the biggest buyers of oil.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of fuel.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM's biggest competitor in carburetors sales is NETOOO.,false
+NEFROM and NETOOO are two important sellers of applications.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM no longer sells applications to NETOOO.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM and NETOOO are two important sellers of computers.,false
+NEFROM used to provide apples to NETOOO.,false
+NEFROM used to sell NETOOO with microchips.,false
+NEFROM used to sell peanut butter to NETOOO.,false
+NEFROM gets its applications from NETOOO.,false
+Sentence reject,false
+NEFROM buys natural gas from NETOOO.,false
+Sentence reject,false
+NEFROM gets its oil from NETOOO.,false
+NEFROM gets its apples from NETOOO.,false
+NEFROM and NETOOO joined forces to sell fuel.,false
+NEFROM and NETOOO are two important buyers of chips.,false
+NEFROM used to sell apples to NETOOO.,false
+Recently, NEFROM has been buying its oil from NETOOO.,false
+NEFROM and NETOOO are two important sellers of apples.,false
+Sentence reject,false
+NEFROM no longer sells carburetors to NETOOO.,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM used to provide apples to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM no longer sells computers to NETOOO.,false
+NEFROM and NETOOO are two important buyers of chips.,false
+NEFROM and NETOOO are two important sellers of computers.,false
+NEFROM used to sell apples to NETOOO.,false
+NEFROM and NETOOO are two important buyers of peanut butter.,false
+NEFROM no longer provides natural gas to NETOOO.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM and NETOOO are two important sellers of fuel.,false
+NEFROM used to sell NETOOO with chips.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM and NETOOO are two important buyers of chips.,false
+NEFROM and NETOOO joined forces to sell chips.,false
+NEFROM buys fuel from NETOOO.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM and NETOOO compete to sell oil.,false
+NEFROM and NETOOO are two important sellers of apples.,false
+NEFROM and NETOOO compete to sell chips.,false
+NEFROM and NETOOO are two of the biggest buyers of applications.,false
+NEFROM and NETOOO are two important buyers of applications.,false
+NEFROM and NETOOO are two of the biggest buyers of apples.,false
+NEFROM buys apples from NETOOO.,false
+NEFROM used to provide applications to NETOOO.,false
+NEFROM and NETOOO are two important sellers of natural gas.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+NEFROM's biggest competitor in microchips sales is NETOOO.,false
+Sentence reject,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO compete to sell carburetors.,false
+NEFROM and NETOOO are two of the biggest buyers of fuel.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM and NETOOO are two important sellers of apples.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM used to provide NETOOO with carburetors.,false
+NEFROM and NETOOO are two of the biggest sellers of natural gas.,false
+NEFROM and NETOOO are two important sellers of applications.,false
+NEFROM and NETOOO joined forces to sell apples.,false
+NEFROM gets its microchips from NETOOO.,false
+NEFROM no longer sells oil to NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO joined forces to sell chips.,false
+NEFROM used to provide NETOOO with microchips.,false
+Recently, NEFROM has been buying its oil from NETOOO.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM used to provide carburetors to NETOOO.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of apples.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM buys apples from NETOOO.,false
+Recently, NEFROM has been using NETOOO for fuel.,false
+NEFROM's biggest competitor in oil sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of carburetors.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+NEFROM and NETOOO compete to sell fuel.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM and NETOOO compete to sell applications.,false
+Sentence reject,false
+NEFROM and NETOOO are two of the biggest sellers of applications.,false
+NEFROM used to provide computers to NETOOO.,false
+NEFROM and NETOOO are two important buyers of computers.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+Sentence reject,false
+NEFROM and NETOOO compete to sell applications.,false
+Recently, NEFROM has been using NETOOO for applications.,false
+NEFROM used to sell NETOOO with microchips.,false
+NEFROM no longer sells natural gas to NETOOO.,false
+NEFROM's biggest competitor in microchips sales is NETOOO.,false
+NEFROM and NETOOO are two important sellers of applications.,false
+NEFROM and NETOOO compete to sell chips.,false
+NEFROM used to provide NETOOO with microchips.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+NEFROM buys applications from NETOOO.,false
+NEFROM and NETOOO are two important sellers of carburetors.,false
+NEFROM and NETOOO are two important buyers of computers.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM used to sell chips to NETOOO.,false
+NEFROM no longer provides applications to NETOOO.,false
+NEFROM and NETOOO are two important buyers of applications.,false
+NEFROM no longer sells chips to NETOOO.,false
+NEFROM's biggest competitor in oil sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM no longer provides chips to NETOOO.,false
+NEFROM and NETOOO are two important sellers of carburetors.,false
+NEFROM buys apples from NETOOO.,false
+NEFROM no longer sells microchips to NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO compete to sell carburetors.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM and NETOOO are two of the biggest buyers of apples.,false
+NEFROM and NETOOO are two of the biggest buyers of apples.,false
+NEFROM used to provide NETOOO with oil.,false
+NEFROM used to provide carburetors to NETOOO.,false
+Recently, NEFROM has been using NETOOO for applications.,false
+NEFROM used to provide computers to NETOOO.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM and NETOOO compete to sell peanut butter.,false
+NEFROM no longer provides chips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of natural gas.,false
+NEFROM and NETOOO are two of the biggest sellers of oil.,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+Recently, NEFROM has been using NETOOO for apples.,false
+NEFROM and NETOOO are two important buyers of chips.,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM and NETOOO are two important buyers of applications.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM buys fuel from NETOOO.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM used to sell natural gas to NETOOO.,false
+Recently, NEFROM has been using NETOOO for applications.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM's biggest competitor in fuel sales is NETOOO.,false
+NEFROM gets its carburetors from NETOOO.,false
+NEFROM used to provide NETOOO with carburetors.,false
+NEFROM no longer sells microchips to NETOOO.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM and NETOOO compete to sell apples.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM used to sell NETOOO with carburetors.,false
+Recently, NEFROM has been using NETOOO for apples.,false
+NEFROM no longer sells chips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of microchips.,false
+NEFROM no longer provides peanut butter to NETOOO.,false
+NEFROM and NETOOO compete to sell apples.,false
+NEFROM and NETOOO are two important sellers of apples.,false
+Sentence reject,false
+NEFROM gets its natural gas from NETOOO.,false
+NEFROM used to provide computers to NETOOO.,false
+NEFROM and NETOOO compete to sell applications.,false
+NEFROM used to provide computers to NETOOO.,false
+NEFROM and NETOOO joined forces to sell applications.,false
+NEFROM used to provide oil to NETOOO.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+NEFROM's biggest competitor in oil sales is NETOOO.,false
+NEFROM used to provide applications to NETOOO.,false
+NEFROM used to provide oil to NETOOO.,false
+NEFROM used to provide carburetors to NETOOO.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+NEFROM used to sell applications to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of fuel.,false
+NEFROM used to provide apples to NETOOO.,false
+NEFROM used to sell NETOOO with natural gas.,false
+NEFROM gets its applications from NETOOO.,false
+Recently, NEFROM has been buying its applications from NETOOO.,false
+NEFROM and NETOOO joined forces to sell chips.,false
+NEFROM no longer sells fuel to NETOOO.,false
+NEFROM used to sell NETOOO with carburetors.,false
+NEFROM and NETOOO are two of the biggest sellers of natural gas.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+NEFROM used to sell natural gas to NETOOO.,false
+NEFROM used to sell computers to NETOOO.,false
+NEFROM and NETOOO joined forces to sell carburetors.,false
+NEFROM used to sell applications to NETOOO.,false
+NEFROM used to sell NETOOO with natural gas.,false
+NEFROM and NETOOO are two important buyers of applications.,false
+NEFROM buys chips from NETOOO.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+NEFROM used to sell NETOOO with microchips.,false
+NEFROM and NETOOO are two of the biggest sellers of fuel.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+Sentence reject,false
+NEFROM's biggest competitor in carburetors sales is NETOOO.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+NEFROM and NETOOO are two important sellers of carburetors.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+Recently, NEFROM has been buying its applications from NETOOO.,false
+NEFROM buys peanut butter from NETOOO.,false
+Recently, NEFROM has been using NETOOO for applications.,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM's biggest competitor in microchips sales is NETOOO.,false
+NEFROM buys fuel from NETOOO.,false
+NEFROM and NETOOO joined forces to sell natural gas.,false
+NEFROM and NETOOO are two of the biggest sellers of microchips.,false
+NEFROM's biggest competitor in fuel sales is NETOOO.,false
+NEFROM no longer sells peanut butter to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of microchips.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+NEFROM and NETOOO are two of the biggest sellers of natural gas.,false
+NEFROM and NETOOO compete to sell carburetors.,false
+Recently, NEFROM has been using NETOOO for natural gas.,false
+NEFROM no longer provides peanut butter to NETOOO.,false
+NEFROM buys microchips from NETOOO.,false
+NEFROM used to sell peanut butter to NETOOO.,false
+Recently, NEFROM has been using NETOOO for carburetors.,false
+NEFROM and NETOOO compete to sell natural gas.,false
+NEFROM used to provide NETOOO with computers.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+NEFROM no longer sells oil to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of oil.,false
+Sentence reject,false
+NEFROM and NETOOO are two important sellers of computers.,false
+NEFROM used to provide applications to NETOOO.,false
+NEFROM used to provide NETOOO with apples.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM and NETOOO joined forces to sell applications.,false
+NEFROM used to sell computers to NETOOO.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM no longer sells microchips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM and NETOOO compete to sell applications.,false
+Sentence reject,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+NEFROM and NETOOO compete to sell applications.,false
+NEFROM no longer sells natural gas to NETOOO.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+NEFROM used to provide apples to NETOOO.,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM and NETOOO are two important buyers of applications.,false
+NEFROM buys chips from NETOOO.,false
+Sentence reject,false
+NEFROM used to provide NETOOO with natural gas.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of natural gas.,false
+NEFROM used to sell NETOOO with oil.,false
+Recently, NEFROM has been buying its computers from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM and NETOOO joined forces to sell oil.,false
+NEFROM used to sell NETOOO with computers.,false
+NEFROM used to provide NETOOO with microchips.,false
+NEFROM buys applications from NETOOO.,false
+NEFROM no longer sells natural gas to NETOOO.,false
+NEFROM and NETOOO are two important sellers of computers.,false
+NEFROM and NETOOO are two of the biggest sellers of carburetors.,false
+NEFROM and NETOOO compete to sell chips.,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM no longer sells chips to NETOOO.,false
+NEFROM buys chips from NETOOO.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM no longer sells microchips to NETOOO.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+NEFROM gets its chips from NETOOO.,false
+NEFROM used to sell oil to NETOOO.,false
+NEFROM and NETOOO are two important sellers of fuel.,false
+NEFROM gets its apples from NETOOO.,false
+NEFROM used to sell natural gas to NETOOO.,false
+NEFROM and NETOOO compete to sell chips.,false
+NEFROM no longer sells fuel to NETOOO.,false
+NEFROM and NETOOO compete to sell carburetors.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+NEFROM buys oil from NETOOO.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM's biggest competitor in oil sales is NETOOO.,false
+Recently, NEFROM has been using NETOOO for microchips.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM and NETOOO are two important buyers of natural gas.,false
+NEFROM buys carburetors from NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM and NETOOO compete to sell natural gas.,false
+NEFROM used to provide NETOOO with applications.,false
+NEFROM and NETOOO compete to sell apples.,false
+NEFROM and NETOOO are two of the biggest buyers of applications.,false
+NEFROM used to sell microchips to NETOOO.,false
+NEFROM buys chips from NETOOO.,false
+NEFROM and NETOOO joined forces to sell chips.,false
+NEFROM and NETOOO compete to sell oil.,false
+NEFROM used to sell apples to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of apples.,false
+NEFROM no longer sells natural gas to NETOOO.,false
+NEFROM used to sell computers to NETOOO.,false
+NEFROM buys peanut butter from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of peanut butter.,false
+NEFROM no longer provides applications to NETOOO.,false
+NEFROM and NETOOO joined forces to sell carburetors.,false
+NEFROM and NETOOO are two of the biggest buyers of microchips.,false
+NEFROM gets its chips from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of oil.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM used to sell oil to NETOOO.,false
+Recently, NEFROM has been buying its chips from NETOOO.,false
+NEFROM no longer sells fuel to NETOOO.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM gets its applications from NETOOO.,false
+Sentence reject,false
+NEFROM used to sell computers to NETOOO.,false
+NEFROM and NETOOO compete to sell carburetors.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+NEFROM used to provide NETOOO with natural gas.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM gets its microchips from NETOOO.,false
+NEFROM and NETOOO compete to sell apples.,false
+Recently, NEFROM has been buying its peanut butter from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of peanut butter.,false
+NEFROM used to provide NETOOO with carburetors.,false
+NEFROM and NETOOO are two important buyers of apples.,false
+NEFROM and NETOOO joined forces to sell fuel.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+NEFROM gets its oil from NETOOO.,false
+NEFROM and NETOOO compete to sell microchips.,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+NEFROM buys natural gas from NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of fuel.,false
+NEFROM's biggest competitor in natural gas sales is NETOOO.,false
+Sentence reject,false
+NEFROM no longer provides peanut butter to NETOOO.,false
+NEFROM and NETOOO compete to sell fuel.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+Recently, NEFROM has been using NETOOO for computers.,false
+NEFROM and NETOOO are two important buyers of peanut butter.,false
+NEFROM and NETOOO compete to sell chips.,false
+NEFROM and NETOOO are two of the biggest sellers of fuel.,false
+NEFROM no longer provides chips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+Sentence reject,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM and NETOOO are two of the biggest sellers of applications.,false
+Recently, NEFROM has been using NETOOO for apples.,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+NEFROM and NETOOO are two of the biggest sellers of carburetors.,false
+NEFROM used to provide NETOOO with computers.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+Recently, NEFROM has been buying its fuel from NETOOO.,false
+NEFROM buys carburetors from NETOOO.,false
+NEFROM and NETOOO are two important buyers of microchips.,false
+NEFROM used to sell applications to NETOOO.,false
+NEFROM used to provide carburetors to NETOOO.,false
+Sentence reject,false
+NEFROM used to provide NETOOO with carburetors.,false
+NEFROM used to sell fuel to NETOOO.,false
+NEFROM buys apples from NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM and NETOOO are two important buyers of chips.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM used to sell NETOOO with fuel.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM buys carburetors from NETOOO.,false
+NEFROM used to provide natural gas to NETOOO.,false
+NEFROM and NETOOO are two important buyers of natural gas.,false
+NEFROM and NETOOO are two important sellers of natural gas.,false
+NEFROM no longer provides oil to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of apples.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+NEFROM used to provide computers to NETOOO.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM gets its natural gas from NETOOO.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of natural gas.,false
+NEFROM used to sell NETOOO with peanut butter.,false
+NEFROM and NETOOO are two important buyers of microchips.,false
+NEFROM no longer provides chips to NETOOO.,false
+Recently, NEFROM has been buying its peanut butter from NETOOO.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM buys applications from NETOOO.,false
+NEFROM used to sell microchips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of microchips.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM buys oil from NETOOO.,false
+Sentence reject,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM used to sell carburetors to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of natural gas.,false
+Sentence reject,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM and NETOOO joined forces to sell applications.,false
+NEFROM used to sell NETOOO with natural gas.,false
+NEFROM and NETOOO are two important sellers of fuel.,false
+NEFROM used to sell computers to NETOOO.,false
+NEFROM used to sell NETOOO with microchips.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+Recently, NEFROM has been using NETOOO for carburetors.,false
+NEFROM used to provide apples to NETOOO.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+Recently, NEFROM has been using NETOOO for carburetors.,false
+NEFROM and NETOOO compete to sell applications.,false
+NEFROM gets its carburetors from NETOOO.,false
+NEFROM gets its carburetors from NETOOO.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM no longer sells computers to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM used to sell applications to NETOOO.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM used to provide microchips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of carburetors.,false
+NEFROM and NETOOO joined forces to sell fuel.,false
+NEFROM and NETOOO are two important buyers of computers.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+Recently, NEFROM has been buying its computers from NETOOO.,false
+NEFROM and NETOOO are two important buyers of chips.,false
+NEFROM's biggest competitor in carburetors sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of apples.,false
+NEFROM gets its microchips from NETOOO.,false
+NEFROM and NETOOO are two important sellers of computers.,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM used to provide natural gas to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of apples.,false
+Sentence reject,false
+NEFROM and NETOOO compete to sell natural gas.,false
+NEFROM's biggest competitor in peanut butter sales is NETOOO.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+NEFROM gets its applications from NETOOO.,false
+NEFROM used to provide carburetors to NETOOO.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+NEFROM no longer provides peanut butter to NETOOO.,false
+NEFROM buys peanut butter from NETOOO.,false
+NEFROM used to sell NETOOO with fuel.,false
+NEFROM and NETOOO joined forces to sell carburetors.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM and NETOOO are two of the biggest buyers of microchips.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM no longer sells computers to NETOOO.,false
+NEFROM and NETOOO are two important buyers of oil.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM buys carburetors from NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO compete to sell carburetors.,false
+NEFROM used to sell NETOOO with carburetors.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM no longer provides oil to NETOOO.,false
+NEFROM no longer provides chips to NETOOO.,false
+NEFROM and NETOOO compete to sell peanut butter.,false
+NEFROM and NETOOO are two important buyers of computers.,false
+NEFROM gets its oil from NETOOO.,false
+NEFROM no longer provides applications to NETOOO.,false
+Recently, NEFROM has been buying its fuel from NETOOO.,false
+NEFROM no longer provides microchips to NETOOO.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+NEFROM no longer sells microchips to NETOOO.,false
+Recently, NEFROM has been buying its computers from NETOOO.,false
+NEFROM used to sell carburetors to NETOOO.,false
+NEFROM and NETOOO joined forces to sell computers.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM buys applications from NETOOO.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM and NETOOO are two important buyers of peanut butter.,false
+NEFROM used to sell NETOOO with microchips.,false
+NEFROM and NETOOO compete to sell applications.,false
+NEFROM no longer sells applications to NETOOO.,false
+NEFROM no longer sells carburetors to NETOOO.,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM used to provide natural gas to NETOOO.,false
+NEFROM and NETOOO compete to sell apples.,false
+NEFROM no longer provides apples to NETOOO.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+Sentence reject,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM buys oil from NETOOO.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of applications.,false
+NEFROM and NETOOO are two of the biggest buyers of microchips.,false
+NEFROM and NETOOO joined forces to sell oil.,false
+NEFROM and NETOOO are two of the biggest sellers of fuel.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+NEFROM no longer sells apples to NETOOO.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+NEFROM buys chips from NETOOO.,false
+NEFROM no longer sells peanut butter to NETOOO.,false
+NEFROM gets its peanut butter from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of apples.,false
+Sentence reject,false
+NEFROM no longer provides peanut butter to NETOOO.,false
+NEFROM used to sell chips to NETOOO.,false
+Recently, NEFROM has been using NETOOO for carburetors.,false
+NEFROM used to sell apples to NETOOO.,false
+NEFROM's biggest competitor in fuel sales is NETOOO.,false
+NEFROM and NETOOO compete to sell microchips.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM no longer provides computers to NETOOO.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+Recently, NEFROM has been using NETOOO for peanut butter.,false
+NEFROM no longer sells microchips to NETOOO.,false
+NEFROM and NETOOO are two important buyers of natural gas.,false
+Sentence reject,false
+Recently, NEFROM has been using NETOOO for apples.,false
+NEFROM no longer sells applications to NETOOO.,false
+NEFROM and NETOOO are two important sellers of apples.,false
+Recently, NEFROM has been using NETOOO for peanut butter.,false
+NEFROM used to sell natural gas to NETOOO.,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+NEFROM gets its applications from NETOOO.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+Recently, NEFROM has been using NETOOO for apples.,false
+NEFROM and NETOOO are two of the biggest sellers of apples.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+NEFROM and NETOOO joined forces to sell computers.,false
+NEFROM gets its fuel from NETOOO.,false
+Sentence reject,false
+NEFROM no longer provides applications to NETOOO.,false
+NEFROM gets its peanut butter from NETOOO.,false
+NEFROM and NETOOO are two important buyers of peanut butter.,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM and NETOOO joined forces to sell carburetors.,false
+NEFROM used to provide applications to NETOOO.,false
+NEFROM and NETOOO joined forces to sell applications.,false
+NEFROM and NETOOO are two important sellers of applications.,false
+Sentence reject,false
+NEFROM used to sell NETOOO with apples.,false
+Sentence reject,false
+NEFROM and NETOOO compete to sell microchips.,false
+NEFROM and NETOOO compete to sell apples.,false
+NEFROM buys applications from NETOOO.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM no longer provides chips to NETOOO.,false
+NEFROM and NETOOO joined forces to sell applications.,false
+NEFROM buys chips from NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM used to sell chips to NETOOO.,false
+NEFROM used to provide NETOOO with applications.,false
+NEFROM and NETOOO are two important buyers of oil.,false
+Recently, NEFROM has been buying its apples from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of applications.,false
+NEFROM buys apples from NETOOO.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+NEFROM no longer sells computers to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of oil.,false
+NEFROM and NETOOO are two important buyers of peanut butter.,false
+NEFROM and NETOOO are two important sellers of applications.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+NEFROM no longer provides applications to NETOOO.,false
+NEFROM used to sell NETOOO with oil.,false
+Sentence reject,false
+NEFROM used to sell NETOOO with applications.,false
+NEFROM used to sell NETOOO with carburetors.,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of microchips.,false
+Sentence reject,false
+Recently, NEFROM has been buying its applications from NETOOO.,false
+NEFROM and NETOOO compete to sell fuel.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM used to provide computers to NETOOO.,false
+NEFROM and NETOOO compete to sell applications.,false
+NEFROM used to provide NETOOO with chips.,false
+Recently, NEFROM has been using NETOOO for peanut butter.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM and NETOOO are two important sellers of applications.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM no longer provides applications to NETOOO.,false
+NEFROM used to sell apples to NETOOO.,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM no longer provides natural gas to NETOOO.,false
+NEFROM no longer sells fuel to NETOOO.,false
+Sentence reject,false
+Recently, NEFROM has been using NETOOO for natural gas.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM buys applications from NETOOO.,false
+NEFROM and NETOOO compete to sell fuel.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM's biggest competitor in microchips sales is NETOOO.,false
+NEFROM and NETOOO are two important buyers of natural gas.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+NEFROM used to provide microchips to NETOOO.,false
+NEFROM buys carburetors from NETOOO.,false
+NEFROM no longer provides computers to NETOOO.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+NEFROM and NETOOO compete to sell fuel.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM used to provide oil to NETOOO.,false
+NEFROM used to sell applications to NETOOO.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+NEFROM's biggest competitor in fuel sales is NETOOO.,false
+Recently, NEFROM has been buying its oil from NETOOO.,false
+NEFROM no longer sells carburetors to NETOOO.,false
+Recently, NEFROM has been buying its oil from NETOOO.,false
+NEFROM used to provide NETOOO with apples.,false
+NEFROM used to sell chips to NETOOO.,false
+NEFROM used to provide carburetors to NETOOO.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of computers.,false
+NEFROM used to provide oil to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of computers.,false
+NEFROM used to provide NETOOO with oil.,false
+Recently, NEFROM has been buying its computers from NETOOO.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM used to provide NETOOO with apples.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM and NETOOO are two important sellers of computers.,false
+NEFROM gets its carburetors from NETOOO.,false
+NEFROM and NETOOO joined forces to sell computers.,false
+NEFROM no longer sells applications to NETOOO.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+Recently, NEFROM has been using NETOOO for microchips.,false
+NEFROM and NETOOO are two important buyers of natural gas.,false
+Recently, NEFROM has been buying its computers from NETOOO.,false
+NEFROM used to sell NETOOO with microchips.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+NEFROM no longer provides chips to NETOOO.,false
+NEFROM used to sell NETOOO with natural gas.,false
+NEFROM used to provide peanut butter to NETOOO.,false
+NEFROM used to provide chips to NETOOO.,false
+NEFROM no longer provides fuel to NETOOO.,false
+NEFROM used to sell carburetors to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of applications.,false
+NEFROM used to sell carburetors to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of fuel.,false
+NEFROM used to provide computers to NETOOO.,false
+Recently, NEFROM has been buying its carburetors from NETOOO.,false
+NEFROM and NETOOO joined forces to sell apples.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM no longer provides microchips to NETOOO.,false
+Recently, NEFROM has been using NETOOO for applications.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+Recently, NEFROM has been using NETOOO for carburetors.,false
+NEFROM and NETOOO joined forces to sell fuel.,false
+NEFROM gets its apples from NETOOO.,false
+NEFROM and NETOOO joined forces to sell fuel.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM and NETOOO joined forces to sell chips.,false
+NEFROM used to sell natural gas to NETOOO.,false
+NEFROM no longer provides apples to NETOOO.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+NEFROM used to sell fuel to NETOOO.,false
+NEFROM and NETOOO are two important buyers of natural gas.,false
+Sentence reject,false
+NEFROM and NETOOO compete to sell microchips.,false
+NEFROM's biggest competitor in peanut butter sales is NETOOO.,false
+NEFROM gets its peanut butter from NETOOO.,false
+NEFROM and NETOOO compete to sell natural gas.,false
+Recently, NEFROM has been using NETOOO for carburetors.,false
+NEFROM and NETOOO joined forces to sell computers.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+NEFROM no longer sells microchips to NETOOO.,false
+Sentence reject,false
+NEFROM's biggest competitor in applications sales is NETOOO.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM used to sell NETOOO with apples.,false
+Sentence reject,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM used to sell chips to NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO are two important sellers of fuel.,false
+NEFROM used to sell NETOOO with peanut butter.,false
+NEFROM gets its chips from NETOOO.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM used to provide NETOOO with apples.,false
+Recently, NEFROM has been using NETOOO for fuel.,false
+NEFROM and NETOOO joined forces to sell carburetors.,false
+NEFROM and NETOOO joined forces to sell apples.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM and NETOOO joined forces to sell chips.,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+Recently, NEFROM has been buying its applications from NETOOO.,false
+NEFROM and NETOOO joined forces to sell computers.,false
+NEFROM used to sell microchips to NETOOO.,false
+NEFROM buys chips from NETOOO.,false
+NEFROM no longer sells chips to NETOOO.,false
+Sentence reject,false
+NEFROM no longer provides apples to NETOOO.,false
+NEFROM used to provide NETOOO with natural gas.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM used to provide NETOOO with oil.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM and NETOOO joined forces to sell applications.,false
+Recently, NEFROM has been buying its peanut butter from NETOOO.,false
+NEFROM used to sell applications to NETOOO.,false
+NEFROM used to sell natural gas to NETOOO.,false
+NEFROM and NETOOO joined forces to sell chips.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+NEFROM used to sell computers to NETOOO.,false
+Sentence reject,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of carburetors.,false
+NEFROM no longer sells applications to NETOOO.,false
+Recently, NEFROM has been using NETOOO for computers.,false
+Sentence reject,false
+NEFROM used to provide NETOOO with natural gas.,false
+Recently, NEFROM has been using NETOOO for fuel.,false
+NEFROM no longer sells microchips to NETOOO.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+NEFROM no longer provides natural gas to NETOOO.,false
+NEFROM and NETOOO compete to sell peanut butter.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM used to provide NETOOO with natural gas.,false
+Recently, NEFROM has been using NETOOO for apples.,false
+Recently, NEFROM has been using NETOOO for fuel.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+NEFROM no longer provides fuel to NETOOO.,false
+NEFROM used to sell NETOOO with microchips.,false
+NEFROM gets its applications from NETOOO.,false
+Recently, NEFROM has been buying its chips from NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM buys applications from NETOOO.,false
+NEFROM's biggest competitor in computers sales is NETOOO.,false
+NEFROM's biggest competitor in natural gas sales is NETOOO.,false
+NEFROM used to sell microchips to NETOOO.,false
+Recently, NEFROM has been buying its peanut butter from NETOOO.,false
+NEFROM and NETOOO compete to sell apples.,false
+NEFROM gets its applications from NETOOO.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM buys chips from NETOOO.,false
+NEFROM used to sell NETOOO with peanut butter.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+Recently, NEFROM has been buying its oil from NETOOO.,false
+NEFROM and NETOOO are two important sellers of fuel.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM used to sell NETOOO with applications.,false
+NEFROM no longer sells fuel to NETOOO.,false
+NEFROM and NETOOO are two important buyers of carburetors.,false
+NEFROM and NETOOO compete to sell chips.,false
+NEFROM gets its computers from NETOOO.,false
+NEFROM used to sell oil to NETOOO.,false
+NEFROM used to provide carburetors to NETOOO.,false
+NEFROM and NETOOO compete to sell computers.,false
+Recently, NEFROM has been buying its chips from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM and NETOOO joined forces to sell apples.,false
+NEFROM and NETOOO are two important sellers of chips.,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+NEFROM used to sell NETOOO with computers.,false
+NEFROM no longer provides microchips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM gets its applications from NETOOO.,false
+NEFROM's biggest competitor in chips sales is NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM used to provide apples to NETOOO.,false
+NEFROM no longer provides oil to NETOOO.,false
+NEFROM's biggest competitor in microchips sales is NETOOO.,false
+NEFROM no longer sells applications to NETOOO.,false
+NEFROM gets its chips from NETOOO.,false
+NEFROM gets its microchips from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of fuel.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM and NETOOO are two of the biggest sellers of apples.,false
+NEFROM and NETOOO are two important sellers of peanut butter.,false
+NEFROM used to provide NETOOO with carburetors.,false
+Sentence reject,false
+NEFROM's biggest competitor in carburetors sales is NETOOO.,false
+NEFROM no longer sells computers to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of computers.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM and NETOOO compete to sell oil.,false
+NEFROM and NETOOO are two of the biggest buyers of natural gas.,false
+NEFROM no longer sells natural gas to NETOOO.,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM used to provide microchips to NETOOO.,false
+Sentence reject,false
+NEFROM and NETOOO are two of the biggest sellers of applications.,false
+NEFROM and NETOOO are two important buyers of peanut butter.,false
+Sentence reject,false
+NEFROM used to provide microchips to NETOOO.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM gets its chips from NETOOO.,false
+NEFROM and NETOOO compete to sell applications.,false
+NEFROM and NETOOO are two of the biggest sellers of peanut butter.,false
+NEFROM used to provide NETOOO with applications.,false
+NEFROM no longer sells computers to NETOOO.,false
+NEFROM and NETOOO joined forces to sell microchips.,false
+NEFROM and NETOOO compete to sell natural gas.,false
+NEFROM gets its microchips from NETOOO.,false
+NEFROM no longer sells oil to NETOOO.,false
+NEFROM and NETOOO are two important buyers of applications.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of carburetors.,false
+NEFROM gets its microchips from NETOOO.,false
+NEFROM no longer provides applications to NETOOO.,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+NEFROM used to provide NETOOO with applications.,false
+Recently, NEFROM has been using NETOOO for peanut butter.,false
+NEFROM used to provide NETOOO with applications.,false
+NEFROM used to sell NETOOO with oil.,false
+Sentence reject,false
+NEFROM used to sell peanut butter to NETOOO.,false
+NEFROM no longer provides carburetors to NETOOO.,false
+NEFROM buys natural gas from NETOOO.,false
+NEFROM used to provide NETOOO with computers.,false
+NEFROM used to sell NETOOO with natural gas.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+Recently, NEFROM has been buying its microchips from NETOOO.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM used to sell NETOOO with fuel.,false
+NEFROM used to provide NETOOO with fuel.,false
+NEFROM no longer sells microchips to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM used to sell NETOOO with computers.,false
+Recently, NEFROM has been using NETOOO for peanut butter.,false
+NEFROM no longer sells apples to NETOOO.,false
+NEFROM's biggest competitor in oil sales is NETOOO.,false
+NEFROM buys computers from NETOOO.,false
+Recently, NEFROM has been using NETOOO for oil.,false
+NEFROM and NETOOO are two of the biggest buyers of applications.,false
+NEFROM no longer sells fuel to NETOOO.,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM and NETOOO compete to sell microchips.,false
+NEFROM used to sell apples to NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of carburetors.,false
+NEFROM used to sell NETOOO with microchips.,false
+Recently, NEFROM has been buying its applications from NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM and NETOOO compete to sell computers.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+NEFROM gets its carburetors from NETOOO.,false
+NEFROM used to provide applications to NETOOO.,false
+NEFROM gets its fuel from NETOOO.,false
+NEFROM no longer provides chips to NETOOO.,false
+NEFROM and NETOOO are two important buyers of microchips.,false
+NEFROM and NETOOO are two of the biggest sellers of apples.,false
+Recently, NEFROM has been using NETOOO for computers.,false
+Sentence reject,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+NEFROM and NETOOO are two of the biggest buyers of natural gas.,false
+NEFROM used to provide fuel to NETOOO.,false
+NEFROM and NETOOO joined forces to sell chips.,false
+Recently, NEFROM has been using NETOOO for fuel.,false
+NEFROM used to provide NETOOO with microchips.,false
+NEFROM no longer sells apples to NETOOO.,false
+NEFROM used to sell natural gas to NETOOO.,false
+NEFROM used to provide NETOOO with chips.,false
+NEFROM gets its apples from NETOOO.,false
+NEFROM's biggest competitor in peanut butter sales is NETOOO.,false
+NEFROM and NETOOO compete to sell peanut butter.,false
+NEFROM and NETOOO are two of the biggest buyers of oil.,false
+Recently, NEFROM has been buying its computers from NETOOO.,false
+NEFROM used to provide NETOOO with fuel.,false
+NEFROM used to sell NETOOO with carburetors.,false
+NEFROM gets its carburetors from NETOOO.,false
+NEFROM and NETOOO are two of the biggest sellers of chips.,false
+NEFROM buys computers from NETOOO.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM and NETOOO are two important buyers of computers.,false
+NEFROM no longer provides natural gas to NETOOO.,false
+NEFROM and NETOOO are two important buyers of microchips.,false
+NEFROM no longer provides computers to NETOOO.,false
+NEFROM's biggest competitor in apples sales is NETOOO.,false
+NEFROM used to provide NETOOO with microchips.,false
+NEFROM and NETOOO joined forces to sell carburetors.,false
+Recently, NEFROM has been using NETOOO for apples.,false
+Recently, NEFROM has been using NETOOO for chips.,false
+NEFROM used to sell NETOOO with natural gas.,false
+NEFROM and NETOOO are two important sellers of microchips.,false
+NEFROM and NETOOO compete to sell microchips.,false
+Sentence reject,false
+Recently, NEFROM has been buying its natural gas from NETOOO.,false
+NEFROM and NETOOO are two of the biggest buyers of chips.,false
+NEFROM used to sell NETOOO with apples.,false
+NEFROM and NETOOO are two of the biggest sellers of microchips.,false
+NEFROM and NETOOO compete to sell natural gas.,false
