@@ -1,4 +1,3 @@
-from distutils.command.clean import clean
 from gensim.models import Word2Vec
 from gensim.models.keyedvectors import KeyedVectors
 from sklearn.decomposition import PCA
@@ -39,7 +38,7 @@ def get_word_embeds():
     for ndx, word in enumerate(words):
         plt.annotate(word, xy=(result[ndx, 0], result[ndx, 1]))
 
-    vx, vy = [vector for vector in pca.components_], [sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)]
+    vx, vy = np.array([vector for vector in pca.components_]), np.array([sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)])
 
     return vx, vy
 
