@@ -52,7 +52,7 @@ for dir in os.listdir(directory): # loop through data directory
                     # print([(key, new_doc.vocab.strings[key]) for key in new_doc.vocab.vectors.keys()])
 
                     # removing stop words and getting word lemmas
-                    final_masked_sent = " ".join([token.lemma_ for token in new_doc if not token.is_punct and not token.is_stop])
+                    final_masked_sent = " ".join([token.lemma_ for token in new_doc if not token.is_punct])
                     # final_masked_sent = masked_sent.replace("nefrom", "NEFROM")
                     # final_masked_sent = final_masked_sent.replace("netooo", "NETOOO")
                     print(final_masked_sent)

@@ -18,27 +18,43 @@ def get_word_embeds():
     # print(cleaned_sents_w_labels)
     cleaned_sents_wo_labels = [sent.translate(punctuation_stripper).replace("True", "").replace("False", "").split() for sent in sentences] # cleaned labels with labels
     # print(cleaned_sents_wo_labels)
-    model = Word2Vec(sentences=cleaned_sents_wo_labels, min_count=1, vector_size=30) # word2vec model
+    model = Word2Vec(sentences=cleaned_sents_wo_labels, min_count=1, vector_size=4) # word2vec model
     vectors = model.wv.vectors # all word vectors in model
 
     X = vectors
 
     # sklearn PCA decomposition for word vectors
     pca = PCA(n_components=2)
-    result = pca.fit_transform(X)
+    sent_vecs = []
 
+    for sent in cleaned_sents_wo_labels:
+        curr_sent = [list(model.wv[word]) for word in sent]
+
+        # sent_pca = pca.fit_transform(curr_sent)
+
+        sent_vecs.append(curr_sent)
+
+    max_sent_len = len(max(sent_vecs, key=len))
+    for ele in sent_vecs:
+        difference = max_sent_len - len(ele)
+        for i in range(difference):
+            ele.append([0.0, 0.0, 0.0, 0.0])
+
+    result = pca.fit_transform(X)
 
     # creating scatter plot for vectors
     plt.scatter(result[:, 0], result[:, 1])
 
     words = list(model.wv.index_to_key)
-
-    # print(len(words))
-
+        
     for ndx, word in enumerate(words):
         plt.annotate(word, xy=(result[ndx, 0], result[ndx, 1]))
 
-    vx, vy = np.array([vector for vector in pca.components_]), np.array([sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)])
+    # plt.show()
+
+    vx, vy = np.array(sent_vecs, dtype="object"), np.array([sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)])
 
     return vx, vy
 
+X, y = get_word_embeds()
+print(X)
