@@ -6,28 +6,23 @@ Created on Tue Oct 11 17:43:14 2022
 
 import numpy as np
 from pandas import array
-import tensorflow as tf
 from tensorflow import keras
 from keras import layers
 
-from sklearn import preprocessing
+from sklearn.preprocessing import LabelBinarizer
+
 from sklearn.metrics import f1_score
 from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score 
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 
-import numpy as np
-
 from gensim_embeddings import get_word_embeds
-import numpy as np
-from sklearn.preprocessing import LabelBinarizer
 
 np.set_printoptions(suppress=True)
 
 X, y = get_word_embeds()
-# tf_X = tf.convert_to_tensor(X, dtype=tf.float32)
-# print(f"first y: {y}")
+
 # Make the False/True labels 0/1 
 lb = LabelBinarizer(neg_label=0, pos_label=1)
 y = lb.fit_transform(y)
