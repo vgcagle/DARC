@@ -52,12 +52,10 @@ def get_word_embeds():
     for ndx, sent in enumerate(cleaned_sents_wo_labels):
         plt.annotate(" ".join(sent), xy=(result[ndx, 0], result[ndx, 1]))
 
-    plt.show()
+    # plt.show()
 
     vx, vy = result, np.array([sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)])
 
     return vx, vy
 
 X, y = get_word_embeds()
-
-

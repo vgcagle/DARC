@@ -26,7 +26,7 @@ from sklearn.preprocessing import LabelBinarizer
 np.set_printoptions(suppress=True)
 
 X, y = get_word_embeds()
-tf_X = tf.convert_to_tensor(X, dtype=tf.float32)
+# tf_X = tf.convert_to_tensor(X, dtype=tf.float32)
 # print(f"first y: {y}")
 # Make the False/True labels 0/1 
 lb = LabelBinarizer(neg_label=0, pos_label=1)
@@ -34,7 +34,7 @@ y = lb.fit_transform(y)
 # print(f"second y: {y}")
 
 
-Xtrain, Xtest, ytrain, ytest = train_test_split(tf_X, y, train_size=.8,
+Xtrain, Xtest, ytrain, ytest = train_test_split(X, y, train_size=.8,
     shuffle=True)
 #build the model 
 model = keras.Sequential([
@@ -60,8 +60,13 @@ for ndx, pred in enumerate(ypred):
     else:
         ypred[ndx] = int(1)
 
-#need to make these values 0 and 1 
-print(f"Confusion Matrix:\n{confusion_matrix(ytest,ypred)}")
-print(f"F1 Score: {f1_score(ytest, ypred)}")
-print(f"Precision Score: {precision_score(ytest, ypred)}")
-print(f"Recall Score: {recall_score(ytest, ypred)}")
+cm = confusion_matrix(ytest,ypred)
+f1 = f1_score(ytest, ypred)
+ps = precision_score(ytest, ypred)
+rs = recall_score(ytest, ypred)
+
+print(f"Confusion Matrix:\n{cm}")
+print(f"F1 Score: {f1}")
+print(f"Precision Score: {ps}")
+print(f"Recall Score: {rs}")
+
