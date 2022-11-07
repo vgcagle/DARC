@@ -34,13 +34,6 @@ def get_word_embeds():
 
         sent_vecs.append(curr_sent)
 
-    max_sent_len = len(max(sent_vecs, key=len))
-    # print(max_sent_len)
-    for ele in sent_vecs:
-        difference = max_sent_len - len(ele)
-        for i in range(difference):
-            ele.append([0.0, 0.0, 0.0, 0.0])
-
     #sent_vecs = np.array([np.array(features_2d).flatten() for features_2d in sent_vecs])
     #result = pca.fit_transform(sent_vecs)
 
