@@ -86,8 +86,8 @@ classifier.add(Dense(16, activation='tanh'))
 classifier.add(Dropout(0.5))
 
 #Adding the output layer
-classifier.add(Dense(1, activation='softmax'))
-
+#classifier.add(Dense(1, activation='softmax'))
+classifier.add(Dense(1, activation='sigmoid'))
 #Compiling the network
 classifier.compile( loss='sparse_categorical_crossentropy',
               optimizer=Adam(learning_rate=0.001, decay=1e-6),
@@ -129,3 +129,4 @@ print('Test Accuracy: {}'.format(test_acc))
 # vocab_size= 2000
 # max_length = 2
 # classifier.add(Embedding(vocab_size, 8, input_length=max_length))
+
