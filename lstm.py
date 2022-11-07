@@ -64,20 +64,19 @@ y = lb.fit_transform(y)
 
 import tensorflow as tf
 
+#Reshape X to correct size for lstm 
 X = np.reshape(X, X.shape + (1,))
 Xtrain, Xtest, ytrain, ytest = train_test_split(X, y, train_size=.8,
     shuffle=True)
 
-# lstm = tf.keras.layers.LSTM(16, return_sequences=True, return_state=True)
-# whole_seq_output, final_memory_state, final_carry_state = lstm(X)
-#print(final_memory_state)
-
-
+#Build model 
 classifier = Sequential()
-
 #Adding the input LSTM network layer
 classifier.add(LSTM(128, input_shape=(Xtrain.shape[1:]), return_sequences=True))
 classifier.add(Dropout(0.5))
+#vocab_size= 10
+#max_length = 2
+#classifier.add(Embedding(vocab_size, 32, input_length=max_length))
 #Adding a second LSTM network layer
 #classifier.add(LSTM(128))
 
@@ -86,27 +85,18 @@ classifier.add(Dense(16, activation='tanh'))
 classifier.add(Dropout(0.5))
 
 #Adding the output layer
-#classifier.add(Dense(1, activation='softmax'))
 classifier.add(Dense(1, activation='sigmoid'))
 #Compiling the network
-classifier.compile( loss='sparse_categorical_crossentropy',
+classifier.compile( loss='binary_crossentropy',
               optimizer=Adam(learning_rate=0.001, decay=1e-6),
               metrics=['accuracy'] )
 
 #Fitting the data to the model
 classifier.fit(Xtrain,
          ytrain,
-          epochs=3,
-          validation_data=(Xtest, ytest))#Compiling the network
-classifier.compile( loss='sparse_categorical_crossentropy',
-              optimizer=Adam(learning_rate=0.001, decay=1e-6),
-              metrics=['accuracy'] )
-
-#Fitting the data to the model
-classifier.fit(Xtrain,
-         ytrain,
-          epochs=3,
+          epochs=12,
           validation_data=(Xtest, ytest))
+
 
 test_loss, test_acc = classifier.evaluate(Xtest, ytest)
 print('Test Loss: {}'.format(test_loss))
