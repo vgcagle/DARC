@@ -97,21 +97,3 @@ test_loss, test_acc = classifier.evaluate(Xtest, ytest)
 print('Test Loss: {}'.format(test_loss))
 print('Test Accuracy: {}'.format(test_acc))
 
-#Make predictions
-y_pred1 = classifier.predict(Xtest)
-y_pred = np.argmax(y_pred1, axis=1)
-
-# Print f1, precision, and recall scores
-print(precision_score(ytest, y_pred , average="macro"))
-print(recall_score(ytest, y_pred , average="macro"))
-print(f1_score(ytest, y_pred , average="macro"))
-
-ypred1 = classifier.predict(Xtest)
-ypred = np.argmax(ypred1, axis=1)
-print(f1_score(ytest, ypred, average = 'micro'))
-print(precision_score(ytest, ypred, average = 'micro'))
-print(recall_score(ytest, ypred, average = 'micro'))
-print("")
-print(f1_score(ytest, ypred))
-print(precision_score(ytest, ypred))
-print(recall_score(ytest, ypred))
