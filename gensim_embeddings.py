@@ -41,21 +41,22 @@ def get_word_embeds():
         for i in range(difference):
             ele.append([0.0, 0.0, 0.0, 0.0])
 
-    sent_vecs = np.array([np.array(features_2d).flatten() for features_2d in sent_vecs])
-    result = pca.fit_transform(sent_vecs)
+    #sent_vecs = np.array([np.array(features_2d).flatten() for features_2d in sent_vecs])
+    #result = pca.fit_transform(sent_vecs)
 
     # creating scatter plot for vectors
-    plt.scatter(result[:, 0], result[:, 1])
+    #plt.scatter(result[:, 0], result[:, 1])
 
     words = list(model.wv.index_to_key)
         
-    for ndx, sent in enumerate(cleaned_sents_wo_labels):
-        plt.annotate(" ".join(sent), xy=(result[ndx, 0], result[ndx, 1]))
+    #for ndx, sent in enumerate(cleaned_sents_wo_labels):
+    #    plt.annotate(" ".join(sent), xy=(result[ndx, 0], result[ndx, 1]))
 
     # plt.show()
 
-    vx, vy = result, np.array([sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)])
+    vx, vy = np.array(sent_vecs), np.array([sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)])
 
     return vx, vy
 
 X, y = get_word_embeds()
+print(X)
