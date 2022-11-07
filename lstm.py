@@ -19,7 +19,6 @@ from sklearn.metrics import recall_score
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 
-
 from distutils.command.clean import clean
 from gensim.models import Word2Vec
 from gensim.models.keyedvectors import KeyedVectors
@@ -59,8 +58,7 @@ X,y = get_word_embeds()
 lb = LabelBinarizer(neg_label=0, pos_label=1)
 y = lb.fit_transform(y)
 
-#Reshape X to correct size for lstm 
-X = np.reshape(X, X.shape + (1,))
+#Reshape X to correct size for lstm
 Xtrain, Xtest, ytrain, ytest = train_test_split(X, y, train_size=.8,
     shuffle=True)
 
