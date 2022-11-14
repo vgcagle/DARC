@@ -1,6 +1,5 @@
 from gensim.models import Word2Vec
 from gensim.models.keyedvectors import KeyedVectors
-from sklearn.decomposition import PCA
 from matplotlib import pyplot as plt
 import numpy as np
 import string
@@ -32,9 +31,20 @@ def get_word_embeds():
 
         sent_vecs.append(curr_sent)
 
+    # padding sentences
+    max_sent_len = len(max(sent_vecs, key=len))
+    for ndx, ele in enumerate(sent_vecs):
+        ele = list(ele)
+        difference = max_sent_len - len(ele)
+        for i in range(difference):
+            ele = np.vstack([ele, np.array([0.0, 0.0, 0.0, 0.0])])
+
+        sent_vecs[ndx] = ele
+        
+
+
     vx, vy = np.array(sent_vecs, dtype="object"), np.array([sent[-1] for ndx, sent in enumerate(cleaned_sents_w_labels)])
 
     return vx, vy
 
 X, y = get_word_embeds()
-print(X[0])
