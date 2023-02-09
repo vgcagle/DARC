@@ -1,0 +1,12 @@
+annotator,change,title,author,character_1,character_2,affinity,coarse_category,fine_category,detail
+stephen,no,Silicon Valley S1,Mike Judge,Richard Hendricks,Hooli,positive,professional,employee,
+stephen,no,Silicon Valley S1,Mike Judge,Richard Hendricks,Pied Piper,positive,professional,master
+stephen,yes,Silicon Valley S1,Mike Judge,Peter Gregory,Pied Piper,positive,professional,master
+stephen,yes,Silicon Valley S1,Mike Judge,Erlich Bachman,Bertram Gilfoyle,positive,professional,employee
+stephen,yes,Silicon Valley S1,Mike Judge,Erlich Bachman,Dinesh Chugtai,positive,professional,employee
+stephen,yes,Silicon Valley S1,Mike Judge,Erlich Bachman,Jared Dunn,positive,professional,employee
+stephen,yes,Silicon Valley S1,Mike Judge,Jared Dunn,Hooli,negative,professional,employee
+stephen,yes,Silicon Valley S1,Mike Judge,Nelson Bighetti,Hooli,negative,professional,employee,
+stephen,no,Silicon Valley S1,Mike Judge,Gavin Belson,Hooli,positive,professional,master,
+stephen,no,Silicon Valley S1,Mike Judge,Gavin Belson,Nucleus,positive,professional,master,
+stephen,no,Silicon Valley S1,Mike Judge,Richard Hendricks,Gavin Belson,negative,social,rivals,

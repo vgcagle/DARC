@@ -1,5 +1,5 @@
 annotator,change,title,author,character_1,character_2,affinity,coarse_category,fine_category,detail
-stephen,yes,Breaking Bad S1E1,Vince Gilligan,Walter White,Skylar White,neutral,familial,husband,
+stephen,no,Breaking Bad S1E1,Vince Gilligan,Walter White,Skylar White,neutral,familial,husband,
 stephen,no,Breaking Bad S1E1,Vince Gilligan,Walter White,Walter Jr.,neutral,familial,parent,
 stephen,no,Breaking Bad S1E1,Vince Gilligan,Walter White,Hank Schrader,positive,familial,brother-in-law,
 stephen,no,Breaking Bad S1E1,Vince Gilligan,Hank Schrader,Emilio,negative,social,enemy,
