@@ -1,0 +1,35 @@
+Copyright (c) 2015-2018 Vincenzo Lombardo.
+
+This work is licensed under the Creative Commons Attribution 3.0
+Unported License.
+
+A summary of the license is given below.
+
+--------------------------------------------------------------------
+
+You are free:
+
+    * to Share - to copy, distribute and transmit the work
+    * to Remix - to adapt the work
+
+Under the following conditions:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+    * For any reuse or distribution, you must make clear to others
+      the license terms of this work. The best way to do this is with
+      a link to the web page http://creativecommons.org/licenses/by/3.0/. 
+
+    * Any of the above conditions can be waived if you get
+      permission from the copyright holder.
+
+    * Nothing in this license impairs or restricts the author's moral
+      rights.
+
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Notices:
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.

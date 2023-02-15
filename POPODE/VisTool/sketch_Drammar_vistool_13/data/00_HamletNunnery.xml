@@ -1,0 +1,386 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<title id="Nunnery scene (from Hamlet) - edited on Protégé" /> 
+ 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="P_H_Refusing_Gift" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Refusing_gift" accomplished="T" mapping_init="Unit_RefusingGift" mapping_end="Unit_RefusingGift" print="Hamlet intends to refuse the gifts returned by Ophelia" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_H_End_P_H_Learning_Honesty" type="PLA" agent="Hamlet" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Lie" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Lying" accomplished="T" mapping_init="Unit_Lie" mapping_end="Unit_Lie" print="Ophelia intends to lie about Polonius' location" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Accusing" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Accusing" accomplished="T" mapping_init="Unit_Accusing" mapping_end="Unit_Accusing" print="Ophelia intends to accuse Hamlet of deceiving her" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_H_Recommend" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Recommend" accomplished="T" mapping_init="Unit_Recommend" mapping_end="Unit_Recommend" print="Hamlet intends to recommend Ophelia to go to the nunnery." rec_level="0" >
+ </plan> 
+
+ <plan  id="P_H_Send_O_Nunnery_01" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Send_to_Nunnery" accomplished="F" mapping_init="Unit_Declaring" mapping_end="Unit_Recommend" print="Hamlet intends to convince Ophelia to go to the nunnery" rec_level="2" >
+   <pe  id="P_H_Convincing_Ophelia_Moral" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Declaring_moral" accomplished="T" mapping_init="Unit_Declaring" mapping_end="Unit_Declaring" print="Hamlet intends to convince Ophelia that honesty is false" set="P_H_Send_O_Nunnery_01" />
+   <pe  id="P_H_Convincing_Ophelia_LoveNot" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Convincing_Love-not" accomplished="T" mapping_init="Unit_DenyingLove" mapping_end="Unit_DenyingLove" print="Hamlet intends to convince Ophelia that he doesn't love her" set="P_H_Send_O_Nunnery_01" />
+   <pe  id="P_H_AdvisingOpheliaNunnery" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Advising_O_Nunnery" accomplished="NULL" mapping_init="Unit_Recommend" mapping_end="Unit_Recommend" print="Hamlet intends to invite Ophelia to go to a nunnery." set="P_H_Send_O_Nunnery_01" />
+ </plan> 
+
+ <plan  id="P_O_have_Hamlet_confession_01" type="PLA" agent="Ophelia" goal="Goal_Ophelia_have_Hamlet_confession" accomplished="NULL" mapping_init="Unit_Greetings" mapping_end="Unit_RefusingGift" print="Ophelia intends to get Hamlet confessing" rec_level="3" >
+   <pe  id="P_O_Know_Hamlet_Feelings" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Hamlet_Reveal_Feelings_01" accomplished="F" mapping_init="Unit_Greetings" mapping_end="Unit_RefusingGift" print="Ophelia intends to know Hamlet's feelings" set="P_O_have_Hamlet_confession_01" />
+   <pe  id="P_O_End_have_Hamlet_confession_01" type="PLA" agent="Ophelia" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" set="P_O_have_Hamlet_confession_01" />
+ </plan> 
+
+ <plan  id="P_H_Convincing_Ophelia_LoveNot" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Convincing_Love-not" accomplished="T" mapping_init="Unit_DenyingLove" mapping_end="Unit_DenyingLove" print="Hamlet intends to convince Ophelia that he doesn't love her" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_H_End_Send_O_Nunnery_02" type="PLA" agent="Hamlet" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Listening" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Listening" accomplished="T" mapping_init="Unit_Recommend" mapping_end="Unit_Recommend" print="Ophelia intends to listen to Hamlet" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Saving_Polonius_Authority" type="PLA" agent="Ophelia" goal="Goal_Ophelia_saving_Polonius_authority" accomplished="T" mapping_init="Unit_AskR" mapping_end="Unit_Lie" print="Ophelia intends to respect her father's authotity" rec_level="1" >
+   <pe  id="P_H_AskR" type="PLA" agent="Hamlet" goal="Goal_Hamlet_AskingRethorically" accomplished="T" mapping_init="Unit_AskR" mapping_end="Unit_AskR" print="Hamlet intends to ask Ophelia about Polonius' location" set="P_O_Saving_Polonius_Authority" />
+   <pe  id="P_O_Lie" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Lying" accomplished="T" mapping_init="Unit_Lie" mapping_end="Unit_Lie" print="Ophelia intends to lie about Polonius' location" set="P_O_Saving_Polonius_Authority" />
+ </plan> 
+
+ <plan  id="P_H_LearningHonesty" type="PLA" agent="Hamlet" goal="Goal_Hamlet_LearningHonesty" accomplished="NULL" mapping_init="Unit_AskR" mapping_end="Unit_Lie" print="Hamlet intends to test Ophelia for honesty" rec_level="1" >
+   <pe  id="P_H_AskR" type="PLA" agent="Hamlet" goal="Goal_Hamlet_AskingRethorically" accomplished="T" mapping_init="Unit_AskR" mapping_end="Unit_AskR" print="Hamlet intends to ask Ophelia about Polonius' location" set="P_H_LearningHonesty" />
+   <pe  id="P_H_End_P_H_Learning_Honesty" type="PLA" agent="Hamlet" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" set="P_H_LearningHonesty" />
+ </plan> 
+
+ <plan  id="P_O_Greeting" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Talking_to_Hamlet" accomplished="T" mapping_init="Unit_Greetings" mapping_end="Unit_Greetings" print="Ophelia intends to induce Hamlet to talk when they first meet." rec_level="0" >
+ </plan> 
+
+ <plan  id="P_H_Convincing_Ophelia_Moral" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Declaring_moral" accomplished="T" mapping_init="Unit_Declaring" mapping_end="Unit_Declaring" print="Hamlet intends to convince Ophelia that honesty is false" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Let_Hamlet_Talk" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Hamlet_Reveal_Feelings_02" accomplished="T" mapping_init="Unit_Recommend" mapping_end="Unit_Lie" print="Ophelia intends to let Hamlet talking" rec_level="2" >
+   <pe  id="P_O_Listening" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Listening" accomplished="T" mapping_init="Unit_Recommend" mapping_end="Unit_Recommend" print="Ophelia intends to listen to Hamlet" set="P_O_Let_Hamlet_Talk" />
+   <pe  id="P_O_Saving_Polonius_Authority" type="PLA" agent="Ophelia" goal="Goal_Ophelia_saving_Polonius_authority" accomplished="T" mapping_init="Unit_AskR" mapping_end="Unit_Lie" print="Ophelia intends to respect her father's authotity" set="P_O_Let_Hamlet_Talk" />
+ </plan> 
+
+ <plan  id="P_H_Avoiding_Ophelia" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Avoiding_Ophelia" accomplished="F" mapping_init="Unit_Avoiding" mapping_end="Unit_Avoiding" print="Hamlet intends to avoid to talk to Ophelia" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_H_AskR" type="PLA" agent="Hamlet" goal="Goal_Hamlet_AskingRethorically" accomplished="T" mapping_init="Unit_AskR" mapping_end="Unit_AskR" print="Hamlet intends to ask Ophelia about Polonius' location" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Offering_gift" type="PLA" agent="Ophelia" goal="Goal_OpheliA_OfferingGift" accomplished="T" mapping_init="Unit_OfferingGift" mapping_end="Unit_OfferingGift" print="Ophelia intends to handle the gifts to Hamlet" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_End_Have_Hamlet_Confession_02" type="PLA" agent="Ophelia" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Returning_gift" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Returning_gift" accomplished="NULL" mapping_init="Unit_OfferingGift" mapping_end="Unit_OfferingGift" print="Ophelia intends to return the gifts to Hamlet" rec_level="1" >
+   <pe  id="P_O_Offering_gift" type="PLA" agent="Ophelia" goal="Goal_OpheliA_OfferingGift" accomplished="T" mapping_init="Unit_OfferingGift" mapping_end="Unit_OfferingGift" print="Ophelia intends to handle the gifts to Hamlet" set="P_O_Returning_gift" />
+   <pe  id="P_O_End_P_O_Returning_gift" type="PLA" agent="Ophelia" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" set="P_O_Returning_gift" />
+ </plan> 
+
+ <plan  id="P_H_Send_O_Nunnery_02" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Send_to_Nunnery" accomplished="NULL" mapping_init="Unit_AskR" mapping_end="Unit_Lie" print="Hamlet intends to convince Ophelia to go to the nunnery" rec_level="2" >
+   <pe  id="P_H_LearningHonesty" type="PLA" agent="Hamlet" goal="Goal_Hamlet_LearningHonesty" accomplished="NULL" mapping_init="Unit_AskR" mapping_end="Unit_Lie" print="Hamlet intends to test Ophelia for honesty" set="P_H_Send_O_Nunnery_02" />
+   <pe  id="P_H_End_Send_O_Nunnery_02" type="PLA" agent="Hamlet" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" set="P_H_Send_O_Nunnery_02" />
+ </plan> 
+
+ <plan  id="P_O_have_Hamlet_confession_02" type="PLA" agent="Ophelia" goal="Goal_Ophelia_have_Hamlet_confession" accomplished="NULL" mapping_init="Unit_Accusing" mapping_end="Unit_Lie" print="Ophelia intends to get Hamlet confessing" rec_level="3" >
+   <pe  id="P_O_Accusing" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Accusing" accomplished="T" mapping_init="Unit_Accusing" mapping_end="Unit_Accusing" print="Ophelia intends to accuse Hamlet of deceiving her" set="P_O_have_Hamlet_confession_02" />
+   <pe  id="P_O_Let_Hamlet_Talk" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Hamlet_Reveal_Feelings_02" accomplished="T" mapping_init="Unit_Recommend" mapping_end="Unit_Lie" print="Ophelia intends to let Hamlet talking" set="P_O_have_Hamlet_confession_02" />
+   <pe  id="P_O_End_Have_Hamlet_Confession_02" type="PLA" agent="Ophelia" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" set="P_O_have_Hamlet_confession_02" />
+ </plan> 
+
+ <plan  id="P_O_End_P_O_Returning_gift" type="PLA" agent="Ophelia" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_End_have_Hamlet_confession_01" type="PLA" agent="Ophelia" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_O_Know_Hamlet_Feelings" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Hamlet_Reveal_Feelings_01" accomplished="F" mapping_init="Unit_Greetings" mapping_end="Unit_RefusingGift" print="Ophelia intends to know Hamlet's feelings" rec_level="2" >
+   <pe  id="P_O_Greeting" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Talking_to_Hamlet" accomplished="T" mapping_init="Unit_Greetings" mapping_end="Unit_Greetings" print="Ophelia intends to induce Hamlet to talk when they first meet." set="P_O_Know_Hamlet_Feelings" />
+   <pe  id="P_O_Returning_gift" type="PLA" agent="Ophelia" goal="Goal_Ophelia_Returning_gift" accomplished="NULL" mapping_init="Unit_OfferingGift" mapping_end="Unit_OfferingGift" print="Ophelia intends to return the gifts to Hamlet" set="P_O_Know_Hamlet_Feelings" />
+ </plan> 
+
+ <plan  id="P_H_AdvisingOpheliaNunnery" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Advising_O_Nunnery" accomplished="NULL" mapping_init="Unit_Recommend" mapping_end="Unit_Recommend" print="Hamlet intends to invite Ophelia to go to a nunnery." rec_level="1" >
+   <pe  id="P_H_Recommend" type="PLA" agent="Hamlet" goal="Goal_Hamlet_Recommend" accomplished="T" mapping_init="Unit_Recommend" mapping_end="Unit_Recommend" print="Hamlet intends to recommend Ophelia to go to the nunnery." set="P_H_AdvisingOpheliaNunnery" />
+   <pe  id="P_H_End_AdvisingOpheliaNunnery" type="PLA" agent="Hamlet" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" set="P_H_AdvisingOpheliaNunnery" />
+ </plan> 
+
+ <plan  id="P_H_End_AdvisingOpheliaNunnery" type="PLA" agent="Hamlet" goal="NO GOAL!!!" accomplished="NULL" mapping_init="NULL" mapping_end="NULL" print="An intention that has not been deployed" rec_level="0" >
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+ <scene  id="S_Explaining" type="SCE" mapping_init="Unit_DenyingLove" mapping_end="Unit_Accusing" print="NULL" >
+ </scene> 
+
+ <scene  id="S_Meeting" type="SCE" mapping_init="Unit_Greetings" mapping_end="Unit_Avoiding" print="NULL" >
+ </scene> 
+
+ <scene  id="S_ReturningGift" type="SCE" mapping_init="Unit_OfferingGift" mapping_end="Unit_RefusingGift" print="NULL" >
+ </scene> 
+
+ <scene  id="S_Nunnery" type="SCE" mapping_init="Unit_Greetings" mapping_end="Unit_Lie" print="NULL" >
+ </scene> 
+
+ <scene  id="S_Advise" type="SCE" mapping_init="Unit_Recommend" mapping_end="Unit_Recommend" print="NULL" >
+ </scene> 
+
+ <scene  id="S_WhereQuestion" type="SCE" mapping_init="Unit_AskR" mapping_end="Unit_Lie" print="NULL" >
+ </scene> 
+
+ <scene  id="S_Moral" type="SCE" mapping_init="Unit_Declaring" mapping_end="Unit_Declaring" print="NULL" >
+ </scene> 
+
+</scenes> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="TL_Unit_AskR"> 
+
+   <te  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position.">
+     <incident  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position." set="Unit_AskR" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_Declaring"> 
+
+   <te  id="Unit_Declaring" type="UNI" print="Hamlets confutes Ophelia's moral">
+     <incident  id="Unit_Declaring" type="UNI" print="Hamlets confutes Ophelia's moral" set="Unit_Declaring" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_OfferingGift"> 
+
+   <te  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet">
+     <incident  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet" set="Unit_OfferingGift" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_Recommend"> 
+
+   <te  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice.">
+     <incident  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice." set="Unit_Recommend" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_total"> 
+
+   <te  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet">
+     <incident  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet" set="Unit_Greetings" />
+   </te>
+   <te  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia">
+     <incident  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia" set="Unit_Avoiding" />
+   </te>
+   <te  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet">
+     <incident  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet" set="Unit_OfferingGift" />
+   </te>
+   <te  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts">
+     <incident  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts" set="Unit_RefusingGift" />
+   </te>
+   <te  id="Unit_Declaring" type="UNI" print="Hamlets confutes Ophelia's moral">
+     <incident  id="Unit_Declaring" type="UNI" print="Hamlets confutes Ophelia's moral" set="Unit_Declaring" />
+   </te>
+   <te  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia">
+     <incident  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia" set="Unit_DenyingLove" />
+   </te>
+   <te  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her">
+     <incident  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her" set="Unit_Accusing" />
+   </te>
+   <te  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice.">
+     <incident  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice." set="Unit_Recommend" />
+   </te>
+   <te  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position.">
+     <incident  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position." set="Unit_AskR" />
+   </te>
+   <te  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position.">
+     <incident  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position." set="Unit_Lie" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units1011"> 
+
+   <te  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position.">
+     <incident  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position." set="Unit_AskR" />
+   </te>
+   <te  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position.">
+     <incident  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position." set="Unit_Lie" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units0508"> 
+
+   <te  id="Unit_Declaring" type="UNI" print="Hamlets confutes Ophelia's moral">
+     <incident  id="Unit_Declaring" type="UNI" print="Hamlets confutes Ophelia's moral" set="Unit_Declaring" />
+   </te>
+   <te  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia">
+     <incident  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia" set="Unit_DenyingLove" />
+   </te>
+   <te  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her">
+     <incident  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her" set="Unit_Accusing" />
+   </te>
+   <te  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice.">
+     <incident  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice." set="Unit_Recommend" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units0607"> 
+
+   <te  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia">
+     <incident  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia" set="Unit_DenyingLove" />
+   </te>
+   <te  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her">
+     <incident  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her" set="Unit_Accusing" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_RefusingGift"> 
+
+   <te  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts">
+     <incident  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts" set="Unit_RefusingGift" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_Lie"> 
+
+   <te  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position.">
+     <incident  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position." set="Unit_Lie" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_Accusing"> 
+
+   <te  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her">
+     <incident  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her" set="Unit_Accusing" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units0102"> 
+
+   <te  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet">
+     <incident  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet" set="Unit_Greetings" />
+   </te>
+   <te  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia">
+     <incident  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia" set="Unit_Avoiding" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_Avoiding"> 
+
+   <te  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia">
+     <incident  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia" set="Unit_Avoiding" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units0304"> 
+
+   <te  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet">
+     <incident  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet" set="Unit_OfferingGift" />
+   </te>
+   <te  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts">
+     <incident  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts" set="Unit_RefusingGift" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units0711"> 
+
+   <te  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her">
+     <incident  id="Unit_Accusing" type="UNI" print="Ophelia accuses Hamlet of deceiving her" set="Unit_Accusing" />
+   </te>
+   <te  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice.">
+     <incident  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice." set="Unit_Recommend" />
+   </te>
+   <te  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position.">
+     <incident  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position." set="Unit_AskR" />
+   </te>
+   <te  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position.">
+     <incident  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position." set="Unit_Lie" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_DenyingLove"> 
+
+   <te  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia">
+     <incident  id="Unit_DenyingLove" type="UNI" print="Hamlet denies to love Ophelia" set="Unit_DenyingLove" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units0104"> 
+
+   <te  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet">
+     <incident  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet" set="Unit_Greetings" />
+   </te>
+   <te  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia">
+     <incident  id="Unit_Avoiding" type="UNI" print="Hamlet avoids Ophelia" set="Unit_Avoiding" />
+   </te>
+   <te  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet">
+     <incident  id="Unit_OfferingGift" type="UNI" print="Ophelia returns the gifts to Hamlet" set="Unit_OfferingGift" />
+   </te>
+   <te  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts">
+     <incident  id="Unit_RefusingGift" type="UNI" print="Hamlet refuses the gifts" set="Unit_RefusingGift" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Units0811"> 
+
+   <te  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice.">
+     <incident  id="Unit_Recommend" type="UNI" print="Hamlet recommends Ophelia to go to the nunnery and Ophelia listens to Hamlet's advice." set="Unit_Recommend" />
+   </te>
+   <te  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position.">
+     <incident  id="Unit_AskR" type="UNI" print="Hamlet tests Ophelia with the question about her father's position." set="Unit_AskR" />
+   </te>
+   <te  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position.">
+     <incident  id="Unit_Lie" type="UNI" print="Ophelia lies Hamlet about her father's position." set="Unit_Lie" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_Greetings"> 
+
+   <te  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet">
+     <incident  id="Unit_Greetings" type="UNI" print="Ophelia greets Hamlet" set="Unit_Greetings" />
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <agent id="Polonius" type="AGT" print="Polonius, Lord Chamberlain"> </agent> 
+ <agent id="Hamlet" type="AGT" print="Hamlet Prince of Denmark"> </agent> 
+ <agent id="Ophelia" type="AGT" print="Ophelia, Daughter of Polonius"> </agent> 
+ <agent id="Claudius" type="AGT" print="Claudius, Hamlet's Uncle"> </agent> 
+</repository> 
+ 
+
+</drama> 
+ 

@@ -1,0 +1,321 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<title id="Russian roulette (from The deer hunter)" /> 
+ 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_Nick_Unit6" type="PLA" agent="Ag_Nick" goal="Goal_osservare_Ag_Nick_Unit6" accomplished="T" mapping_init="Unit6" mapping_end="Unit6" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ascoltare_Ag_Nick_Unit4" type="PLA" agent="Ag_Nick" goal="Goal_ascoltare_Ag_Nick_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_fermare_i_prigionieri__Mike_e_Nick__Ag_viet_cong_Unit10" type="PLA" agent="Ag_viet_cong" goal="Goal_fermare_i_prigionieri__Mike_e_Nick__Ag_viet_cong_Unit10" accomplished="F" mapping_init="Unit10" mapping_end="Unit10" print="NULL" rec_level="0" >
+   <pe  id="Action_sparare_Ag_viet_cong_Unit10" type="ACT" set="Unit10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_fuggire_Ag_Nick_Unit11" type="PLA" agent="Ag_Nick" goal="Goal_fuggire_Ag_Nick_Unit11" accomplished="T" mapping_init="Unit11" mapping_end="Unit11" print="NULL" rec_level="0" >
+   <pe  id="Action_picchiare_Ag_Nick_Unit11" type="ACT" set="Unit11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_spiegare_il_piano_a_Nick_Ag_Mike_Unit4" type="PLA" agent="Ag_Mike" goal="Goal_spiegare_il_piano_a_Nick_Ag_Mike_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_capo_viet_cong_Unit7" type="PLA" agent="Ag_capo_viet_cong" goal="Goal_osservare_Ag_capo_viet_cong_Unit7" accomplished="T" mapping_init="Unit7" mapping_end="Unit7" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_prendere_prigionieri_Nick_e_Mike__Ag_viet_cong_Unit4" type="PLA" agent="Ag_viet_cong" goal="Goal_prendere_prigionieri_Nick_e_Mike__Ag_viet_cong_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_sorvegliare_prigionieri_Nick_e_Mike__Ag_viet_cong_Unit8" type="PLA" agent="Ag_viet_cong" goal="Goal_sorvegliare_prigionieri_Nick_e_Mike__Ag_viet_cong_Unit8" accomplished="T" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+   <pe  id="Action_sedare_Ag_viet_cong_Unit8" type="ACT" set="Unit8" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_elaborare_piano_Ag_Mike_Unit3" type="PLA" agent="Ag_Mike" goal="Goal_elaborare_piano_Ag_Mike_Unit3" accomplished="T" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_deridere_Mike_Ag_viet_cong_Unit9" type="PLA" agent="Ag_viet_cong" goal="Goal_deridere_Mike_Ag_viet_cong_Unit9" accomplished="T" mapping_init="Unit9" mapping_end="Unit9" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_constatare_situazione_Ag_Mike_Unit2" type="PLA" agent="Ag_Mike" goal="Goal_constatare_situazione_Ag_Mike_Unit2" accomplished="T" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_salvarsi__Mike__Ag_capo_viet_cong_Unit10" type="PLA" agent="Ag_capo_viet_cong" goal="Goal_salvarsi__Mike__Ag_capo_viet_cong_Unit10" accomplished="F" mapping_init="Unit10" mapping_end="Unit10" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_fuggire_Ag_Mike_Unit11" type="PLA" agent="Ag_Mike" goal="Goal_fuggire_Ag_Mike_Unit11" accomplished="T" mapping_init="Unit11" mapping_end="Unit11" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_continuare_il_gioco_Ag_Mike_Unit7" type="PLA" agent="Ag_Mike" goal="Goal_continuare_il_gioco_Ag_Mike_Unit7" accomplished="T" mapping_init="Unit7" mapping_end="Unit7" print="NULL" rec_level="0" >
+   <pe  id="Action_sparare_Ag_Mike_Unit7" type="ACT" set="Unit7" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ispezionare_stanza_Ag_Mike_Unit5" type="PLA" agent="Ag_Mike" goal="Goal_ispezionare_stanza_Ag_Mike_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_convincere_capo_viet_cong_a_usare_3_pallottole__Ag_Mike_Unit6" type="PLA" agent="Ag_Mike" goal="Goal_convincere_capo_viet_cong_a_usare_3_pallottole__Ag_Mike_Unit6" accomplished="T" mapping_init="Unit6" mapping_end="Unit6" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_sorvegliare_prigionieri_Nick_e_Mike__Ag_viet_cong_Unit5" type="PLA" agent="Ag_viet_cong" goal="Goal_sorvegliare_prigionieri_Nick_e_Mike__Ag_viet_cong_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_Nick_Unit7" type="PLA" agent="Ag_Nick" goal="Goal_osservare_Ag_Nick_Unit7" accomplished="T" mapping_init="Unit7" mapping_end="Unit7" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_uccidere_viet_cong_e_capo_viet_cong_Ag_Mike_Unit10" type="PLA" agent="Ag_Mike" goal="Goal_uccidere_viet_cong_e_capo_viet_cong_Ag_Mike_Unit10" accomplished="T" mapping_init="Unit10" mapping_end="Unit10" print="NULL" rec_level="0" >
+   <pe  id="Action_sparare_Ag_Mike_Unit10" type="ACT" set="Unit10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_obbligare_progioniero_a_giocare__Mike__Ag_capo_viet_cong_Unit9" type="PLA" agent="Ag_capo_viet_cong" goal="Goal_obbligare_progioniero_a_giocare__Mike__Ag_capo_viet_cong_Unit9" accomplished="F" mapping_init="Unit9" mapping_end="Unit9" print="NULL" rec_level="0" >
+   <pe  id="Action_picchiare_Ag_capo_viet_cong_Unit9" type="ACT" set="Unit9" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ascoltare_Ag_Nick_Unit3" type="PLA" agent="Ag_Nick" goal="Goal_ascoltare_Ag_Nick_Unit3" accomplished="T" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_obbligare_progioniero_a_giocare__Nick__Ag_capo_viet_cong_Unit8" type="PLA" agent="Ag_capo_viet_cong" goal="Goal_obbligare_progioniero_a_giocare__Nick__Ag_capo_viet_cong_Unit8" accomplished="T" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+   <pe  id="Action_picchiare_Ag_capo_viet_cong_Unit8" type="ACT" set="Unit8" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incoraggiarsi_Ag_Mike_Unit9" type="PLA" agent="Ag_Mike" goal="Goal_incoraggiarsi_Ag_Mike_Unit9" accomplished="T" mapping_init="Unit9" mapping_end="Unit9" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_Nick_Unit9" type="PLA" agent="Ag_Nick" goal="Goal_osservare_Ag_Nick_Unit9" accomplished="T" mapping_init="Unit9" mapping_end="Unit9" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incoraggiarsi_Ag_Nick_Unit5" type="PLA" agent="Ag_Nick" goal="Goal_incoraggiarsi_Ag_Nick_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+   <pe  id="Action_sparare_Ag_Nick_Unit5" type="ACT" set="Unit5" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_uccidere_viet_cong_Ag_Nick_Unit10" type="PLA" agent="Ag_Nick" goal="Goal_uccidere_viet_cong_Ag_Nick_Unit10" accomplished="T" mapping_init="Unit10" mapping_end="Unit10" print="NULL" rec_level="0" >
+   <pe  id="Action_sparare_Ag_Nick_Unit10" type="ACT" set="Unit10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_obbligare_prigioniero_a_giocare_alla_roulette_russa_prigioniero_Nick__Ag_capo_viet_cong_Unit5" type="PLA" agent="Ag_capo_viet_cong" goal="Goal_obbligare_prigioniero_a_giocare_alla_roulette_russa_prigioniero_Nick__Ag_capo_viet_cong_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+   <pe  id="Action_picchiare_Ag_capo_viet_cong_Unit5" type="ACT" set="Unit5" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incoraggiare_Nick_Ag_Mike_Unit8" type="PLA" agent="Ag_Mike" goal="Goal_incoraggiare_Nick_Ag_Mike_Unit8" accomplished="T" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+   <pe  id="Action_aggredire_capo_viet_cong_Ag_Mike_Unit8" type="ACT" set="Unit8" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_raggiungere_Nick_Ag_Mike_Unit1" type="PLA" agent="Ag_Mike" goal="Goal_raggiungere_Nick_Ag_Mike_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_raggiungere_Mike_Ag_Nick_Unit1" type="PLA" agent="Ag_Nick" goal="Goal_raggiungere_Mike_Ag_Nick_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_decidere_Ag_capo_viet_cong_Unit6" type="PLA" agent="Ag_capo_viet_cong" goal="Goal_decidere_Ag_capo_viet_cong_Unit6" accomplished="T" mapping_init="Unit6" mapping_end="Unit6" print="NULL" rec_level="0" >
+   <pe  id="Action_picchiare_Ag_capo_viet_cong_Unit6" type="ACT" set="Unit6" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_prendere_prigionieri_Ag_viet_cong_Unit1" type="PLA" agent="Ag_viet_cong" goal="Goal_prendere_prigionieri_Ag_viet_cong_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_convincere_capo_ad_ascoltare_prigioniero_Mike__Ag_viet_cong_Unit6" type="PLA" agent="Ag_viet_cong" goal="Goal_convincere_capo_ad_ascoltare_prigioniero_Mike__Ag_viet_cong_Unit6" accomplished="T" mapping_init="Unit6" mapping_end="Unit6" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_viet_cong_Unit7" type="PLA" agent="Ag_viet_cong" goal="Goal_osservare_Ag_viet_cong_Unit7" accomplished="T" mapping_init="Unit7" mapping_end="Unit7" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_continuare_il_giro_della_roulette_Ag_Nick_Unit8" type="PLA" agent="Ag_Nick" goal="Goal_continuare_il_giro_della_roulette_Ag_Nick_Unit8" accomplished="T" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+   <pe  id="Action_sparare_Ag_Nick_Unit8" type="ACT" set="Unit8" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_prendere_prigionieri_Ag_viet_cong_Unit3" type="PLA" agent="Ag_viet_cong" goal="Goal_prendere_prigionieri_Ag_viet_cong_Unit3" accomplished="T" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_negare_l_evidenza_descritta_da_Mike_Ag_Nick_Unit2" type="PLA" agent="Ag_Nick" goal="Goal_negare_l_evidenza_descritta_da_Mike_Ag_Nick_Unit2" accomplished="F" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+ <scene  id="Scene_Unit8" type="SCE" mapping_init="Unit8" mapping_end="Unit8" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit9" type="SCE" mapping_init="Unit9" mapping_end="Unit9" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1" type="SCE" mapping_init="Unit1" mapping_end="Unit1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit2" type="SCE" mapping_init="Unit2" mapping_end="Unit2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit3" type="SCE" mapping_init="Unit3" mapping_end="Unit3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit4" type="SCE" mapping_init="Unit4" mapping_end="Unit4" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit11" type="SCE" mapping_init="Unit11" mapping_end="Unit11" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit5" type="SCE" mapping_init="Unit5" mapping_end="Unit5" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit6" type="SCE" mapping_init="Unit6" mapping_end="Unit6" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit10" type="SCE" mapping_init="Unit10" mapping_end="Unit10" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit7" type="SCE" mapping_init="Unit7" mapping_end="Unit7" print="NULL" >
+ </scene> 
+
+</scenes> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="Timeline_Unit10"> 
+
+   <te  id="Unit10" type="UNI" print="NULL">
+     <incident  id="Unit10" type="UNI" print="NULL" set="Unit10" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit6"> 
+
+   <te  id="Unit6" type="UNI" print="NULL">
+     <incident  id="Unit6" type="UNI" print="NULL" set="Unit6" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit11"> 
+
+   <te  id="Unit11" type="UNI" print="NULL">
+     <incident  id="Unit11" type="UNI" print="NULL" set="Unit11" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit5"> 
+
+   <te  id="Unit5" type="UNI" print="NULL">
+     <incident  id="Unit5" type="UNI" print="NULL" set="Unit5" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit4"> 
+
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit3"> 
+
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit9"> 
+
+   <te  id="Unit9" type="UNI" print="NULL">
+     <incident  id="Unit9" type="UNI" print="NULL" set="Unit9" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit8"> 
+
+   <te  id="Unit8" type="UNI" print="NULL">
+     <incident  id="Unit8" type="UNI" print="NULL" set="Unit8" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit7"> 
+
+   <te  id="Unit7" type="UNI" print="NULL">
+     <incident  id="Unit7" type="UNI" print="NULL" set="Unit7" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit2"> 
+
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+   <te  id="Unit5" type="UNI" print="NULL">
+     <incident  id="Unit5" type="UNI" print="NULL" set="Unit5" />
+   </te>
+   <te  id="Unit6" type="UNI" print="NULL">
+     <incident  id="Unit6" type="UNI" print="NULL" set="Unit6" />
+   </te>
+   <te  id="Unit7" type="UNI" print="NULL">
+     <incident  id="Unit7" type="UNI" print="NULL" set="Unit7" />
+   </te>
+   <te  id="Unit8" type="UNI" print="NULL">
+     <incident  id="Unit8" type="UNI" print="NULL" set="Unit8" />
+   </te>
+   <te  id="Unit9" type="UNI" print="NULL">
+     <incident  id="Unit9" type="UNI" print="NULL" set="Unit9" />
+   </te>
+   <te  id="Unit10" type="UNI" print="NULL">
+     <incident  id="Unit10" type="UNI" print="NULL" set="Unit10" />
+   </te>
+   <te  id="Unit11" type="UNI" print="NULL">
+     <incident  id="Unit11" type="UNI" print="NULL" set="Unit11" />
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <agent id="Ag_capo_viet_cong" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Nick" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_viet_cong" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Mike" type="AGT" print="NULL"> </agent> 
+</repository> 
+ 
+
+</drama> 
+ 

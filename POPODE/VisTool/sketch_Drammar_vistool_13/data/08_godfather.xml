@@ -1,0 +1,253 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<title id="Michael kills Sollozzo and McCluskey (from The Godfather)" /> 
+ 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="PlanDEP_Goal_andare_in_bagno_Ag_Mike_Unit4" type="PLA" agent="Ag_Mike" goal="Goal_andare_in_bagno_Ag_Mike_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+   <pe  id="Action_camminare_Ag_Mike_Unit4" type="ACT" set="Unit4" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ascoltare_Ag_Sceriffo_Unit2" type="PLA" agent="Ag_Sceriffo" goal="Goal_ascoltare_Ag_Sceriffo_Unit2" accomplished="T" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_prendere_ordinazioni_Ag_Cameriere_Unit1" type="PLA" agent="Ag_Cameriere" goal="Goal_prendere_ordinazioni_Ag_Cameriere_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Uccidere_Sollozzo_e_Sceriffo_Ag_Mike_Unit8" type="PLA" agent="Ag_Mike" goal="Goal_Uccidere_Sollozzo_e_Sceriffo_Ag_Mike_Unit8" accomplished="T" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+   <pe  id="Action_sparare_Ag_Mike_Unit8" type="ACT" set="Unit8" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_patteggiare_con_Sollozzo_Ag_Mike_Unit3" type="PLA" agent="Ag_Mike" goal="Goal_patteggiare_con_Sollozzo_Ag_Mike_Unit3" accomplished="F" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_Ag_Mike_Unit3" type="ACT" set="Unit3" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_Mike_Unit1" type="PLA" agent="Ag_Mike" goal="Goal_osservare_Ag_Mike_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_patteggiare_con_Mike_Ag_Sollozzo_Unit7" type="PLA" agent="Ag_Sollozzo" goal="Goal_patteggiare_con_Mike_Ag_Sollozzo_Unit7" accomplished="F" mapping_init="Unit7" mapping_end="Unit7" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_Ag_Sollozzo_Unit7" type="ACT" set="Unit7" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_farsi_coraggio_Ag_Mike_Unit5" type="PLA" agent="Ag_Mike" goal="Goal_farsi_coraggio_Ag_Mike_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+   <pe  id="Action_prendere_Ag_Mike_Unit5" type="ACT" set="Unit5" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_spiegare_a_Mike_le_sue_ragioni_Ag_Sollozzo_Unit2" type="PLA" agent="Ag_Sollozzo" goal="Goal_spiegare_a_Mike_le_sue_ragioni_Ag_Sollozzo_Unit2" accomplished="T" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_Ag_Sollozzo_Unit2" type="ACT" set="Unit2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_patteggiare_con_Mike_Ag_Sollozzo_Unit3" type="PLA" agent="Ag_Sollozzo" goal="Goal_patteggiare_con_Mike_Ag_Sollozzo_Unit3" accomplished="F" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_Ag_Sollozzo_Unit3" type="ACT" set="Unit3" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ascoltare_Ag_Sceriffo_Unit7" type="PLA" agent="Ag_Sceriffo" goal="Goal_ascoltare_Ag_Sceriffo_Unit7" accomplished="T" mapping_init="Unit7" mapping_end="Unit7" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ascoltare_spiegazione_di_Sollozzo_Ag_Mike_Unit2" type="PLA" agent="Ag_Mike" goal="Goal_ascoltare_spiegazione_di_Sollozzo_Ag_Mike_Unit2" accomplished="T" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Sopravvivere_Ag_Sollozzo_Unit8" type="PLA" agent="Ag_Sollozzo" goal="Goal_Sopravvivere_Ag_Sollozzo_Unit8" accomplished="F" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_cercare_pistola_nel_bagno_Ag_Mike_Unit4" type="PLA" agent="Ag_Mike" goal="Goal_cercare_pistola_nel_bagno_Ag_Mike_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+   <pe  id="Action_camminare_Ag_Mike_Unit4" type="ACT" set="Unit4" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_uscire_dal_ristorante_Ag_Mike_Unit9" type="PLA" agent="Ag_Mike" goal="Goal_uscire_dal_ristorante_Ag_Mike_Unit9" accomplished="T" mapping_init="Unit9" mapping_end="Unit9" print="NULL" rec_level="0" >
+   <pe  id="Action_camminare_Ag_Mike_Unit9" type="ACT" set="Unit9" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_tranquillizzare_Sollozzo_Ag_Sceriffo_Unit4" type="PLA" agent="Ag_Sceriffo" goal="Goal_tranquillizzare_Sollozzo_Ag_Sceriffo_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_perquisire_Mike_Ag_Sollozzo_Unit4" type="PLA" agent="Ag_Sollozzo" goal="Goal_perquisire_Mike_Ag_Sollozzo_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Sopravvivere_Ag_Sceriffo_Unit8" type="PLA" agent="Ag_Sceriffo" goal="Goal_Sopravvivere_Ag_Sceriffo_Unit8" accomplished="F" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_aspettare_momento_adatto_per_sparare_farsi_coraggio__Ag_Mike_Unit7" type="PLA" agent="Ag_Mike" goal="Goal_aspettare_momento_adatto_per_sparare_farsi_coraggio__Ag_Mike_Unit7" accomplished="T" mapping_init="Unit7" mapping_end="Unit7" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_Cameriere_Unit8" type="PLA" agent="Ag_Cameriere" goal="Goal_osservare_Ag_Cameriere_Unit8" accomplished="T" mapping_init="Unit8" mapping_end="Unit8" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ordinare_cibo_al_cameriere_Ag_Sollozzo_Unit1" type="PLA" agent="Ag_Sollozzo" goal="Goal_ordinare_cibo_al_cameriere_Ag_Sollozzo_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ordinare_cibo_al_cameriere_Ag_Sceriffo_Unit1" type="PLA" agent="Ag_Sceriffo" goal="Goal_ordinare_cibo_al_cameriere_Ag_Sceriffo_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_portare_ordinazioni_Ag_Cameriere_Unit2" type="PLA" agent="Ag_Cameriere" goal="Goal_portare_ordinazioni_Ag_Cameriere_Unit2" accomplished="T" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_attendere_Mike_Ag_Sceriffo_Unit5" type="PLA" agent="Ag_Sceriffo" goal="Goal_attendere_Mike_Ag_Sceriffo_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_attendere_Mike_Ag_Sollozzo_Unit5" type="PLA" agent="Ag_Sollozzo" goal="Goal_attendere_Mike_Ag_Sollozzo_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+ <scene  id="Scene_Unit8" type="SCE" mapping_init="Unit8" mapping_end="Unit8" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit9" type="SCE" mapping_init="Unit9" mapping_end="Unit9" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1" type="SCE" mapping_init="Unit1" mapping_end="Unit1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit2" type="SCE" mapping_init="Unit2" mapping_end="Unit2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit3" type="SCE" mapping_init="Unit3" mapping_end="Unit3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit4" type="SCE" mapping_init="Unit4" mapping_end="Unit4" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit5" type="SCE" mapping_init="Unit5" mapping_end="Unit5" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit6" type="SCE" mapping_init="Unit6" mapping_end="Unit6" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit7" type="SCE" mapping_init="Unit7" mapping_end="Unit7" print="NULL" >
+ </scene> 
+
+</scenes> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="Timeline_Unit6"> 
+
+   <te  id="Unit6" type="UNI" print="NULL">
+     <incident  id="Unit6" type="UNI" print="NULL" set="Unit6" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit5"> 
+
+   <te  id="Unit5" type="UNI" print="NULL">
+     <incident  id="Unit5" type="UNI" print="NULL" set="Unit5" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit4"> 
+
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit3"> 
+
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit9"> 
+
+   <te  id="Unit9" type="UNI" print="NULL">
+     <incident  id="Unit9" type="UNI" print="NULL" set="Unit9" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit8"> 
+
+   <te  id="Unit8" type="UNI" print="NULL">
+     <incident  id="Unit8" type="UNI" print="NULL" set="Unit8" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit7"> 
+
+   <te  id="Unit7" type="UNI" print="NULL">
+     <incident  id="Unit7" type="UNI" print="NULL" set="Unit7" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit2"> 
+
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+   <te  id="Unit5" type="UNI" print="NULL">
+     <incident  id="Unit5" type="UNI" print="NULL" set="Unit5" />
+   </te>
+   <te  id="Unit6" type="UNI" print="NULL">
+     <incident  id="Unit6" type="UNI" print="NULL" set="Unit6" />
+   </te>
+   <te  id="Unit7" type="UNI" print="NULL">
+     <incident  id="Unit7" type="UNI" print="NULL" set="Unit7" />
+   </te>
+   <te  id="Unit8" type="UNI" print="NULL">
+     <incident  id="Unit8" type="UNI" print="NULL" set="Unit8" />
+   </te>
+   <te  id="Unit9" type="UNI" print="NULL">
+     <incident  id="Unit9" type="UNI" print="NULL" set="Unit9" />
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <agent id="Ag_Cameriere" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Mike" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Sollozzo" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Sceriffo" type="AGT" print="NULL"> </agent> 
+</repository> 
+ 
+
+</drama> 
+ 

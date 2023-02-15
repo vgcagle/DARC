@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1525688882151" name="duplicate:http://www.cadmos.cirma.unito.it" uri="drammar_ct_giacomo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1525688882151" name="duplicate:http://www.cadmos.cirma.unito.it" uri="Drammar12_no_individuals.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1525688882151" name="duplicate:http://www.cadmos.cirma.unito.it" uri="drammar_ct.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1525688882151" name="http://www.cirma.unito.it/drammar/drammar" uri="170717_Drammar12bis_integrata_NOexempio_owl_funzionante.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1525688882151" name="http://www.di.unito.it/~vincenzo/ontologies/untitled-ontology-487" uri="drammar_ct_inferred.owl"/>
+    </group>
+</catalog>

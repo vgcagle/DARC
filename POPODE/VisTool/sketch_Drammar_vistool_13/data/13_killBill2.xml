@@ -1,0 +1,166 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<title id="XXX (from Kill Bill 2)" /> 
+ 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="PlanDEP_Goal_compiangere_Bill_Ag_Beatrix_Unit6" type="PLA" agent="Ag_Beatrix" goal="Goal_compiangere_Bill_Ag_Beatrix_Unit6" accomplished="T" mapping_init="Unit6" mapping_end="Unit6" print="NULL" rec_level="0" >
+   <pe  id="Action_piangere_Ag_Beatrix_Unit6" type="ACT" set="Unit6" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_uccidere_Bill_Ag_Beatrix_Unit1" type="PLA" agent="Ag_Beatrix" goal="Goal_uccidere_Bill_Ag_Beatrix_Unit1" accomplished="F" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+   <pe  id="Action_combattere_con_Bill_Ag_Beatrix_Unit1" type="ACT" set="Unit1" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_uccidere_Beatrix_Ag_Bill_Unit1" type="PLA" agent="Ag_Bill" goal="Goal_uccidere_Beatrix_Ag_Bill_Unit1" accomplished="F" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+   <pe  id="Action_combattere_con_Beatrix_Ag_Bill_Unit1" type="ACT" set="Unit1" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_uccidere_Beatrix_Ag_Bill_Unit2" type="PLA" agent="Ag_Bill" goal="Goal_uccidere_Beatrix_Ag_Bill_Unit2" accomplished="F" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+   <pe  id="Action_combattere_con_Beatrix_Ag_Bill_Unit2" type="ACT" set="Unit2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_uccidere_Bill_Ag_Beatrix_Unit2" type="PLA" agent="Ag_Beatrix" goal="Goal_uccidere_Bill_Ag_Beatrix_Unit2" accomplished="T" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+   <pe  id="Action_combattere_con_Bill_Ag_Beatrix_Unit2" type="ACT" set="Unit2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_rassegnarsi_Ag_Bill_Unit4" type="PLA" agent="Ag_Bill" goal="Goal_rassegnarsi_Ag_Bill_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_completare_opera_di_Beatrix__uccidersi__Ag_Bill_Unit5" type="PLA" agent="Ag_Bill" goal="Goal_completare_opera_di_Beatrix__uccidersi__Ag_Bill_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+   <pe  id="Action_camminare_Ag_Bill_Unit5" type="ACT" set="Unit5" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_comprendere_le_spiegazioni_di_Beatrix_Ag_Bill_Unit3" type="PLA" agent="Ag_Bill" goal="Goal_comprendere_le_spiegazioni_di_Beatrix_Ag_Bill_Unit3" accomplished="T" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_Ag_Bill_Unit3" type="ACT" set="Unit3" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_confortare_Bill_Ag_Beatrix_Unit4" type="PLA" agent="Ag_Beatrix" goal="Goal_confortare_Bill_Ag_Beatrix_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Bill_Ag_Beatrix_Unit5" type="PLA" agent="Ag_Beatrix" goal="Goal_osservare_Bill_Ag_Beatrix_Unit5" accomplished="T" mapping_init="Unit5" mapping_end="Unit5" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_confessarsi_con_Bill_Ag_Beatrix_Unit3" type="PLA" agent="Ag_Beatrix" goal="Goal_confessarsi_con_Bill_Ag_Beatrix_Unit3" accomplished="T" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_Ag_Beatrix_Unit3" type="ACT" set="Unit3" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+ <scene  id="Scene_Unit1" type="SCE" mapping_init="Unit1" mapping_end="Unit1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit2" type="SCE" mapping_init="Unit2" mapping_end="Unit2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit3" type="SCE" mapping_init="Unit3" mapping_end="Unit3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit4" type="SCE" mapping_init="Unit4" mapping_end="Unit4" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit5" type="SCE" mapping_init="Unit5" mapping_end="Unit5" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit6" type="SCE" mapping_init="Unit6" mapping_end="Unit6" print="NULL" >
+ </scene> 
+
+</scenes> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="Timeline_Unit6"> 
+
+   <te  id="Unit6" type="UNI" print="NULL">
+     <incident  id="Unit6" type="UNI" print="NULL" set="Unit6" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit5"> 
+
+   <te  id="Unit5" type="UNI" print="NULL">
+     <incident  id="Unit5" type="UNI" print="NULL" set="Unit5" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit4"> 
+
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit3"> 
+
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit2"> 
+
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+   <te  id="Unit5" type="UNI" print="NULL">
+     <incident  id="Unit5" type="UNI" print="NULL" set="Unit5" />
+   </te>
+   <te  id="Unit6" type="UNI" print="NULL">
+     <incident  id="Unit6" type="UNI" print="NULL" set="Unit6" />
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <agent id="Ag_Beatrix" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Bill" type="AGT" print="NULL"> </agent> 
+</repository> 
+ 
+
+</drama> 
+ 

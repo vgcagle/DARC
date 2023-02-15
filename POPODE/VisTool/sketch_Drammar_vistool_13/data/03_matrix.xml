@@ -1,0 +1,111 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<title id="Are you talkin' me? (from Taxi Driver)" /> 
+ 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="PlanDEP_Goal_incoraggiarsi_allo_specchio_Ag_Travis_Unit4" type="PLA" agent="Ag_Travis" goal="Goal_incoraggiarsi_allo_specchio_Ag_Travis_Unit4" accomplished="T" mapping_init="Unit4" mapping_end="Unit4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incoraggiarsi_allo_specchio_Ag_Travis_Unit2" type="PLA" agent="Ag_Travis" goal="Goal_incoraggiarsi_allo_specchio_Ag_Travis_Unit2" accomplished="T" mapping_init="Unit2" mapping_end="Unit2" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_allo_specchio_Ag_Travis_Unit2" type="ACT" set="Unit2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Travis_confessa_le_sue_intenzioni_Ag_Travis_Unit3" type="PLA" agent="Ag_Travis" goal="Goal_Travis_confessa_le_sue_intenzioni_Ag_Travis_Unit3" accomplished="T" mapping_init="Unit3" mapping_end="Unit3" print="NULL" rec_level="0" >
+   <pe  id="Action_parlare_allo_specchio_Ag_Travis_Unit3" type="ACT" set="Unit3" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_prepararsi_Ag_Travis_Unit1" type="PLA" agent="Ag_Travis" goal="Goal_prepararsi_Ag_Travis_Unit1" accomplished="T" mapping_init="Unit1" mapping_end="Unit1" print="NULL" rec_level="0" >
+   <pe  id="Action_vestirsi_Ag_Travis_Unit1" type="ACT" set="Unit1" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+ <scene  id="Scene_Unit1" type="SCE" mapping_init="Unit1" mapping_end="Unit1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit2" type="SCE" mapping_init="Unit2" mapping_end="Unit2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit3" type="SCE" mapping_init="Unit3" mapping_end="Unit3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit4" type="SCE" mapping_init="Unit4" mapping_end="Unit4" print="NULL" >
+ </scene> 
+
+</scenes> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="Timeline_Unit4"> 
+
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit3"> 
+
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit2"> 
+
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_1"> 
+
+   <te  id="Unit1" type="UNI" print="NULL">
+     <incident  id="Unit1" type="UNI" print="NULL" set="Unit1" />
+   </te>
+   <te  id="Unit2" type="UNI" print="NULL">
+     <incident  id="Unit2" type="UNI" print="NULL" set="Unit2" />
+   </te>
+   <te  id="Unit3" type="UNI" print="NULL">
+     <incident  id="Unit3" type="UNI" print="NULL" set="Unit3" />
+   </te>
+   <te  id="Unit4" type="UNI" print="NULL">
+     <incident  id="Unit4" type="UNI" print="NULL" set="Unit4" />
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <agent id="Ag_Travis" type="AGT" print="NULL"> </agent> 
+</repository> 
+ 
+
+</drama> 
+ 

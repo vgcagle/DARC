@@ -1,0 +1,2623 @@
+
+ @@@@ 
+ @@@@ DECLARATIONS!!! @@@@ 
+ @@@@ 
+ @@@@ 
+
+ 
+@@@@ Declaration of Units 
+ 
+ 
+
+@@@@ Declaration of MUC Unit: 19 with printUnit U_01
+
+@@@@ Declaration of MUC Unit: 20 with printUnit U_02
+
+@@@@ Declaration of MUC Unit: 21 with printUnit U_03
+
+@@@@ Declaration of MUC Unit: 22 with printUnit U_04
+
+@@@@ Declaration of MUC Unit: 23 with printUnit U_05
+
+@@@@ Declaration of MUC Unit: 24 with printUnit U_06
+
+@@@@ Declaration of MUC Unit: 25 with printUnit U_07
+
+@@@@ Declaration of MUC Unit: 26 with printUnit U_08
+
+@@@@ Declaration of MUC Unit: 27 with printUnit U_09
+
+@@@@ Declaration of MUC Unit: 28 with printUnit U_10
+
+@@@@ Declaration of MUC Unit: 29 with printUnit U_11
+
+@@@@ Declaration of MUC Unit: 30 with printUnit U_12
+
+@@@@ Declaration of MUC Unit: 31 with printUnit U_13
+
+@@@@ Declaration of MUC Unit: 32 with printUnit U_14
+
+@@@@ Declaration of MUC Unit: 33 with printUnit U_15
+
+@@@@ Declaration of MUC Unit: 34 with printUnit U_16
+
+@@@@ Declaration of MUC Unit: 35 with printUnit U_17
+
+@@@@ Declaration of MUC Unit: 36 with printUnit U_18
+
+@@@@ Declaration of MUC Unit: 37 with printUnit U_19
+
+@@@@ Declaration of MUC Unit: 38 with printUnit U_20
+
+@@@@ Declaration of MUC Unit: 39 with printUnit U_21
+
+@@@@ Declaration of MUC Unit: 40 with printUnit U_22
+
+@@@@ Declaration of MUC Unit: 41 with printUnit U_23
+
+@@@@ Declaration of MUC Unit: 42 with printUnit U_24
+
+@@@@ Declaration of MUC Unit: 43 with printUnit U_25
+
+@@@@ Declaration of MUC Unit: 44 with printUnit U_26
+
+@@@@ Declaration of MUC Unit: 45 with printUnit U_27
+
+@@@@ Declaration of MUC Unit: 46 with printUnit U_28
+
+@@@@ Declaration of MUC Unit: 47 with printUnit U_29
+
+@@@@ Declaration of MUC Unit: 48 with printUnit U_31
+
+@@@@ Declaration of MUC Unit: 49 with printUnit U_30
+
+@@@@ Declaration of MUC Unit: 50 with printUnit U_32
+
+@@@@ Declaration of MUC Unit: 51 with printUnit U_33
+
+@@@@ Declaration of MUC Unit: 52 with printUnit U_34
+
+@@@@ Declaration of MUC Unit: 53 with printUnit U_35
+
+@@@@ Declaration of MUC Unit: 54 with printUnit U_36
+
+@@@@ Declaration of MUC Unit: 55 with printUnit U_37
+
+@@@@ Declaration of MUC Unit: 56 with printUnit U_38
+
+@@@@ Declaration of MUC Unit: 57 with printUnit U_39
+
+@@@@ Declaration of MUC Unit: 58 with printUnit U_40
+
+@@@@ Declaration of MUC Unit: 59 with printUnit U_41
+
+@@@@ Declaration of MUC Unit: 60 with printUnit U_42
+
+@@@@ Declaration of MUC Unit: 61 with printUnit U_43
+
+@@@@ Declaration of MUC Unit: 62 with printUnit U_44
+
+@@@@ Declaration of MUC Unit: 64 with printUnit U_45
+
+@@@@ Declaration of MUC Unit: 66 with printUnit U_46
+
+@@@@ Declaration of MUC Unit: 67 with printUnit U_47
+
+@@@@ Declaration of MUC Unit: 68 with printUnit U_48
+
+ 
+@@@@ Declaration of Timelines: TL_total and all the individual timelines 
+ 
+ 
+
+@@@@ Declaration of Timeline TL_total
+
+@@@@ Try Declaration of Timeline from Unit U_01_19Un, 19 in data base
+ #### OK! Declaration of Timeline TL_19Tl from MUC Unit U_01_19Un, 19 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_02_20Un, 20 in data base
+ #### OK! Declaration of Timeline TL_20Tl from MUC Unit U_02_20Un, 20 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_03_21Un, 21 in data base
+ #### OK! Declaration of Timeline TL_21Tl from MUC Unit U_03_21Un, 21 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_04_22Un, 22 in data base
+ #### OK! Declaration of Timeline TL_22Tl from MUC Unit U_04_22Un, 22 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_05_23Un, 23 in data base
+ #### OK! Declaration of Timeline TL_23Tl from MUC Unit U_05_23Un, 23 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_06_24Un, 24 in data base
+ #### OK! Declaration of Timeline TL_24Tl from MUC Unit U_06_24Un, 24 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_07_25Un, 25 in data base
+ #### OK! Declaration of Timeline TL_25Tl from MUC Unit U_07_25Un, 25 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_08_26Un, 26 in data base
+ #### OK! Declaration of Timeline TL_26Tl from MUC Unit U_08_26Un, 26 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_09_27Un, 27 in data base
+ #### OK! Declaration of Timeline TL_27Tl from MUC Unit U_09_27Un, 27 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_10_28Un, 28 in data base
+ #### OK! Declaration of Timeline TL_28Tl from MUC Unit U_10_28Un, 28 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_11_29Un, 29 in data base
+ #### OK! Declaration of Timeline TL_29Tl from MUC Unit U_11_29Un, 29 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_12_30Un, 30 in data base
+ #### OK! Declaration of Timeline TL_30Tl from MUC Unit U_12_30Un, 30 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_13_31Un, 31 in data base
+ #### OK! Declaration of Timeline TL_31Tl from MUC Unit U_13_31Un, 31 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_14_32Un, 32 in data base
+ #### OK! Declaration of Timeline TL_32Tl from MUC Unit U_14_32Un, 32 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_15_33Un, 33 in data base
+ #### OK! Declaration of Timeline TL_33Tl from MUC Unit U_15_33Un, 33 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_16_34Un, 34 in data base
+ #### OK! Declaration of Timeline TL_37Tl from MUC Unit U_16_34Un, 34 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_17_35Un, 35 in data base
+ #### OK! Declaration of Timeline TL_38Tl from MUC Unit U_17_35Un, 35 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_18_36Un, 36 in data base
+ #### OK! Declaration of Timeline TL_39Tl from MUC Unit U_18_36Un, 36 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_19_37Un, 37 in data base
+ #### OK! Declaration of Timeline TL_40Tl from MUC Unit U_19_37Un, 37 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_20_38Un, 38 in data base
+ #### OK! Declaration of Timeline TL_41Tl from MUC Unit U_20_38Un, 38 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_21_39Un, 39 in data base
+ #### OK! Declaration of Timeline TL_42Tl from MUC Unit U_21_39Un, 39 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_22_40Un, 40 in data base
+ #### OK! Declaration of Timeline TL_43Tl from MUC Unit U_22_40Un, 40 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_23_41Un, 41 in data base
+ #### OK! Declaration of Timeline TL_44Tl from MUC Unit U_23_41Un, 41 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_24_42Un, 42 in data base
+ #### OK! Declaration of Timeline TL_45Tl from MUC Unit U_24_42Un, 42 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_25_43Un, 43 in data base
+ #### OK! Declaration of Timeline TL_46Tl from MUC Unit U_25_43Un, 43 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_26_44Un, 44 in data base
+ #### OK! Declaration of Timeline TL_47Tl from MUC Unit U_26_44Un, 44 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_27_45Un, 45 in data base
+ #### OK! Declaration of Timeline TL_48Tl from MUC Unit U_27_45Un, 45 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_28_46Un, 46 in data base
+ #### OK! Declaration of Timeline TL_49Tl from MUC Unit U_28_46Un, 46 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_29_47Un, 47 in data base
+ #### OK! Declaration of Timeline TL_50Tl from MUC Unit U_29_47Un, 47 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_31_48Un, 48 in data base
+ #### OK! Declaration of Timeline TL_51Tl from MUC Unit U_31_48Un, 48 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_30_49Un, 49 in data base
+ #### OK! Declaration of Timeline TL_52Tl from MUC Unit U_30_49Un, 49 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_32_50Un, 50 in data base
+ #### OK! Declaration of Timeline TL_53Tl from MUC Unit U_32_50Un, 50 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_33_51Un, 51 in data base
+ #### OK! Declaration of Timeline TL_54Tl from MUC Unit U_33_51Un, 51 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_34_52Un, 52 in data base
+ #### OK! Declaration of Timeline TL_55Tl from MUC Unit U_34_52Un, 52 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_35_53Un, 53 in data base
+ #### OK! Declaration of Timeline TL_56Tl from MUC Unit U_35_53Un, 53 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_36_54Un, 54 in data base
+ #### OK! Declaration of Timeline TL_57Tl from MUC Unit U_36_54Un, 54 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_37_55Un, 55 in data base
+ #### OK! Declaration of Timeline TL_58Tl from MUC Unit U_37_55Un, 55 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_38_56Un, 56 in data base
+ #### OK! Declaration of Timeline TL_59Tl from MUC Unit U_38_56Un, 56 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_39_57Un, 57 in data base
+ #### OK! Declaration of Timeline TL_60Tl from MUC Unit U_39_57Un, 57 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_40_58Un, 58 in data base
+ #### OK! Declaration of Timeline TL_61Tl from MUC Unit U_40_58Un, 58 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_41_59Un, 59 in data base
+ #### OK! Declaration of Timeline TL_62Tl from MUC Unit U_41_59Un, 59 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_42_60Un, 60 in data base
+ #### OK! Declaration of Timeline TL_63Tl from MUC Unit U_42_60Un, 60 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_43_61Un, 61 in data base
+ #### OK! Declaration of Timeline TL_64Tl from MUC Unit U_43_61Un, 61 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_44_62Un, 62 in data base
+ #### OK! Declaration of Timeline TL_65Tl from MUC Unit U_44_62Un, 62 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_45_64Un, 64 in data base
+ #### OK! Declaration of Timeline TL_67Tl from MUC Unit U_45_64Un, 64 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_46_66Un, 66 in data base
+ #### OK! Declaration of Timeline TL_69Tl from MUC Unit U_46_66Un, 66 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_47_67Un, 67 in data base
+ #### OK! Declaration of Timeline TL_70Tl from MUC Unit U_47_67Un, 67 in data base
+
+@@@@ Try Declaration of Timeline from Unit U_48_68Un, 68 in data base
+ #### OK! Declaration of Timeline TL_72Tl from MUC Unit U_48_68Un, 68 in data base
+
+@@@@ Try Declaration of Timeline from Unit null, 86 in data base
+ #### OK! Declaration of Timeline TL_Init_25_End_28_fromNonMUC from NON-MUC Unit from init MUC 25to end MUC 28
+
+@@@@ Try Declaration of Timeline from Unit null, 87 in data base
+ #### OK! Declaration of Timeline TL_Init_19_End_20_fromNonMUC from NON-MUC Unit from init MUC 19to end MUC 20
+
+@@@@ Try Declaration of Timeline from Unit null, 88 in data base
+ #### OK! Declaration of Timeline TL_Init_21_End_23_fromNonMUC from NON-MUC Unit from init MUC 21to end MUC 23
+
+@@@@ Try Declaration of Timeline from Unit null, 89 in data base
+ #### OK! Declaration of Timeline TL_Init_29_End_30_fromNonMUC from NON-MUC Unit from init MUC 29to end MUC 30
+
+@@@@ Try Declaration of Timeline from Unit null, 90 in data base
+ #### OK! Declaration of Timeline TL_Init_21_End_28_fromNonMUC from NON-MUC Unit from init MUC 21to end MUC 28
+
+@@@@ Try Declaration of Timeline from Unit null, 91 in data base
+ #### OK! Declaration of Timeline TL_Init_19_End_30_fromNonMUC from NON-MUC Unit from init MUC 19to end MUC 30
+
+@@@@ Try Declaration of Timeline from Unit null, 93 in data base
+ #### OK! Declaration of Timeline TL_Init_31_End_34_fromNonMUC from NON-MUC Unit from init MUC 31to end MUC 34
+
+@@@@ Try Declaration of Timeline from Unit null, 94 in data base
+ #### OK! Declaration of Timeline TL_Init_36_End_39_fromNonMUC from NON-MUC Unit from init MUC 36to end MUC 39
+
+@@@@ Try Declaration of Timeline from Unit null, 95 in data base
+ #### OK! Declaration of Timeline TL_Init_40_End_45_fromNonMUC from NON-MUC Unit from init MUC 40to end MUC 45
+
+@@@@ Try Declaration of Timeline from Unit null, 96 in data base
+ #### OK! Declaration of Timeline TL_Init_47_End_49_fromNonMUC from NON-MUC Unit from init MUC 47to end MUC 49
+
+@@@@ Try Declaration of Timeline from Unit null, 97 in data base
+ #### OK! Declaration of Timeline TL_Init_46_End_48_fromNonMUC from NON-MUC Unit from init MUC 46to end MUC 48
+
+@@@@ Try Declaration of Timeline from Unit null, 98 in data base
+ #### OK! Declaration of Timeline TL_Init_31_End_48_fromNonMUC from NON-MUC Unit from init MUC 31to end MUC 48
+
+@@@@ Try Declaration of Timeline from Unit null, 99 in data base
+ #### OK! Declaration of Timeline TL_Init_50_End_51_fromNonMUC from NON-MUC Unit from init MUC 50to end MUC 51
+
+@@@@ Try Declaration of Timeline from Unit null, 100 in data base
+ #### OK! Declaration of Timeline TL_Init_52_End_53_fromNonMUC from NON-MUC Unit from init MUC 52to end MUC 53
+
+@@@@ Try Declaration of Timeline from Unit null, 101 in data base
+ #### OK! Declaration of Timeline TL_Init_50_End_54_fromNonMUC from NON-MUC Unit from init MUC 50to end MUC 54
+
+@@@@ Try Declaration of Timeline from Unit null, 102 in data base
+ #### OK! Declaration of Timeline TL_Init_55_End_57_fromNonMUC from NON-MUC Unit from init MUC 55to end MUC 57
+
+@@@@ Try Declaration of Timeline from Unit null, 103 in data base
+ #### OK! Declaration of Timeline TL_Init_50_End_57_fromNonMUC from NON-MUC Unit from init MUC 50to end MUC 57
+
+@@@@ Try Declaration of Timeline from Unit null, 104 in data base
+ #### OK! Declaration of Timeline TL_Init_58_End_59_fromNonMUC from NON-MUC Unit from init MUC 58to end MUC 59
+
+@@@@ Try Declaration of Timeline from Unit null, 105 in data base
+ #### OK! Declaration of Timeline TL_Init_60_End_61_fromNonMUC from NON-MUC Unit from init MUC 60to end MUC 61
+
+@@@@ Try Declaration of Timeline from Unit null, 106 in data base
+ #### OK! Declaration of Timeline TL_Init_64_End_67_fromNonMUC from NON-MUC Unit from init MUC 64to end MUC 67
+
+@@@@ Try Declaration of Timeline from Unit null, 107 in data base
+ #### OK! Declaration of Timeline TL_Init_58_End_61_fromNonMUC from NON-MUC Unit from init MUC 58to end MUC 61
+
+@@@@ Try Declaration of Timeline from Unit null, 108 in data base
+ #### OK! Declaration of Timeline TL_Init_58_End_68_fromNonMUC from NON-MUC Unit from init MUC 58to end MUC 68
+
+@@@@ Try Declaration of Timeline from Unit null, 109 in data base
+ #### OK! Declaration of Timeline TL_Init_19_End_68_fromNonMUC from NON-MUC Unit from init MUC 19to end MUC 68
+
+@@@@ Try Declaration of Timeline from Unit null, 110 in data base
+ #### OK! Declaration of Timeline TL_Init_40_End_48_fromNonMUC from NON-MUC Unit from init MUC 40to end MUC 48
+
+@@@@ Try Declaration of Timeline from Unit null, 113 in data base
+ #### OK! Declaration of Timeline TL_Init_31_End_68_fromNonMUC from NON-MUC Unit from init MUC 31to end MUC 68
+
+ 
+@@@@ Declaration of Plans 
+ 
+ 
+
+@@@@ Declaration of Plan: Csa_int_discolparsi_per_scherzo142AbsPl
+
+@@@@ Declaration of Plan: C_int_sapere_perche_Csa_abbia_mentito140AbsPl
+
+@@@@ Declaration of Plan: Csa_int_sottolineare_i_suoi_patimenti135AbsPl
+
+@@@@ Declaration of Plan: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl
+
+@@@@ Declaration of Plan: S_int_informare_Csa_su_SOA132AbsPl
+
+@@@@ Declaration of Plan: Csa_int_ricevere_informazioni_su_SOA130AbsPl
+
+@@@@ Declaration of Plan: C_int_supplicare_Csa_perdono127AbsPl
+
+@@@@ Declaration of Plan: S_int_uscire_gabinetto29DePl
+
+@@@@ Declaration of Plan: C_int_esprimere_stupore30DePl
+
+@@@@ Declaration of Plan: Csa_int_esprimere_stupore31DePl
+
+@@@@ Declaration of Plan: S_int_interrogare_C_stupore32DePl
+
+@@@@ Declaration of Plan: S_int_ricordare_gelosia_C33DePl
+
+@@@@ Declaration of Plan: S_int_confutare_gelosia_C34DePl
+
+@@@@ Declaration of Plan: C_int_esprimere_smarrimento35DePl
+
+@@@@ Declaration of Plan: Csa_int_esprimere_stupore36DePl
+
+@@@@ Declaration of Plan: S_int_osservare_stupore_C_e_Csa37DePl
+
+@@@@ Declaration of Plan: C_int_chiedere_S_se_sola38DePl
+
+@@@@ Declaration of Plan: S_int_invitare_C_controllare_presenza_amante39DePl
+
+@@@@ Declaration of Plan: S_int_ribadire_C_controllare40DePl
+
+@@@@ Declaration of Plan: C_int_affermare_controllare41DePl
+
+@@@@ Declaration of Plan: C_int_entrare_gabinetto42DePl
+
+@@@@ Declaration of Plan: Csa_int_chiedere_spiegazioni43DePl
+
+@@@@ Declaration of Plan: S_int_rispondere_Csa44DePl
+
+@@@@ Declaration of Plan: C_int_uscire_gabinetto45DePl
+
+@@@@ Declaration of Plan: C_int_riconoscere_torto46DePl
+
+@@@@ Declaration of Plan: C_int_chiedere_perdono47DePl
+
+@@@@ Declaration of Plan: C_int_fare_vittima48DePl
+
+@@@@ Declaration of Plan: Csa_int_rifiutare_perdono_C49DePl
+
+@@@@ Declaration of Plan: S_int_non_perdonare_C50DePl
+
+@@@@ Declaration of Plan: C_int_blandire_Csa51DePl
+
+@@@@ Declaration of Plan: Csa_int_respingere_affetto_C52DePl
+
+@@@@ Declaration of Plan: C_int_ribadire_amore_per_Csa53DePl
+
+@@@@ Declaration of Plan: Csa_int_accusare_C_spergiuro54DePl
+
+@@@@ Declaration of Plan: Csa_int_accusare_C_non_stima_per_Csa55DePl
+
+@@@@ Declaration of Plan: C_int_chiedere_aiuto_S56DePl
+
+@@@@ Declaration of Plan: S_int_negare_aiuto_C57DePl
+
+@@@@ Declaration of Plan: Csa_int_accusare_C_trattarla_male58DePl
+
+@@@@ Declaration of Plan: C_int_pregare_S_aiuto59DePl
+
+@@@@ Declaration of Plan: S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl
+
+@@@@ Declaration of Plan: C_blandire_Csa61DePl
+
+@@@@ Declaration of Plan: S_int_chiedere_clemenza_Csa62DePl
+
+@@@@ Declaration of Plan: Csa_int_ribaltare_lusinghe_C63DePl
+
+@@@@ Declaration of Plan: Csa_int_accusare_C_trascurarla64DePl
+
+@@@@ Declaration of Plan: C_int_esprimere_pentimento_65DePl
+
+@@@@ Declaration of Plan: S_int_supplicare_Csa_perdono66DePl
+
+@@@@ Declaration of Plan: Csa_int_rimarcare_suo_dolore67DePl
+
+@@@@ Declaration of Plan: S_int_incalzare_C68AbsPl
+
+@@@@ Declaration of Plan: S_int_evidenziare_errore_C69AbsPl
+
+@@@@ Declaration of Plan: S_int_mettere_in_difficoltà_C70AbsPl
+
+@@@@ Declaration of Plan: S_int_contrattaccare_C71AbsPl
+
+@@@@ Declaration of Plan: C_int_mettere_in_dubbio_S_sola72AbsPl
+
+@@@@ Declaration of Plan: C_int_controllare_se_Cno_nel_gabinetto73AbsPl
+
+@@@@ Declaration of Plan: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl
+
+@@@@ Declaration of Plan: Csa_int_capire_situazione76AbsPl
+
+@@@@ Declaration of Plan: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl
+
+@@@@ Declaration of Plan: C_int_sollevare_mozione_affetti78AbsPl
+
+@@@@ Declaration of Plan: C_int_chiedere_aiuto_S79AbsPl
+
+@@@@ Declaration of Plan: C_int_ottenere_perdono_da_Csa80AbsPl
+
+@@@@ Declaration of Plan: Csa_int_respingere_mozione_affetti_C81AbsPl
+
+@@@@ Declaration of Plan: Csa_int_accusare_C_infedeltà82AbsPl
+
+@@@@ Declaration of Plan: Csa_int_attaccare_il_Conte83AbsPl
+
+@@@@ Declaration of Plan: S_int_far_pesare_aiuto_C85AbsPl
+
+@@@@ Declaration of Plan: S_int_chiedere_Csa_perdonare_C86AbsPl
+
+@@@@ Declaration of Plan: C_int_chiedere_conto_Csa_bugie88DePl
+
+@@@@ Declaration of Plan: Csa_int_sviare_discorso89DePl
+
+@@@@ Declaration of Plan: C_int_chiedere_conto_recitazione_Csa90DePl
+
+@@@@ Declaration of Plan: Csa_int_rispondere_genericamente91DePl
+
+@@@@ Declaration of Plan: C_int_chiedere_conto_foglietto92DePl
+
+@@@@ Declaration of Plan: Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl
+
+@@@@ Declaration of Plan: S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl
+
+@@@@ Declaration of Plan: C_int_accusare_S_e_Csa_cattiveria95DePl
+
+@@@@ Declaration of Plan: Csa_int_patteggiare_i_perdoni96DePl
+
+@@@@ Declaration of Plan: S_int_patteggiare_i_perdoni97DePl
+
+@@@@ Declaration of Plan: C_int_interrogare_Csa_su_scherzo98AbsPl
+
+@@@@ Declaration of Plan: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl
+
+@@@@ Declaration of Plan: Csa_int_sviare_il_discorso100AbsPl
+
+@@@@ Declaration of Plan: S_int_smentire_C_tradimento_Csa128AbsPl
+
+@@@@ Declaration of Plan: C_int_offrire_pace_reciproca102DePl
+
+@@@@ Declaration of Plan: C_int_invocare_gentilezza_Csa103DePl
+
+@@@@ Declaration of Plan: Csa_int_rimarcare_sua_gentilezza104DePl
+
+@@@@ Declaration of Plan: Csa_int_fare_sprezzatura105DePl
+
+@@@@ Declaration of Plan: C_int_chiedere_pace_comune_con_gentilezza106AbsPl
+
+@@@@ Declaration of Plan: S_int_invitare_Csa_accettare_pace_onorevole108DePl
+
+@@@@ Declaration of Plan: C_int_chiedere_Csa_perdono_e_dolcezza109DePl
+
+@@@@ Declaration of Plan: Csa_int_sprezzare_pace110DePl
+
+@@@@ Declaration of Plan: C_da_onore_Csa111DePl
+
+@@@@ Declaration of Plan: C_int_raggiungere_armonia_con_S_e_Csa112DePl
+
+@@@@ Declaration of Plan: Csa_int_raggiungere_armonia_con_C113DePl
+
+@@@@ Declaration of Plan: S_int_raggiungere_armonia_con_Csa_e_C114DePl
+
+@@@@ Declaration of Plan: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl
+
+@@@@ Declaration of Plan: C_int_offrire_pace_Csa116AbsPl
+
+@@@@ Declaration of Plan: S_int_ristabilire_pace_reciproca118AbsPl
+
+@@@@ Declaration of Plan: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl
+
+@@@@ Declaration of Plan: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl
+
+@@@@ Declaration of Plan: C_int_sapere_perché_Csa_abbia_recitato141AbsPl
+
+@@@@ Declaration of Plan: C_int_accusare_Csa_crudeltà_scherzo143AbsPl
+
+@@@@ Declaration of Plan: Csa_int_difendersi_accuse_crudeltà_C144AbsPl
+
+@@@@ Declaration of Plan: Csa_int_accettare_pace_facendo_sostenuta145AbsPl
+
+@@@@ Declaration of Plan: C_int_ottenere_pace_con_Csa146AbsPl
+
+@@@@ Declaration of Plan: Csa_int_concordare_pace_C147AbsPl
+
+@@@@ Declaration of Plan: Csa_int_accettare_pace_onorevole148AbsPl
+
+@@@@ Declaration of Plan: C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl
+
+@@@@ Declaration of Plan: Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl
+
+@@@@ Declaration of Plan: S_int_mettere_C_in_subalternità151AbsPl
+
+@@@@ Declaration of Plan: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl
+
+@@@@ Declaration of Plan: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl
+
+@@@@ Declaration of Plan: S_int_guadagnare_credito_con_C160AbsPl
+
+@@@@ Declaration of Plan: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl
+
+@@@@ Declaration of Plan: C_int_recuperare_posizione_preso_atto_situazione158AbsPl
+
+@@@@ Declaration of Plan: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl
+
+@@@@ Declaration of all subplan OLEs 
+    #### Declaration of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_fare_vittima48DePl
+    #### Declaration of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_chiedere_perdono47DePl
+    #### Declaration of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_riconoscere_torto46DePl
+    #### Declaration of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_uscire_gabinetto45DePl
+    #### Declaration of subplan OLE: father: C_int_sollevare_mozione_affetti78AbsPl; child: C_int_ribadire_amore_per_Csa53DePl
+    #### Declaration of subplan OLE: father: C_int_sollevare_mozione_affetti78AbsPl; child: C_int_blandire_Csa51DePl
+    #### Declaration of subplan OLE: father: Csa_int_respingere_mozione_affetti_C81AbsPl; child: Csa_int_accusare_C_spergiuro54DePl
+    #### Declaration of subplan OLE: father: Csa_int_respingere_mozione_affetti_C81AbsPl; child: Csa_int_respingere_affetto_C52DePl
+    #### Declaration of subplan OLE: father: C_int_chiedere_aiuto_S79AbsPl; child: C_int_pregare_S_aiuto59DePl
+    #### Declaration of subplan OLE: father: C_int_chiedere_aiuto_S79AbsPl; child: C_int_chiedere_aiuto_S56DePl
+    #### Declaration of subplan OLE: father: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl; child: C_int_supplicare_Csa_perdono127AbsPl
+    #### Declaration of subplan OLE: father: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl; child: C_int_chiedere_aiuto_S79AbsPl
+    #### Declaration of subplan OLE: father: C_int_ottenere_perdono_da_Csa80AbsPl; child: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl
+    #### Declaration of subplan OLE: father: C_int_ottenere_perdono_da_Csa80AbsPl; child: C_int_sollevare_mozione_affetti78AbsPl
+    #### Declaration of subplan OLE: father: C_int_ottenere_perdono_da_Csa80AbsPl; child: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_accusare_C_infedeltà82AbsPl; child: Csa_int_accusare_C_trascurarla64DePl
+    #### Declaration of subplan OLE: father: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl; child: Csa_int_accusare_C_trattarla_male58DePl
+    #### Declaration of subplan OLE: father: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl; child: Csa_int_accusare_C_non_stima_per_Csa55DePl
+    #### Declaration of subplan OLE: father: C_int_recuperare_posizione_preso_atto_situazione158AbsPl; child: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl
+    #### Declaration of subplan OLE: father: S_int_mettere_C_in_subalternità151AbsPl; child: S_int_contrattaccare_C71AbsPl
+    #### Declaration of subplan OLE: father: S_int_mettere_C_in_subalternità151AbsPl; child: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl
+    #### Declaration of subplan OLE: father: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl; child: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl
+    #### Declaration of subplan OLE: father: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl; child: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl
+    #### Declaration of subplan OLE: father: S_int_far_pesare_aiuto_C85AbsPl; child: S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl
+    #### Declaration of subplan OLE: father: S_int_far_pesare_aiuto_C85AbsPl; child: S_int_negare_aiuto_C57DePl
+    #### Declaration of subplan OLE: father: S_int_chiedere_Csa_perdonare_C86AbsPl; child: S_int_supplicare_Csa_perdono66DePl
+    #### Declaration of subplan OLE: father: S_int_chiedere_Csa_perdonare_C86AbsPl; child: S_int_chiedere_clemenza_Csa62DePl
+    #### Declaration of subplan OLE: father: C_int_sapere_perche_Csa_abbia_mentito140AbsPl; child: C_int_chiedere_conto_Csa_bugie88DePl
+    #### Declaration of subplan OLE: father: S_int_guadagnare_credito_con_C160AbsPl; child: S_int_far_pesare_aiuto_C85AbsPl
+    #### Declaration of subplan OLE: father: S_int_guadagnare_credito_con_C160AbsPl; child: S_int_chiedere_Csa_perdonare_C86AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_attaccare_il_Conte83AbsPl; child: Csa_int_respingere_mozione_affetti_C81AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_sviare_il_discorso100AbsPl; child: Csa_int_sviare_discorso89DePl
+    #### Declaration of subplan OLE: father: Csa_int_accettare_pace_onorevole148AbsPl; child: Csa_int_concordare_pace_C147AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_discolparsi_per_scherzo142AbsPl; child: Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl
+    #### Declaration of subplan OLE: father: Csa_int_discolparsi_per_scherzo142AbsPl; child: Csa_int_patteggiare_i_perdoni96DePl
+    #### Declaration of subplan OLE: father: Csa_int_difendersi_accuse_crudeltà_C144AbsPl; child: Csa_int_sviare_il_discorso100AbsPl
+    #### Declaration of subplan OLE: father: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl; child: C_int_accusare_Csa_crudeltà_scherzo143AbsPl
+    #### Declaration of subplan OLE: father: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl; child: C_int_interrogare_Csa_su_scherzo98AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_difendersi_accuse_crudeltà_C144AbsPl; child: Csa_int_discolparsi_per_scherzo142AbsPl
+    #### Declaration of subplan OLE: father: C_int_interrogare_Csa_su_scherzo98AbsPl; child: C_int_sapere_perché_Csa_abbia_recitato141AbsPl
+    #### Declaration of subplan OLE: father: C_int_interrogare_Csa_su_scherzo98AbsPl; child: C_int_sapere_perche_Csa_abbia_mentito140AbsPl
+    #### Declaration of subplan OLE: father: S_int_ristabilire_pace_reciproca118AbsPl; child: S_int_raggiungere_armonia_con_Csa_e_C114DePl
+    #### Declaration of subplan OLE: father: S_int_ristabilire_pace_reciproca118AbsPl; child: S_int_invitare_Csa_accettare_pace_onorevole108DePl
+    #### Declaration of subplan OLE: father: Csa_int_accettare_pace_facendo_sostenuta145AbsPl; child: Csa_int_rimarcare_sua_gentilezza104DePl
+    #### Declaration of subplan OLE: father: Csa_int_accettare_pace_facendo_sostenuta145AbsPl; child: Csa_int_fare_sprezzatura105DePl
+    #### Declaration of subplan OLE: father: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl; child: C_da_onore_Csa111DePl
+    #### Declaration of subplan OLE: father: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl; child: C_int_chiedere_Csa_perdono_e_dolcezza109DePl
+    #### Declaration of subplan OLE: father: C_int_chiedere_pace_comune_con_gentilezza106AbsPl; child: C_int_invocare_gentilezza_Csa103DePl
+    #### Declaration of subplan OLE: father: C_int_chiedere_pace_comune_con_gentilezza106AbsPl; child: C_int_offrire_pace_reciproca102DePl
+    #### Declaration of subplan OLE: father: C_int_offrire_pace_Csa116AbsPl; child: C_int_ottenere_pace_con_Csa146AbsPl
+    #### Declaration of subplan OLE: father: C_int_offrire_pace_Csa116AbsPl; child: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl
+    #### Declaration of subplan OLE: father: C_int_ottenere_pace_con_Csa146AbsPl; child: C_int_chiedere_pace_comune_con_gentilezza106AbsPl
+    #### Declaration of subplan OLE: father: S_int_incalzare_C68AbsPl; child: S_int_confutare_gelosia_C34DePl
+    #### Declaration of subplan OLE: father: S_int_incalzare_C68AbsPl; child: S_int_ricordare_gelosia_C33DePl
+    #### Declaration of subplan OLE: father: S_int_incalzare_C68AbsPl; child: S_int_interrogare_C_stupore32DePl
+    #### Declaration of subplan OLE: father: S_int_evidenziare_errore_C69AbsPl; child: S_int_ribadire_C_controllare40DePl
+    #### Declaration of subplan OLE: father: S_int_evidenziare_errore_C69AbsPl; child: S_int_invitare_C_controllare_presenza_amante39DePl
+    #### Declaration of subplan OLE: father: S_int_mettere_in_difficoltà_C70AbsPl; child: S_int_evidenziare_errore_C69AbsPl
+    #### Declaration of subplan OLE: father: S_int_mettere_in_difficoltà_C70AbsPl; child: S_int_osservare_stupore_C_e_Csa37DePl
+    #### Declaration of subplan OLE: father: S_int_mettere_in_difficoltà_C70AbsPl; child: S_int_incalzare_C68AbsPl
+    #### Declaration of subplan OLE: father: S_int_contrattaccare_C71AbsPl; child: S_int_informare_Csa_su_SOA132AbsPl
+    #### Declaration of subplan OLE: father: S_int_contrattaccare_C71AbsPl; child: S_int_mettere_in_difficoltà_C70AbsPl
+    #### Declaration of subplan OLE: father: C_int_mettere_in_dubbio_S_sola72AbsPl; child: C_int_affermare_controllare41DePl
+    #### Declaration of subplan OLE: father: C_int_mettere_in_dubbio_S_sola72AbsPl; child: C_int_chiedere_S_se_sola38DePl
+    #### Declaration of subplan OLE: father: C_int_controllare_se_Cno_nel_gabinetto73AbsPl; child: C_int_entrare_gabinetto42DePl
+    #### Declaration of subplan OLE: father: C_int_supplicare_Csa_perdono127AbsPl; child: C_int_esprimere_pentimento_65DePl
+    #### Declaration of subplan OLE: father: C_int_supplicare_Csa_perdono127AbsPl; child: C_blandire_Csa61DePl
+    #### Declaration of subplan OLE: father: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl; child: C_int_controllare_se_Cno_nel_gabinetto73AbsPl
+    #### Declaration of subplan OLE: father: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl; child: C_int_mettere_in_dubbio_S_sola72AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_capire_situazione76AbsPl; child: Csa_int_ricevere_informazioni_su_SOA130AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_ricevere_informazioni_su_SOA130AbsPl; child: Csa_int_chiedere_spiegazioni43DePl
+    #### Declaration of subplan OLE: father: Csa_int_capire_situazione76AbsPl; child: Csa_int_esprimere_stupore31DePl
+    #### Declaration of subplan OLE: father: Csa_int_capire_situazione76AbsPl; child: Csa_int_esprimere_stupore36DePl
+    #### Declaration of subplan OLE: father: C_int_recuperare_posizione_preso_atto_situazione158AbsPl; child: C_int_ottenere_perdono_da_Csa80AbsPl
+    #### Declaration of subplan OLE: father: C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl; child: C_int_recuperare_posizione_preso_atto_situazione158AbsPl
+    #### Declaration of subplan OLE: father: C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl; child: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl; child: Csa_int_difendersi_accuse_crudeltà_C144AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl; child: Csa_int_attaccare_il_Conte83AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl; child: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl; child: Csa_int_capire_situazione76AbsPl
+    #### Declaration of subplan OLE: father: S_int_contrattaccare_C71AbsPl; child: S_int_smentire_C_tradimento_Csa128AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_attaccare_il_Conte83AbsPl; child: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl; child: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl; child: Csa_int_sottolineare_i_suoi_patimenti135AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_sottolineare_i_suoi_patimenti135AbsPl; child: Csa_int_accusare_C_infedeltà82AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_concordare_pace_C147AbsPl; child: Csa_int_accettare_pace_facendo_sostenuta145AbsPl
+    #### Declaration of subplan OLE: father: C_int_recuperare_posizione_preso_atto_situazione158AbsPl; child: C_int_offrire_pace_Csa116AbsPl
+    #### Declaration of subplan OLE: father: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl; child: Csa_int_accettare_pace_onorevole148AbsPl
+    #### Declaration of subplan OLE: father: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl; child: S_int_ristabilire_pace_reciproca118AbsPl
+    #### Declaration of subplan OLE: father: C_int_sapere_perché_Csa_abbia_recitato141AbsPl; child: C_int_chiedere_conto_recitazione_Csa90DePl
+    #### Declaration of subplan OLE: father: C_int_accusare_Csa_crudeltà_scherzo143AbsPl; child: C_int_accusare_S_e_Csa_cattiveria95DePl
+    #### Declaration of subplan OLE: father: S_int_informare_Csa_su_SOA132AbsPl; child: S_int_rispondere_Csa44DePl
+    #### Declaration of subplan OLE: father: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl; child: S_int_non_perdonare_C50DePl
+    #### Declaration of subplan OLE: father: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl; child: S_int_guadagnare_credito_con_C160AbsPl
+    #### Declaration of subplan OLE: father: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl; child: S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl
+    #### Declaration of subplan OLE: father: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl; child: S_int_patteggiare_i_perdoni97DePl
+    #### Declaration of subplan OLE: father: Csa_int_sviare_il_discorso100AbsPl; child: Csa_int_rispondere_genericamente91DePl
+
+ @@@@ 
+ @@@@ CLASS ASSERTIONS!!! @@@@ 
+ @@@@ 
+ @@@@ 
+
+ @@@@ Class Assertion of Timeline MUC TL_19Tl, OLE OLE_TL_19Tl_U_01_19Un
+
+ @@@@ Class Assertion of Timeline MUC TL_20Tl, OLE OLE_TL_20Tl_U_02_20Un
+
+ @@@@ Class Assertion of Timeline MUC TL_21Tl, OLE OLE_TL_21Tl_U_03_21Un
+
+ @@@@ Class Assertion of Timeline MUC TL_22Tl, OLE OLE_TL_22Tl_U_04_22Un
+
+ @@@@ Class Assertion of Timeline MUC TL_23Tl, OLE OLE_TL_23Tl_U_05_23Un
+
+ @@@@ Class Assertion of Timeline MUC TL_24Tl, OLE OLE_TL_24Tl_U_06_24Un
+
+ @@@@ Class Assertion of Timeline MUC TL_25Tl, OLE OLE_TL_25Tl_U_07_25Un
+
+ @@@@ Class Assertion of Timeline MUC TL_26Tl, OLE OLE_TL_26Tl_U_08_26Un
+
+ @@@@ Class Assertion of Timeline MUC TL_27Tl, OLE OLE_TL_27Tl_U_09_27Un
+
+ @@@@ Class Assertion of Timeline MUC TL_28Tl, OLE OLE_TL_28Tl_U_10_28Un
+
+ @@@@ Class Assertion of Timeline MUC TL_29Tl, OLE OLE_TL_29Tl_U_11_29Un
+
+ @@@@ Class Assertion of Timeline MUC TL_30Tl, OLE OLE_TL_30Tl_U_12_30Un
+
+ @@@@ Class Assertion of Timeline MUC TL_31Tl, OLE OLE_TL_31Tl_U_13_31Un
+
+ @@@@ Class Assertion of Timeline MUC TL_32Tl, OLE OLE_TL_32Tl_U_14_32Un
+
+ @@@@ Class Assertion of Timeline MUC TL_33Tl, OLE OLE_TL_33Tl_U_15_33Un
+
+ @@@@ Class Assertion of Timeline MUC TL_37Tl, OLE OLE_TL_37Tl_U_16_34Un
+
+ @@@@ Class Assertion of Timeline MUC TL_38Tl, OLE OLE_TL_38Tl_U_17_35Un
+
+ @@@@ Class Assertion of Timeline MUC TL_39Tl, OLE OLE_TL_39Tl_U_18_36Un
+
+ @@@@ Class Assertion of Timeline MUC TL_40Tl, OLE OLE_TL_40Tl_U_19_37Un
+
+ @@@@ Class Assertion of Timeline MUC TL_41Tl, OLE OLE_TL_41Tl_U_20_38Un
+
+ @@@@ Class Assertion of Timeline MUC TL_42Tl, OLE OLE_TL_42Tl_U_21_39Un
+
+ @@@@ Class Assertion of Timeline MUC TL_43Tl, OLE OLE_TL_43Tl_U_22_40Un
+
+ @@@@ Class Assertion of Timeline MUC TL_44Tl, OLE OLE_TL_44Tl_U_23_41Un
+
+ @@@@ Class Assertion of Timeline MUC TL_45Tl, OLE OLE_TL_45Tl_U_24_42Un
+
+ @@@@ Class Assertion of Timeline MUC TL_46Tl, OLE OLE_TL_46Tl_U_25_43Un
+
+ @@@@ Class Assertion of Timeline MUC TL_47Tl, OLE OLE_TL_47Tl_U_26_44Un
+
+ @@@@ Class Assertion of Timeline MUC TL_48Tl, OLE OLE_TL_48Tl_U_27_45Un
+
+ @@@@ Class Assertion of Timeline MUC TL_49Tl, OLE OLE_TL_49Tl_U_28_46Un
+
+ @@@@ Class Assertion of Timeline MUC TL_50Tl, OLE OLE_TL_50Tl_U_29_47Un
+
+ @@@@ Class Assertion of Timeline MUC TL_51Tl, OLE OLE_TL_51Tl_U_31_48Un
+
+ @@@@ Class Assertion of Timeline MUC TL_52Tl, OLE OLE_TL_52Tl_U_30_49Un
+
+ @@@@ Class Assertion of Timeline MUC TL_53Tl, OLE OLE_TL_53Tl_U_32_50Un
+
+ @@@@ Class Assertion of Timeline MUC TL_54Tl, OLE OLE_TL_54Tl_U_33_51Un
+
+ @@@@ Class Assertion of Timeline MUC TL_55Tl, OLE OLE_TL_55Tl_U_34_52Un
+
+ @@@@ Class Assertion of Timeline MUC TL_56Tl, OLE OLE_TL_56Tl_U_35_53Un
+
+ @@@@ Class Assertion of Timeline MUC TL_57Tl, OLE OLE_TL_57Tl_U_36_54Un
+
+ @@@@ Class Assertion of Timeline MUC TL_58Tl, OLE OLE_TL_58Tl_U_37_55Un
+
+ @@@@ Class Assertion of Timeline MUC TL_59Tl, OLE OLE_TL_59Tl_U_38_56Un
+
+ @@@@ Class Assertion of Timeline MUC TL_60Tl, OLE OLE_TL_60Tl_U_39_57Un
+
+ @@@@ Class Assertion of Timeline MUC TL_61Tl, OLE OLE_TL_61Tl_U_40_58Un
+
+ @@@@ Class Assertion of Timeline MUC TL_62Tl, OLE OLE_TL_62Tl_U_41_59Un
+
+ @@@@ Class Assertion of Timeline MUC TL_63Tl, OLE OLE_TL_63Tl_U_42_60Un
+
+ @@@@ Class Assertion of Timeline MUC TL_64Tl, OLE OLE_TL_64Tl_U_43_61Un
+
+ @@@@ Class Assertion of Timeline MUC TL_65Tl, OLE OLE_TL_65Tl_U_44_62Un
+
+ @@@@ Class Assertion of Timeline MUC TL_67Tl, OLE OLE_TL_67Tl_U_45_64Un
+
+ @@@@ Class Assertion of Timeline MUC TL_69Tl, OLE OLE_TL_69Tl_U_46_66Un
+
+ @@@@ Class Assertion of Timeline MUC TL_70Tl, OLE OLE_TL_70Tl_U_47_67Un
+
+ @@@@ Class Assertion of Timeline MUC TL_72Tl, OLE OLE_TL_72Tl_U_48_68Un
+
+ @@@@ Class Assertion of Scene Sc_Init_25_End_28_fromNonMUC and Timeline NON MUC TL_Init_25_End_28_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_19_End_20_fromNonMUC and Timeline NON MUC TL_Init_19_End_20_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_21_End_23_fromNonMUC and Timeline NON MUC TL_Init_21_End_23_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_29_End_30_fromNonMUC and Timeline NON MUC TL_Init_29_End_30_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_21_End_28_fromNonMUC and Timeline NON MUC TL_Init_21_End_28_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_19_End_30_fromNonMUC and Timeline NON MUC TL_Init_19_End_30_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_31_End_34_fromNonMUC and Timeline NON MUC TL_Init_31_End_34_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_36_End_39_fromNonMUC and Timeline NON MUC TL_Init_36_End_39_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_40_End_45_fromNonMUC and Timeline NON MUC TL_Init_40_End_45_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_47_End_49_fromNonMUC and Timeline NON MUC TL_Init_47_End_49_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_46_End_48_fromNonMUC and Timeline NON MUC TL_Init_46_End_48_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_31_End_48_fromNonMUC and Timeline NON MUC TL_Init_31_End_48_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_50_End_51_fromNonMUC and Timeline NON MUC TL_Init_50_End_51_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_52_End_53_fromNonMUC and Timeline NON MUC TL_Init_52_End_53_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_50_End_54_fromNonMUC and Timeline NON MUC TL_Init_50_End_54_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_55_End_57_fromNonMUC and Timeline NON MUC TL_Init_55_End_57_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_50_End_57_fromNonMUC and Timeline NON MUC TL_Init_50_End_57_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_58_End_59_fromNonMUC and Timeline NON MUC TL_Init_58_End_59_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_60_End_61_fromNonMUC and Timeline NON MUC TL_Init_60_End_61_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_64_End_67_fromNonMUC and Timeline NON MUC TL_Init_64_End_67_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_58_End_61_fromNonMUC and Timeline NON MUC TL_Init_58_End_61_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_58_End_68_fromNonMUC and Timeline NON MUC TL_Init_58_End_68_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_19_End_68_fromNonMUC and Timeline NON MUC TL_Init_19_End_68_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_40_End_48_fromNonMUC and Timeline NON MUC TL_Init_40_End_48_fromNonMUC and all its OLEs
+
+ @@@@ Class Assertion of Scene Sc_Init_31_End_68_fromNonMUC and Timeline NON MUC TL_Init_31_End_68_fromNonMUC and all its OLEs
+
+@@@@ Class assertions of all plans 
+
+  @@@@ Class assertion of plan Csa_int_discolparsi_per_scherzo142AbsPl
+
+  @@@@ Class assertion of plan C_int_sapere_perche_Csa_abbia_mentito140AbsPl
+
+  @@@@ Class assertion of plan Csa_int_sottolineare_i_suoi_patimenti135AbsPl
+
+  @@@@ Class assertion of plan S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl
+
+  @@@@ Class assertion of plan S_int_informare_Csa_su_SOA132AbsPl
+
+  @@@@ Class assertion of plan Csa_int_ricevere_informazioni_su_SOA130AbsPl
+
+  @@@@ Class assertion of plan C_int_supplicare_Csa_perdono127AbsPl
+
+  @@@@ Class assertion of plan S_int_uscire_gabinetto29DePl
+
+  @@@@ Class assertion of plan C_int_esprimere_stupore30DePl
+
+  @@@@ Class assertion of plan Csa_int_esprimere_stupore31DePl
+
+  @@@@ Class assertion of plan S_int_interrogare_C_stupore32DePl
+
+  @@@@ Class assertion of plan S_int_ricordare_gelosia_C33DePl
+
+  @@@@ Class assertion of plan S_int_confutare_gelosia_C34DePl
+
+  @@@@ Class assertion of plan C_int_esprimere_smarrimento35DePl
+
+  @@@@ Class assertion of plan Csa_int_esprimere_stupore36DePl
+
+  @@@@ Class assertion of plan S_int_osservare_stupore_C_e_Csa37DePl
+
+  @@@@ Class assertion of plan C_int_chiedere_S_se_sola38DePl
+
+  @@@@ Class assertion of plan S_int_invitare_C_controllare_presenza_amante39DePl
+
+  @@@@ Class assertion of plan S_int_ribadire_C_controllare40DePl
+
+  @@@@ Class assertion of plan C_int_affermare_controllare41DePl
+
+  @@@@ Class assertion of plan C_int_entrare_gabinetto42DePl
+
+  @@@@ Class assertion of plan Csa_int_chiedere_spiegazioni43DePl
+
+  @@@@ Class assertion of plan S_int_rispondere_Csa44DePl
+
+  @@@@ Class assertion of plan C_int_uscire_gabinetto45DePl
+
+  @@@@ Class assertion of plan C_int_riconoscere_torto46DePl
+
+  @@@@ Class assertion of plan C_int_chiedere_perdono47DePl
+
+  @@@@ Class assertion of plan C_int_fare_vittima48DePl
+
+  @@@@ Class assertion of plan Csa_int_rifiutare_perdono_C49DePl
+
+  @@@@ Class assertion of plan S_int_non_perdonare_C50DePl
+
+  @@@@ Class assertion of plan C_int_blandire_Csa51DePl
+
+  @@@@ Class assertion of plan Csa_int_respingere_affetto_C52DePl
+
+  @@@@ Class assertion of plan C_int_ribadire_amore_per_Csa53DePl
+
+  @@@@ Class assertion of plan Csa_int_accusare_C_spergiuro54DePl
+
+  @@@@ Class assertion of plan Csa_int_accusare_C_non_stima_per_Csa55DePl
+
+  @@@@ Class assertion of plan C_int_chiedere_aiuto_S56DePl
+
+  @@@@ Class assertion of plan S_int_negare_aiuto_C57DePl
+
+  @@@@ Class assertion of plan Csa_int_accusare_C_trattarla_male58DePl
+
+  @@@@ Class assertion of plan C_int_pregare_S_aiuto59DePl
+
+  @@@@ Class assertion of plan S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl
+
+  @@@@ Class assertion of plan C_blandire_Csa61DePl
+
+  @@@@ Class assertion of plan S_int_chiedere_clemenza_Csa62DePl
+
+  @@@@ Class assertion of plan Csa_int_ribaltare_lusinghe_C63DePl
+
+  @@@@ Class assertion of plan Csa_int_accusare_C_trascurarla64DePl
+
+  @@@@ Class assertion of plan C_int_esprimere_pentimento_65DePl
+
+  @@@@ Class assertion of plan S_int_supplicare_Csa_perdono66DePl
+
+  @@@@ Class assertion of plan Csa_int_rimarcare_suo_dolore67DePl
+
+  @@@@ Class assertion of plan S_int_incalzare_C68AbsPl
+
+  @@@@ Class assertion of plan S_int_evidenziare_errore_C69AbsPl
+
+  @@@@ Class assertion of plan S_int_mettere_in_difficoltà_C70AbsPl
+
+  @@@@ Class assertion of plan S_int_contrattaccare_C71AbsPl
+
+  @@@@ Class assertion of plan C_int_mettere_in_dubbio_S_sola72AbsPl
+
+  @@@@ Class assertion of plan C_int_controllare_se_Cno_nel_gabinetto73AbsPl
+
+  @@@@ Class assertion of plan C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl
+
+  @@@@ Class assertion of plan Csa_int_capire_situazione76AbsPl
+
+  @@@@ Class assertion of plan C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl
+
+  @@@@ Class assertion of plan C_int_sollevare_mozione_affetti78AbsPl
+
+  @@@@ Class assertion of plan C_int_chiedere_aiuto_S79AbsPl
+
+  @@@@ Class assertion of plan C_int_ottenere_perdono_da_Csa80AbsPl
+
+  @@@@ Class assertion of plan Csa_int_respingere_mozione_affetti_C81AbsPl
+
+  @@@@ Class assertion of plan Csa_int_accusare_C_infedeltà82AbsPl
+
+  @@@@ Class assertion of plan Csa_int_attaccare_il_Conte83AbsPl
+
+  @@@@ Class assertion of plan S_int_far_pesare_aiuto_C85AbsPl
+
+  @@@@ Class assertion of plan S_int_chiedere_Csa_perdonare_C86AbsPl
+
+  @@@@ Class assertion of plan C_int_chiedere_conto_Csa_bugie88DePl
+
+  @@@@ Class assertion of plan Csa_int_sviare_discorso89DePl
+
+  @@@@ Class assertion of plan C_int_chiedere_conto_recitazione_Csa90DePl
+
+  @@@@ Class assertion of plan Csa_int_rispondere_genericamente91DePl
+
+  @@@@ Class assertion of plan C_int_chiedere_conto_foglietto92DePl
+
+  @@@@ Class assertion of plan Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl
+
+  @@@@ Class assertion of plan S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl
+
+  @@@@ Class assertion of plan C_int_accusare_S_e_Csa_cattiveria95DePl
+
+  @@@@ Class assertion of plan Csa_int_patteggiare_i_perdoni96DePl
+
+  @@@@ Class assertion of plan S_int_patteggiare_i_perdoni97DePl
+
+  @@@@ Class assertion of plan C_int_interrogare_Csa_su_scherzo98AbsPl
+
+  @@@@ Class assertion of plan C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl
+
+  @@@@ Class assertion of plan Csa_int_sviare_il_discorso100AbsPl
+
+  @@@@ Class assertion of plan S_int_smentire_C_tradimento_Csa128AbsPl
+
+  @@@@ Class assertion of plan C_int_offrire_pace_reciproca102DePl
+
+  @@@@ Class assertion of plan C_int_invocare_gentilezza_Csa103DePl
+
+  @@@@ Class assertion of plan Csa_int_rimarcare_sua_gentilezza104DePl
+
+  @@@@ Class assertion of plan Csa_int_fare_sprezzatura105DePl
+
+  @@@@ Class assertion of plan C_int_chiedere_pace_comune_con_gentilezza106AbsPl
+
+  @@@@ Class assertion of plan S_int_invitare_Csa_accettare_pace_onorevole108DePl
+
+  @@@@ Class assertion of plan C_int_chiedere_Csa_perdono_e_dolcezza109DePl
+
+  @@@@ Class assertion of plan Csa_int_sprezzare_pace110DePl
+
+  @@@@ Class assertion of plan C_da_onore_Csa111DePl
+
+  @@@@ Class assertion of plan C_int_raggiungere_armonia_con_S_e_Csa112DePl
+
+  @@@@ Class assertion of plan Csa_int_raggiungere_armonia_con_C113DePl
+
+  @@@@ Class assertion of plan S_int_raggiungere_armonia_con_Csa_e_C114DePl
+
+  @@@@ Class assertion of plan C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl
+
+  @@@@ Class assertion of plan C_int_offrire_pace_Csa116AbsPl
+
+  @@@@ Class assertion of plan S_int_ristabilire_pace_reciproca118AbsPl
+
+  @@@@ Class assertion of plan Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl
+
+  @@@@ Class assertion of plan S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl
+
+  @@@@ Class assertion of plan C_int_sapere_perché_Csa_abbia_recitato141AbsPl
+
+  @@@@ Class assertion of plan C_int_accusare_Csa_crudeltà_scherzo143AbsPl
+
+  @@@@ Class assertion of plan Csa_int_difendersi_accuse_crudeltà_C144AbsPl
+
+  @@@@ Class assertion of plan Csa_int_accettare_pace_facendo_sostenuta145AbsPl
+
+  @@@@ Class assertion of plan C_int_ottenere_pace_con_Csa146AbsPl
+
+  @@@@ Class assertion of plan Csa_int_concordare_pace_C147AbsPl
+
+  @@@@ Class assertion of plan Csa_int_accettare_pace_onorevole148AbsPl
+
+  @@@@ Class assertion of plan C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl
+
+  @@@@ Class assertion of plan Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl
+
+  @@@@ Class assertion of plan S_int_mettere_C_in_subalternità151AbsPl
+
+  @@@@ Class assertion of plan S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl
+
+  @@@@ Class assertion of plan Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl
+
+  @@@@ Class assertion of plan S_int_guadagnare_credito_con_C160AbsPl
+
+  @@@@ Class assertion of plan C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl
+
+  @@@@ Class assertion of plan C_int_recuperare_posizione_preso_atto_situazione158AbsPl
+
+  @@@@ Class assertion of plan Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl
+
+@@@@ Class assertion of all subplan OLEs 
+    #### Class assertion of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_fare_vittima48DePl
+    #### Class assertion of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_chiedere_perdono47DePl
+    #### Class assertion of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_riconoscere_torto46DePl
+    #### Class assertion of subplan OLE: father: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl; child: C_int_uscire_gabinetto45DePl
+    #### Class assertion of subplan OLE: father: C_int_sollevare_mozione_affetti78AbsPl; child: C_int_ribadire_amore_per_Csa53DePl
+    #### Class assertion of subplan OLE: father: C_int_sollevare_mozione_affetti78AbsPl; child: C_int_blandire_Csa51DePl
+    #### Class assertion of subplan OLE: father: Csa_int_respingere_mozione_affetti_C81AbsPl; child: Csa_int_accusare_C_spergiuro54DePl
+    #### Class assertion of subplan OLE: father: Csa_int_respingere_mozione_affetti_C81AbsPl; child: Csa_int_respingere_affetto_C52DePl
+    #### Class assertion of subplan OLE: father: C_int_chiedere_aiuto_S79AbsPl; child: C_int_pregare_S_aiuto59DePl
+    #### Class assertion of subplan OLE: father: C_int_chiedere_aiuto_S79AbsPl; child: C_int_chiedere_aiuto_S56DePl
+    #### Class assertion of subplan OLE: father: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl; child: C_int_supplicare_Csa_perdono127AbsPl
+    #### Class assertion of subplan OLE: father: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl; child: C_int_chiedere_aiuto_S79AbsPl
+    #### Class assertion of subplan OLE: father: C_int_ottenere_perdono_da_Csa80AbsPl; child: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl
+    #### Class assertion of subplan OLE: father: C_int_ottenere_perdono_da_Csa80AbsPl; child: C_int_sollevare_mozione_affetti78AbsPl
+    #### Class assertion of subplan OLE: father: C_int_ottenere_perdono_da_Csa80AbsPl; child: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_accusare_C_infedeltà82AbsPl; child: Csa_int_accusare_C_trascurarla64DePl
+    #### Class assertion of subplan OLE: father: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl; child: Csa_int_accusare_C_trattarla_male58DePl
+    #### Class assertion of subplan OLE: father: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl; child: Csa_int_accusare_C_non_stima_per_Csa55DePl
+    #### Class assertion of subplan OLE: father: C_int_recuperare_posizione_preso_atto_situazione158AbsPl; child: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl
+    #### Class assertion of subplan OLE: father: S_int_mettere_C_in_subalternità151AbsPl; child: S_int_contrattaccare_C71AbsPl
+    #### Class assertion of subplan OLE: father: S_int_mettere_C_in_subalternità151AbsPl; child: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl
+    #### Class assertion of subplan OLE: father: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl; child: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl
+    #### Class assertion of subplan OLE: father: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl; child: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl
+    #### Class assertion of subplan OLE: father: S_int_far_pesare_aiuto_C85AbsPl; child: S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl
+    #### Class assertion of subplan OLE: father: S_int_far_pesare_aiuto_C85AbsPl; child: S_int_negare_aiuto_C57DePl
+    #### Class assertion of subplan OLE: father: S_int_chiedere_Csa_perdonare_C86AbsPl; child: S_int_supplicare_Csa_perdono66DePl
+    #### Class assertion of subplan OLE: father: S_int_chiedere_Csa_perdonare_C86AbsPl; child: S_int_chiedere_clemenza_Csa62DePl
+    #### Class assertion of subplan OLE: father: C_int_sapere_perche_Csa_abbia_mentito140AbsPl; child: C_int_chiedere_conto_Csa_bugie88DePl
+    #### Class assertion of subplan OLE: father: S_int_guadagnare_credito_con_C160AbsPl; child: S_int_far_pesare_aiuto_C85AbsPl
+    #### Class assertion of subplan OLE: father: S_int_guadagnare_credito_con_C160AbsPl; child: S_int_chiedere_Csa_perdonare_C86AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_attaccare_il_Conte83AbsPl; child: Csa_int_respingere_mozione_affetti_C81AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_sviare_il_discorso100AbsPl; child: Csa_int_sviare_discorso89DePl
+    #### Class assertion of subplan OLE: father: Csa_int_accettare_pace_onorevole148AbsPl; child: Csa_int_concordare_pace_C147AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_discolparsi_per_scherzo142AbsPl; child: Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl
+    #### Class assertion of subplan OLE: father: Csa_int_discolparsi_per_scherzo142AbsPl; child: Csa_int_patteggiare_i_perdoni96DePl
+    #### Class assertion of subplan OLE: father: Csa_int_difendersi_accuse_crudeltà_C144AbsPl; child: Csa_int_sviare_il_discorso100AbsPl
+    #### Class assertion of subplan OLE: father: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl; child: C_int_accusare_Csa_crudeltà_scherzo143AbsPl
+    #### Class assertion of subplan OLE: father: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl; child: C_int_interrogare_Csa_su_scherzo98AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_difendersi_accuse_crudeltà_C144AbsPl; child: Csa_int_discolparsi_per_scherzo142AbsPl
+    #### Class assertion of subplan OLE: father: C_int_interrogare_Csa_su_scherzo98AbsPl; child: C_int_sapere_perché_Csa_abbia_recitato141AbsPl
+    #### Class assertion of subplan OLE: father: C_int_interrogare_Csa_su_scherzo98AbsPl; child: C_int_sapere_perche_Csa_abbia_mentito140AbsPl
+    #### Class assertion of subplan OLE: father: S_int_ristabilire_pace_reciproca118AbsPl; child: S_int_raggiungere_armonia_con_Csa_e_C114DePl
+    #### Class assertion of subplan OLE: father: S_int_ristabilire_pace_reciproca118AbsPl; child: S_int_invitare_Csa_accettare_pace_onorevole108DePl
+    #### Class assertion of subplan OLE: father: Csa_int_accettare_pace_facendo_sostenuta145AbsPl; child: Csa_int_rimarcare_sua_gentilezza104DePl
+    #### Class assertion of subplan OLE: father: Csa_int_accettare_pace_facendo_sostenuta145AbsPl; child: Csa_int_fare_sprezzatura105DePl
+    #### Class assertion of subplan OLE: father: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl; child: C_da_onore_Csa111DePl
+    #### Class assertion of subplan OLE: father: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl; child: C_int_chiedere_Csa_perdono_e_dolcezza109DePl
+    #### Class assertion of subplan OLE: father: C_int_chiedere_pace_comune_con_gentilezza106AbsPl; child: C_int_invocare_gentilezza_Csa103DePl
+    #### Class assertion of subplan OLE: father: C_int_chiedere_pace_comune_con_gentilezza106AbsPl; child: C_int_offrire_pace_reciproca102DePl
+    #### Class assertion of subplan OLE: father: C_int_offrire_pace_Csa116AbsPl; child: C_int_ottenere_pace_con_Csa146AbsPl
+    #### Class assertion of subplan OLE: father: C_int_offrire_pace_Csa116AbsPl; child: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl
+    #### Class assertion of subplan OLE: father: C_int_ottenere_pace_con_Csa146AbsPl; child: C_int_chiedere_pace_comune_con_gentilezza106AbsPl
+    #### Class assertion of subplan OLE: father: S_int_incalzare_C68AbsPl; child: S_int_confutare_gelosia_C34DePl
+    #### Class assertion of subplan OLE: father: S_int_incalzare_C68AbsPl; child: S_int_ricordare_gelosia_C33DePl
+    #### Class assertion of subplan OLE: father: S_int_incalzare_C68AbsPl; child: S_int_interrogare_C_stupore32DePl
+    #### Class assertion of subplan OLE: father: S_int_evidenziare_errore_C69AbsPl; child: S_int_ribadire_C_controllare40DePl
+    #### Class assertion of subplan OLE: father: S_int_evidenziare_errore_C69AbsPl; child: S_int_invitare_C_controllare_presenza_amante39DePl
+    #### Class assertion of subplan OLE: father: S_int_mettere_in_difficoltà_C70AbsPl; child: S_int_evidenziare_errore_C69AbsPl
+    #### Class assertion of subplan OLE: father: S_int_mettere_in_difficoltà_C70AbsPl; child: S_int_osservare_stupore_C_e_Csa37DePl
+    #### Class assertion of subplan OLE: father: S_int_mettere_in_difficoltà_C70AbsPl; child: S_int_incalzare_C68AbsPl
+    #### Class assertion of subplan OLE: father: S_int_contrattaccare_C71AbsPl; child: S_int_informare_Csa_su_SOA132AbsPl
+    #### Class assertion of subplan OLE: father: S_int_contrattaccare_C71AbsPl; child: S_int_mettere_in_difficoltà_C70AbsPl
+    #### Class assertion of subplan OLE: father: C_int_mettere_in_dubbio_S_sola72AbsPl; child: C_int_affermare_controllare41DePl
+    #### Class assertion of subplan OLE: father: C_int_mettere_in_dubbio_S_sola72AbsPl; child: C_int_chiedere_S_se_sola38DePl
+    #### Class assertion of subplan OLE: father: C_int_controllare_se_Cno_nel_gabinetto73AbsPl; child: C_int_entrare_gabinetto42DePl
+    #### Class assertion of subplan OLE: father: C_int_supplicare_Csa_perdono127AbsPl; child: C_int_esprimere_pentimento_65DePl
+    #### Class assertion of subplan OLE: father: C_int_supplicare_Csa_perdono127AbsPl; child: C_blandire_Csa61DePl
+    #### Class assertion of subplan OLE: father: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl; child: C_int_controllare_se_Cno_nel_gabinetto73AbsPl
+    #### Class assertion of subplan OLE: father: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl; child: C_int_mettere_in_dubbio_S_sola72AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_capire_situazione76AbsPl; child: Csa_int_ricevere_informazioni_su_SOA130AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_ricevere_informazioni_su_SOA130AbsPl; child: Csa_int_chiedere_spiegazioni43DePl
+    #### Class assertion of subplan OLE: father: Csa_int_capire_situazione76AbsPl; child: Csa_int_esprimere_stupore31DePl
+    #### Class assertion of subplan OLE: father: Csa_int_capire_situazione76AbsPl; child: Csa_int_esprimere_stupore36DePl
+    #### Class assertion of subplan OLE: father: C_int_recuperare_posizione_preso_atto_situazione158AbsPl; child: C_int_ottenere_perdono_da_Csa80AbsPl
+    #### Class assertion of subplan OLE: father: C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl; child: C_int_recuperare_posizione_preso_atto_situazione158AbsPl
+    #### Class assertion of subplan OLE: father: C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl; child: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl; child: Csa_int_difendersi_accuse_crudeltà_C144AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl; child: Csa_int_attaccare_il_Conte83AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl; child: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl; child: Csa_int_capire_situazione76AbsPl
+    #### Class assertion of subplan OLE: father: S_int_contrattaccare_C71AbsPl; child: S_int_smentire_C_tradimento_Csa128AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_attaccare_il_Conte83AbsPl; child: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl; child: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl; child: Csa_int_sottolineare_i_suoi_patimenti135AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_sottolineare_i_suoi_patimenti135AbsPl; child: Csa_int_accusare_C_infedeltà82AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_concordare_pace_C147AbsPl; child: Csa_int_accettare_pace_facendo_sostenuta145AbsPl
+    #### Class assertion of subplan OLE: father: C_int_recuperare_posizione_preso_atto_situazione158AbsPl; child: C_int_offrire_pace_Csa116AbsPl
+    #### Class assertion of subplan OLE: father: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl; child: Csa_int_accettare_pace_onorevole148AbsPl
+    #### Class assertion of subplan OLE: father: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl; child: S_int_ristabilire_pace_reciproca118AbsPl
+    #### Class assertion of subplan OLE: father: C_int_sapere_perché_Csa_abbia_recitato141AbsPl; child: C_int_chiedere_conto_recitazione_Csa90DePl
+    #### Class assertion of subplan OLE: father: C_int_accusare_Csa_crudeltà_scherzo143AbsPl; child: C_int_accusare_S_e_Csa_cattiveria95DePl
+    #### Class assertion of subplan OLE: father: S_int_informare_Csa_su_SOA132AbsPl; child: S_int_rispondere_Csa44DePl
+    #### Class assertion of subplan OLE: father: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl; child: S_int_non_perdonare_C50DePl
+    #### Class assertion of subplan OLE: father: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl; child: S_int_guadagnare_credito_con_C160AbsPl
+    #### Class assertion of subplan OLE: father: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl; child: S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl
+    #### Class assertion of subplan OLE: father: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl; child: S_int_patteggiare_i_perdoni97DePl
+    #### Class assertion of subplan OLE: father: Csa_int_sviare_il_discorso100AbsPl; child: Csa_int_rispondere_genericamente91DePl
+
+ @@@@ 
+ @@@@ OBJECT PROPERTY ASSERTIONS!!! @@@@ 
+ @@@@ 
+ @@@@ 
+
+
+@@@@ OBJ PROPERTY ASSERTION FOR UNITS IN TL_total
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_01_19Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_02_20Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_03_21Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_04_22Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_05_23Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_06_24Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_07_25Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_08_26Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_09_27Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_10_28Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_11_29Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_12_30Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_13_31Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_14_32Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_15_33Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_16_34Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_17_35Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_18_36Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_19_37Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_20_38Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_21_39Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_22_40Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_23_41Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_24_42Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_25_43Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_26_44Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_27_45Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_28_46Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_29_47Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_31_48Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_30_49Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_32_50Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_33_51Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_34_52Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_35_53Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_36_54Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_37_55Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_38_56Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_39_57Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_40_58Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_41_59Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_42_60Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_43_61Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_44_62Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_45_64Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_46_66Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_47_67Un
+  #### OBJ PROPERTY ASSERTION containsOLE + hasData FOR Unit in TL_total: U_48_68Un
+ !!!! Warning in ObjPropAss! Unit: 86 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 87 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 88 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 89 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 90 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 91 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 93 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 94 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 95 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 96 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 97 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 98 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 99 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 100 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 101 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 102 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 103 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 104 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 105 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 106 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 107 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 108 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 109 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 110 is not MUC. Unit not in TL_total.
+ !!!! Warning in ObjPropAss! Unit: 113 is not MUC. Unit not in TL_total.
+
+  @@@@ OBJ PROPERTY ASSERTION precedes over OLEs
+
+@@@@ OBJ PROPERTY ASSERTION firstOLE and lastOLE, if possible
+  #### Number of firstOLE: 1
+  #### Number of lastOLE: 1
+
+
+@@@@ OBJ PROPERTY ASSERTIONS (OLE, firstOLE, lastOLE) FOR TIMELINES FROM MUC UNITS
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_19Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_20Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_21Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_22Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_23Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_24Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_25Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_26Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_27Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_28Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_29Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_30Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_31Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_32Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_33Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_37Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_38Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_39Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_40Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_41Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_42Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_43Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_44Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_45Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_46Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_47Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_48Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_49Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_50Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_51Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_52Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_53Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_54Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_55Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_56Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_57Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_58Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_59Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_60Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_61Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_62Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_63Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_64Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_65Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_67Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_69Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_70Tl
+  @@@@ OBJ PROPERTY ASSERTIONS FOR MUC TIMELINE TL_72Tl
+
+
+@@@@ OBJ PROPERTY ASSERTIONS (OLEs, firstOLE, lastOLE, precedes) FOR TIMELINES FROM NON-MUC UNITS
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_25_End_28_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_25_End_28_fromNonMUC_U_07_25Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_25_End_28_fromNonMUC_U_08_26Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_25_End_28_fromNonMUC_U_09_27Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_25_End_28_fromNonMUC_U_10_28Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_19_End_20_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_19_End_20_fromNonMUC_U_01_19Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_20_fromNonMUC_U_02_20Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_21_End_23_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_21_End_23_fromNonMUC_U_03_21Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_23_fromNonMUC_U_04_22Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_23_fromNonMUC_U_05_23Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_29_End_30_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_29_End_30_fromNonMUC_U_11_29Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_29_End_30_fromNonMUC_U_12_30Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_21_End_28_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_21_End_28_fromNonMUC_U_03_21Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_28_fromNonMUC_U_04_22Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_28_fromNonMUC_U_05_23Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_28_fromNonMUC_U_06_24Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_28_fromNonMUC_U_07_25Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_28_fromNonMUC_U_08_26Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_28_fromNonMUC_U_09_27Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_21_End_28_fromNonMUC_U_10_28Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_19_End_30_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_19_End_30_fromNonMUC_U_01_19Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_02_20Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_03_21Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_04_22Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_05_23Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_06_24Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_07_25Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_08_26Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_09_27Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_10_28Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_11_29Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_30_fromNonMUC_U_12_30Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_31_End_34_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_31_End_34_fromNonMUC_U_13_31Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_34_fromNonMUC_U_14_32Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_34_fromNonMUC_U_15_33Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_34_fromNonMUC_U_16_34Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_36_End_39_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_36_End_39_fromNonMUC_U_18_36Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_36_End_39_fromNonMUC_U_19_37Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_36_End_39_fromNonMUC_U_20_38Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_36_End_39_fromNonMUC_U_21_39Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_40_End_45_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_40_End_45_fromNonMUC_U_22_40Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_45_fromNonMUC_U_23_41Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_45_fromNonMUC_U_24_42Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_45_fromNonMUC_U_25_43Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_45_fromNonMUC_U_26_44Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_45_fromNonMUC_U_27_45Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_47_End_49_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_47_End_49_fromNonMUC_U_29_47Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_47_End_49_fromNonMUC_U_30_49Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_46_End_48_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_46_End_48_fromNonMUC_U_28_46Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_46_End_48_fromNonMUC_U_29_47Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_46_End_48_fromNonMUC_U_30_49Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_46_End_48_fromNonMUC_U_31_48Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_31_End_48_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_31_End_48_fromNonMUC_U_13_31Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_14_32Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_15_33Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_16_34Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_17_35Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_18_36Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_19_37Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_20_38Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_21_39Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_22_40Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_23_41Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_24_42Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_25_43Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_26_44Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_27_45Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_28_46Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_29_47Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_30_49Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_48_fromNonMUC_U_31_48Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_50_End_51_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_50_End_51_fromNonMUC_U_32_50Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_51_fromNonMUC_U_33_51Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_52_End_53_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_52_End_53_fromNonMUC_U_34_52Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_52_End_53_fromNonMUC_U_35_53Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_50_End_54_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_50_End_54_fromNonMUC_U_32_50Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_54_fromNonMUC_U_33_51Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_54_fromNonMUC_U_34_52Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_54_fromNonMUC_U_35_53Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_54_fromNonMUC_U_36_54Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_55_End_57_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_55_End_57_fromNonMUC_U_37_55Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_55_End_57_fromNonMUC_U_38_56Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_55_End_57_fromNonMUC_U_39_57Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_50_End_57_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_50_End_57_fromNonMUC_U_32_50Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_57_fromNonMUC_U_33_51Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_57_fromNonMUC_U_34_52Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_57_fromNonMUC_U_35_53Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_57_fromNonMUC_U_36_54Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_57_fromNonMUC_U_37_55Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_57_fromNonMUC_U_38_56Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_50_End_57_fromNonMUC_U_39_57Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_58_End_59_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_58_End_59_fromNonMUC_U_40_58Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_59_fromNonMUC_U_41_59Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_60_End_61_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_60_End_61_fromNonMUC_U_42_60Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_60_End_61_fromNonMUC_U_43_61Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_64_End_67_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_64_End_67_fromNonMUC_U_45_64Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_64_End_67_fromNonMUC_U_46_66Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_64_End_67_fromNonMUC_U_47_67Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_58_End_61_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_58_End_61_fromNonMUC_U_40_58Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_61_fromNonMUC_U_41_59Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_61_fromNonMUC_U_42_60Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_61_fromNonMUC_U_43_61Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_58_End_68_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_58_End_68_fromNonMUC_U_40_58Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_41_59Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_42_60Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_43_61Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_44_62Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_45_64Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_46_66Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_47_67Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_58_End_68_fromNonMUC_U_48_68Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_19_End_68_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_19_End_68_fromNonMUC_U_01_19Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_02_20Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_03_21Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_04_22Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_05_23Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_06_24Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_07_25Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_08_26Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_09_27Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_10_28Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_11_29Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_12_30Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_13_31Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_14_32Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_15_33Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_16_34Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_17_35Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_18_36Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_19_37Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_20_38Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_21_39Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_22_40Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_23_41Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_24_42Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_25_43Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_26_44Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_27_45Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_28_46Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_29_47Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_30_49Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_31_48Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_32_50Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_33_51Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_34_52Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_35_53Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_36_54Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_37_55Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_38_56Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_39_57Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_40_58Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_41_59Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_42_60Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_43_61Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_44_62Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_45_64Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_46_66Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_47_67Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_19_End_68_fromNonMUC_U_48_68Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_40_End_48_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_40_End_48_fromNonMUC_U_22_40Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_23_41Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_24_42Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_25_43Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_26_44Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_27_45Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_28_46Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_29_47Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_30_49Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_40_End_48_fromNonMUC_U_31_48Un
+
+ @@@@ OBJ PROPERTY ASSERTION FOR TIMELINE TL_Init_31_End_68_fromNonMUC FROM Unit NON MUC: null
+  #### ObjectPropertyAssertion containsOLE + hasData OLE_TL_Init_31_End_68_fromNonMUC_U_13_31Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_14_32Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_15_33Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_16_34Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_17_35Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_18_36Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_19_37Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_20_38Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_21_39Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_22_40Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_23_41Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_24_42Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_25_43Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_26_44Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_27_45Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_28_46Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_29_47Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_30_49Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_31_48Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_32_50Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_33_51Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_34_52Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_35_53Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_36_54Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_37_55Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_38_56Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_39_57Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_40_58Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_41_59Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_42_60Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_43_61Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_44_62Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_45_64Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_46_66Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_47_67Un
+  #### ObjectPropertyAssertion containsOLE + hasData + precedes OLE_TL_Init_31_End_68_fromNonMUC_U_48_68Un
+
+
+@@@@ OBJ PROPERTY ASSERTION FOR PLANS
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_discolparsi_per_scherzo142AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ #### ObjPropAss of Goal of Plan: Csa_v_discolparsi16Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_discolparsi_per_scherzo142AbsPl is timeline TL_Init_55_End_57_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl
+    #### subplan Csa_int_patteggiare_i_perdoni96DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl, of 2 subplans
+ #### ObjPropAss of subplan 1: Csa_int_patteggiare_i_perdoni96DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_sapere_perche_Csa_abbia_mentito140AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ #### ObjPropAss of Goal of Plan: C_v_mettere_pressione_Csa_su_scherzo13Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_sapere_perche_Csa_abbia_mentito140AbsPl is timeline TL_Init_50_End_51_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_chiedere_conto_Csa_bugie88DePl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, C_int_chiedere_conto_Csa_bugie88DePl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_sottolineare_i_suoi_patimenti135AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_sottolineare_i_suoi_patimenti135AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_sottolineare_i_suoi_patimenti135AbsPl is timeline TL_Init_46_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_accusare_C_infedeltà82AbsPl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_accusare_C_infedeltà82AbsPl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl is timeline TL_Init_31_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl
+    #### subplan S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl
+    #### subplan S_int_ristabilire_pace_reciproca118AbsPl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl, of 3 subplans
+ #### ObjPropAss of subplan 0: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl
+ #### ObjPropAss of subplan 2: S_int_ristabilire_pace_reciproca118AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_informare_Csa_su_SOA132AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ #### ObjPropAss of Goal of Plan: S_v_Csa_domini_SOA11Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_informare_Csa_su_SOA132AbsPl is timeline TL_Init_29_End_30_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_rispondere_Csa44DePl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, S_int_rispondere_Csa44DePl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_ricevere_informazioni_su_SOA130AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ #### ObjPropAss of Goal of Plan: C_v_capire_SOA10Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_ricevere_informazioni_su_SOA130AbsPl is timeline TL_Init_29_End_30_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_chiedere_spiegazioni43DePl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_chiedere_spiegazioni43DePl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_supplicare_Csa_perdono127AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_supplicare_Csa_perdono127AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_supplicare_Csa_perdono127AbsPl is timeline TL_Init_46_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_esprimere_pentimento_65DePl
+    #### subplan C_blandire_Csa61DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_blandire_Csa61DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_esprimere_pentimento_65DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_uscire_gabinetto29DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_uscire_gabinetto29DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_uscire_gabinetto29DePl is timeline TL_19Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_esprimere_stupore30DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_esprimere_stupore30DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_esprimere_stupore30DePl is timeline TL_20Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_esprimere_stupore31DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_esprimere_stupore31DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_esprimere_stupore31DePl is timeline TL_20Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_interrogare_C_stupore32DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_interrogare_C_stupore32DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_interrogare_C_stupore32DePl is timeline TL_21Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_ricordare_gelosia_C33DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_ricordare_gelosia_C33DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_ricordare_gelosia_C33DePl is timeline TL_22Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_confutare_gelosia_C34DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_confutare_gelosia_C34DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_confutare_gelosia_C34DePl is timeline TL_23Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_esprimere_smarrimento35DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_esprimere_smarrimento35DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_esprimere_smarrimento35DePl is timeline TL_24Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_esprimere_stupore36DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_esprimere_stupore36DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_esprimere_stupore36DePl is timeline TL_24Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_osservare_stupore_C_e_Csa37DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_osservare_stupore_C_e_Csa37DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_osservare_stupore_C_e_Csa37DePl is timeline TL_24Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_S_se_sola38DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_S_se_sola38DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_chiedere_S_se_sola38DePl is timeline TL_25Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_invitare_C_controllare_presenza_amante39DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ #### ObjPropAss of Goal of Plan: S_v_provocare_C7Go
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_invitare_C_controllare_presenza_amante39DePl is timeline TL_26Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_ribadire_C_controllare40DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_ribadire_C_controllare40DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_ribadire_C_controllare40DePl is timeline TL_27Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_affermare_controllare41DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_affermare_controllare41DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_affermare_controllare41DePl is timeline TL_27Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_entrare_gabinetto42DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_entrare_gabinetto42DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_entrare_gabinetto42DePl is timeline TL_28Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_chiedere_spiegazioni43DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_chiedere_spiegazioni43DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_chiedere_spiegazioni43DePl is timeline TL_29Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_rispondere_Csa44DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_rispondere_Csa44DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_rispondere_Csa44DePl is timeline TL_30Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_uscire_gabinetto45DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_uscire_gabinetto45DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_uscire_gabinetto45DePl is timeline TL_31Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_riconoscere_torto46DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_riconoscere_torto46DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_riconoscere_torto46DePl is timeline TL_32Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_perdono47DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_perdono47DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_chiedere_perdono47DePl is timeline TL_33Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_fare_vittima48DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_fare_vittima48DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_fare_vittima48DePl is timeline TL_37Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_rifiutare_perdono_C49DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_rifiutare_perdono_C49DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_rifiutare_perdono_C49DePl is timeline TL_38Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_non_perdonare_C50DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_non_perdonare_C50DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_non_perdonare_C50DePl is timeline TL_38Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_blandire_Csa51DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_blandire_Csa51DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_blandire_Csa51DePl is timeline TL_39Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_respingere_affetto_C52DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_respingere_affetto_C52DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_respingere_affetto_C52DePl is timeline TL_40Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_ribadire_amore_per_Csa53DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_ribadire_amore_per_Csa53DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_ribadire_amore_per_Csa53DePl is timeline TL_41Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accusare_C_spergiuro54DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_accusare_C_spergiuro54DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_accusare_C_spergiuro54DePl is timeline TL_42Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accusare_C_non_stima_per_Csa55DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_accusare_C_non_stima_per_Csa55DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_accusare_C_non_stima_per_Csa55DePl is timeline TL_43Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_aiuto_S56DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_aiuto_S56DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_chiedere_aiuto_S56DePl is timeline TL_44Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_negare_aiuto_C57DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_negare_aiuto_C57DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_negare_aiuto_C57DePl is timeline TL_45Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accusare_C_trattarla_male58DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_accusare_C_trattarla_male58DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_accusare_C_trattarla_male58DePl is timeline TL_46Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_pregare_S_aiuto59DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_pregare_S_aiuto59DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_pregare_S_aiuto59DePl is timeline TL_47Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl is timeline TL_48Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_blandire_Csa61DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_blandire_Csa61DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_blandire_Csa61DePl is timeline TL_49Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_chiedere_clemenza_Csa62DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_chiedere_clemenza_Csa62DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_chiedere_clemenza_Csa62DePl is timeline TL_49Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_ribaltare_lusinghe_C63DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_ribaltare_lusinghe_C63DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_ribaltare_lusinghe_C63DePl is timeline TL_50Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accusare_C_trascurarla64DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_accusare_C_trascurarla64DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_accusare_C_trascurarla64DePl is timeline TL_52Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_esprimere_pentimento_65DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_esprimere_pentimento_65DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_esprimere_pentimento_65DePl is timeline TL_51Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_supplicare_Csa_perdono66DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_supplicare_Csa_perdono66DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_supplicare_Csa_perdono66DePl is timeline TL_51Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_rimarcare_suo_dolore67DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_rimarcare_suo_dolore67DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_rimarcare_suo_dolore67DePl is timeline TL_51Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_incalzare_C68AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ #### ObjPropAss of Goal of Plan: S_v_mettere_in_difficoltà_C8Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_incalzare_C68AbsPl is timeline TL_Init_21_End_23_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_confutare_gelosia_C34DePl
+    #### subplan S_int_ricordare_gelosia_C33DePl
+    #### subplan S_int_interrogare_C_stupore32DePl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 2, S_int_interrogare_C_stupore32DePl, of 3 subplans
+ #### ObjPropAss of subplan 1: S_int_ricordare_gelosia_C33DePl
+ #### ObjPropAss of subplan 0: S_int_confutare_gelosia_C34DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_evidenziare_errore_C69AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ #### ObjPropAss of Goal of Plan: S_v_C_si_umili9Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_evidenziare_errore_C69AbsPl is timeline TL_Init_25_End_28_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_ribadire_C_controllare40DePl
+    #### subplan S_int_invitare_C_controllare_presenza_amante39DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, S_int_invitare_C_controllare_presenza_amante39DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: S_int_ribadire_C_controllare40DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_mettere_in_difficoltà_C70AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ #### ObjPropAss of Goal of Plan: S_v_C_in_maggiore_difficoltà12Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_mettere_in_difficoltà_C70AbsPl is timeline TL_Init_21_End_28_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_evidenziare_errore_C69AbsPl
+    #### subplan S_int_osservare_stupore_C_e_Csa37DePl
+    #### subplan S_int_incalzare_C68AbsPl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 2, S_int_incalzare_C68AbsPl, of 3 subplans
+ #### ObjPropAss of subplan 1: S_int_osservare_stupore_C_e_Csa37DePl
+ #### ObjPropAss of subplan 0: S_int_evidenziare_errore_C69AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_contrattaccare_C71AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_contrattaccare_C71AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_contrattaccare_C71AbsPl is timeline TL_Init_19_End_30_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_informare_Csa_su_SOA132AbsPl
+    #### subplan S_int_mettere_in_difficoltà_C70AbsPl
+    #### subplan S_int_smentire_C_tradimento_Csa128AbsPl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 2, S_int_smentire_C_tradimento_Csa128AbsPl, of 3 subplans
+ #### ObjPropAss of subplan 1: S_int_mettere_in_difficoltà_C70AbsPl
+ #### ObjPropAss of subplan 0: S_int_informare_Csa_su_SOA132AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_mettere_in_dubbio_S_sola72AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ #### ObjPropAss of Goal of Plan: C_v_rifiutare_prendere_atto_situazione6Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_mettere_in_dubbio_S_sola72AbsPl is timeline TL_Init_25_End_28_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_affermare_controllare41DePl
+    #### subplan C_int_chiedere_S_se_sola38DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_chiedere_S_se_sola38DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_affermare_controllare41DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_controllare_se_Cno_nel_gabinetto73AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_controllare_se_Cno_nel_gabinetto73AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_controllare_se_Cno_nel_gabinetto73AbsPl is timeline TL_Init_29_End_30_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_entrare_gabinetto42DePl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, C_int_entrare_gabinetto42DePl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl is timeline TL_Init_19_End_30_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_controllare_se_Cno_nel_gabinetto73AbsPl
+    #### subplan C_int_mettere_in_dubbio_S_sola72AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_mettere_in_dubbio_S_sola72AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_controllare_se_Cno_nel_gabinetto73AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_capire_situazione76AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_capire_situazione76AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_capire_situazione76AbsPl is timeline TL_Init_19_End_30_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_ricevere_informazioni_su_SOA130AbsPl
+    #### subplan Csa_int_esprimere_stupore31DePl
+    #### subplan Csa_int_esprimere_stupore36DePl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 2, Csa_int_esprimere_stupore36DePl, of 3 subplans
+ #### ObjPropAss of subplan 1: Csa_int_esprimere_stupore31DePl
+ #### ObjPropAss of subplan 0: Csa_int_ricevere_informazioni_su_SOA130AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl is timeline TL_Init_31_End_34_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_fare_vittima48DePl
+    #### subplan C_int_chiedere_perdono47DePl
+    #### subplan C_int_riconoscere_torto46DePl
+    #### subplan C_int_uscire_gabinetto45DePl
+   #### in number ... 4
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 3
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 3, C_int_uscire_gabinetto45DePl, of 4 subplans
+ #### ObjPropAss of subplan 2: C_int_riconoscere_torto46DePl
+ #### ObjPropAss of subplan 1: C_int_chiedere_perdono47DePl
+ #### ObjPropAss of subplan 0: C_int_fare_vittima48DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_sollevare_mozione_affetti78AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_sollevare_mozione_affetti78AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_sollevare_mozione_affetti78AbsPl is timeline TL_Init_36_End_39_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_ribadire_amore_per_Csa53DePl
+    #### subplan C_int_blandire_Csa51DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_blandire_Csa51DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_ribadire_amore_per_Csa53DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_aiuto_S79AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_aiuto_S79AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_chiedere_aiuto_S79AbsPl is timeline TL_Init_40_End_45_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_pregare_S_aiuto59DePl
+    #### subplan C_int_chiedere_aiuto_S56DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_chiedere_aiuto_S56DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_pregare_S_aiuto59DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_ottenere_perdono_da_Csa80AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_ottenere_perdono_da_Csa80AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_ottenere_perdono_da_Csa80AbsPl is timeline TL_Init_31_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl
+    #### subplan C_int_sollevare_mozione_affetti78AbsPl
+    #### subplan C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 2, C_int_far_pace_con_Csa_facendo_il_sostenuto77AbsPl, of 3 subplans
+ #### ObjPropAss of subplan 1: C_int_sollevare_mozione_affetti78AbsPl
+ #### ObjPropAss of subplan 0: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_respingere_mozione_affetti_C81AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_respingere_mozione_affetti_C81AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_respingere_mozione_affetti_C81AbsPl is timeline TL_Init_36_End_39_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_accusare_C_spergiuro54DePl
+    #### subplan Csa_int_respingere_affetto_C52DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, Csa_int_respingere_affetto_C52DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: Csa_int_accusare_C_spergiuro54DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accusare_C_infedeltà82AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_accusare_C_infedeltà82AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_accusare_C_infedeltà82AbsPl is timeline TL_Init_47_End_49_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_accusare_C_trascurarla64DePl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_accusare_C_trascurarla64DePl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_attaccare_il_Conte83AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_attaccare_il_Conte83AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_attaccare_il_Conte83AbsPl is timeline TL_Init_31_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_respingere_mozione_affetti_C81AbsPl
+    #### subplan Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_respingere_mozione_affetti_C81AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 1: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_far_pesare_aiuto_C85AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_far_pesare_aiuto_C85AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_far_pesare_aiuto_C85AbsPl is timeline TL_Init_40_End_45_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl
+    #### subplan S_int_negare_aiuto_C57DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, S_int_negare_aiuto_C57DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: S_int_dar_ragione_Csa_per_far_pesare_aiuto_C60DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_chiedere_Csa_perdonare_C86AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_chiedere_Csa_perdonare_C86AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_chiedere_Csa_perdonare_C86AbsPl is timeline TL_Init_46_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_supplicare_Csa_perdono66DePl
+    #### subplan S_int_chiedere_clemenza_Csa62DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, S_int_chiedere_clemenza_Csa62DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: S_int_supplicare_Csa_perdono66DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_conto_Csa_bugie88DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_conto_Csa_bugie88DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_chiedere_conto_Csa_bugie88DePl is timeline TL_53Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_sviare_discorso89DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_sviare_discorso89DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_sviare_discorso89DePl is timeline TL_54Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_conto_recitazione_Csa90DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_conto_recitazione_Csa90DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_chiedere_conto_recitazione_Csa90DePl is timeline TL_55Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_rispondere_genericamente91DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_rispondere_genericamente91DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_rispondere_genericamente91DePl is timeline TL_56Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_conto_foglietto92DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_conto_foglietto92DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_chiedere_conto_foglietto92DePl is timeline TL_57Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_incolpare_del_foglietto_Figaro_e_Basilio_93DePl is timeline TL_58Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl is timeline TL_58Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_accusare_S_e_Csa_cattiveria95DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_accusare_S_e_Csa_cattiveria95DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_accusare_S_e_Csa_cattiveria95DePl is timeline TL_59Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_patteggiare_i_perdoni96DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_patteggiare_i_perdoni96DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_patteggiare_i_perdoni96DePl is timeline TL_60Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_patteggiare_i_perdoni97DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_patteggiare_i_perdoni97DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_patteggiare_i_perdoni97DePl is timeline TL_60Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_interrogare_Csa_su_scherzo98AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ #### ObjPropAss of Goal of Plan: c_v_dubitare_vediricità_scherzo15Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_interrogare_Csa_su_scherzo98AbsPl is timeline TL_Init_50_End_54_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_sapere_perché_Csa_abbia_recitato141AbsPl
+    #### subplan C_int_sapere_perche_Csa_abbia_mentito140AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_sapere_perche_Csa_abbia_mentito140AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_sapere_perché_Csa_abbia_recitato141AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ #### ObjPropAss of Goal of Plan: C_v_recuperare_smacco18Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl is timeline TL_Init_50_End_57_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_accusare_Csa_crudeltà_scherzo143AbsPl
+    #### subplan C_int_interrogare_Csa_su_scherzo98AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_interrogare_Csa_su_scherzo98AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_accusare_Csa_crudeltà_scherzo143AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_sviare_il_discorso100AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_sviare_il_discorso100AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_sviare_il_discorso100AbsPl is timeline TL_Init_50_End_54_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_sviare_discorso89DePl
+    #### subplan Csa_int_rispondere_genericamente91DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_sviare_discorso89DePl, of 2 subplans
+ #### ObjPropAss of subplan 1: Csa_int_rispondere_genericamente91DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_smentire_C_tradimento_Csa128AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_smentire_C_tradimento_Csa128AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_smentire_C_tradimento_Csa128AbsPl is timeline TL_Init_19_End_20_fromNonMUC
+ #### ObjPropAss of subplans 
+   #### in number ... 0
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_offrire_pace_reciproca102DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_offrire_pace_reciproca102DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_offrire_pace_reciproca102DePl is timeline TL_61Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_invocare_gentilezza_Csa103DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_invocare_gentilezza_Csa103DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_invocare_gentilezza_Csa103DePl is timeline TL_62Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_rimarcare_sua_gentilezza104DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_rimarcare_sua_gentilezza104DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_rimarcare_sua_gentilezza104DePl is timeline TL_63Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_fare_sprezzatura105DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_fare_sprezzatura105DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_fare_sprezzatura105DePl is timeline TL_64Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_pace_comune_con_gentilezza106AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_pace_comune_con_gentilezza106AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_chiedere_pace_comune_con_gentilezza106AbsPl is timeline TL_Init_58_End_59_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_invocare_gentilezza_Csa103DePl
+    #### subplan C_int_offrire_pace_reciproca102DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_offrire_pace_reciproca102DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_invocare_gentilezza_Csa103DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_invitare_Csa_accettare_pace_onorevole108DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_invitare_Csa_accettare_pace_onorevole108DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_invitare_Csa_accettare_pace_onorevole108DePl is timeline TL_65Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_chiedere_Csa_perdono_e_dolcezza109DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_chiedere_Csa_perdono_e_dolcezza109DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_chiedere_Csa_perdono_e_dolcezza109DePl is timeline TL_67Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_sprezzare_pace110DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_sprezzare_pace110DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_sprezzare_pace110DePl is timeline TL_69Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_da_onore_Csa111DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_da_onore_Csa111DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_da_onore_Csa111DePl is timeline TL_70Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_raggiungere_armonia_con_S_e_Csa112DePl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_raggiungere_armonia_con_S_e_Csa112DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: C_int_raggiungere_armonia_con_S_e_Csa112DePl is timeline TL_72Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_raggiungere_armonia_con_C113DePl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_raggiungere_armonia_con_C113DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: Csa_int_raggiungere_armonia_con_C113DePl is timeline TL_72Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_raggiungere_armonia_con_Csa_e_C114DePl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_raggiungere_armonia_con_Csa_e_C114DePl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for DE Plan: S_int_raggiungere_armonia_con_Csa_e_C114DePl is timeline TL_72Tl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl is timeline TL_Init_64_End_67_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_da_onore_Csa111DePl
+    #### subplan C_int_chiedere_Csa_perdono_e_dolcezza109DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_chiedere_Csa_perdono_e_dolcezza109DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_da_onore_Csa111DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_offrire_pace_Csa116AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_offrire_pace_Csa116AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_offrire_pace_Csa116AbsPl is timeline TL_Init_58_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_ottenere_pace_con_Csa146AbsPl
+    #### subplan C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, C_int_ottenere_pace_con_Csa146AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 1: C_int_concedere_a_Csa_pace_piu_onorevole_per_lei115AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_ristabilire_pace_reciproca118AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_ristabilire_pace_reciproca118AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_ristabilire_pace_reciproca118AbsPl is timeline TL_Init_58_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_raggiungere_armonia_con_Csa_e_C114DePl
+    #### subplan S_int_invitare_Csa_accettare_pace_onorevole108DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, S_int_invitare_Csa_accettare_pace_onorevole108DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: S_int_raggiungere_armonia_con_Csa_e_C114DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl is timeline TL_Init_40_End_45_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_accusare_C_trattarla_male58DePl
+    #### subplan Csa_int_accusare_C_non_stima_per_Csa55DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, Csa_int_accusare_C_non_stima_per_Csa55DePl, of 2 subplans
+ #### ObjPropAss of subplan 0: Csa_int_accusare_C_trattarla_male58DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_aiutare_Csa_a_guadagnare_crediti_con_C122AbsPl is timeline TL_Init_31_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_non_perdonare_C50DePl
+    #### subplan S_int_guadagnare_credito_con_C160AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, S_int_non_perdonare_C50DePl, of 2 subplans
+ #### ObjPropAss of subplan 1: S_int_guadagnare_credito_con_C160AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_sapere_perché_Csa_abbia_recitato141AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ #### ObjPropAss of Goal of Plan: C_v_mettere_pressione_Csa_su_scherzo14Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_sapere_perché_Csa_abbia_recitato141AbsPl is timeline TL_Init_52_End_53_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_chiedere_conto_recitazione_Csa90DePl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, C_int_chiedere_conto_recitazione_Csa90DePl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_accusare_Csa_crudeltà_scherzo143AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ #### ObjPropAss of Goal of Plan: C_v_accusare_Csa_crudeltà17Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_accusare_Csa_crudeltà_scherzo143AbsPl is timeline TL_Init_55_End_57_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_accusare_S_e_Csa_cattiveria95DePl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, C_int_accusare_S_e_Csa_cattiveria95DePl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_difendersi_accuse_crudeltà_C144AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ #### ObjPropAss of Goal of Plan: Csa_v_mantenere_vantaggio19Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_difendersi_accuse_crudeltà_C144AbsPl is timeline TL_Init_50_End_57_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_sviare_il_discorso100AbsPl
+    #### subplan Csa_int_discolparsi_per_scherzo142AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_sviare_il_discorso100AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 1: Csa_int_discolparsi_per_scherzo142AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accettare_pace_facendo_sostenuta145AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ #### ObjPropAss of Goal of Plan: Csa_v_accettare_pace_mantenendo_onore_di_dama20Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_accettare_pace_facendo_sostenuta145AbsPl is timeline TL_Init_60_End_61_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_rimarcare_sua_gentilezza104DePl
+    #### subplan Csa_int_fare_sprezzatura105DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_rimarcare_sua_gentilezza104DePl, of 2 subplans
+ #### ObjPropAss of subplan 1: Csa_int_fare_sprezzatura105DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_ottenere_pace_con_Csa146AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_ottenere_pace_con_Csa146AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_ottenere_pace_con_Csa146AbsPl is timeline TL_Init_58_End_61_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_chiedere_pace_comune_con_gentilezza106AbsPl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, C_int_chiedere_pace_comune_con_gentilezza106AbsPl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_concordare_pace_C147AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_concordare_pace_C147AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_concordare_pace_C147AbsPl is timeline TL_Init_58_End_61_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_accettare_pace_facendo_sostenuta145AbsPl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_accettare_pace_facendo_sostenuta145AbsPl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accettare_pace_onorevole148AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_accettare_pace_onorevole148AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_accettare_pace_onorevole148AbsPl is timeline TL_Init_58_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_concordare_pace_C147AbsPl
+   #### in number ... 1
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is -1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_concordare_pace_C147AbsPl, of 1 subplans
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ #### ObjPropAss of Goal of Plan: C_v_recuperare_dalla_inferiorità_su_Csa21Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_recuperare_dalla_figuraccia_e_far_pace_con_Csa149AbsPl is timeline TL_Init_19_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_recuperare_posizione_preso_atto_situazione158AbsPl
+    #### subplan C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_dubitare_veridicità_S_sola_nel_gabinetto75AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_recuperare_posizione_preso_atto_situazione158AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ #### ObjPropAss of Goal of Plan: Csa_v_C_fiducioso_e_fedele22Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_guadagnare_posizione_superiorità_per_errore_C150AbsPl is timeline TL_Init_19_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl
+    #### subplan Csa_int_capire_situazione76AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, Csa_int_capire_situazione76AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 0: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_mettere_C_in_subalternità151AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ #### ObjPropAss of Goal of Plan: S_v_minare_autorevolezza_C23Go
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_mettere_C_in_subalternità151AbsPl is timeline TL_Init_19_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_contrattaccare_C71AbsPl
+    #### subplan S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, S_int_contrattaccare_C71AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 1: S_int_aiutare_Csa_a_mettere_C_in_soggezione157AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_aiutare_Csa_a_difendersi_dalle_accuse_di_C152AbsPl is timeline TL_Init_50_End_57_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl
+    #### subplan S_int_patteggiare_i_perdoni97DePl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, S_int_incolpare_del_foglietto_Figaro_e_Basilio94DePl, of 2 subplans
+ #### ObjPropAss of subplan 1: S_int_patteggiare_i_perdoni97DePl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_accusare_C_mancanza_fiducia_e_infedeltà155AbsPl is timeline TL_Init_40_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl
+    #### subplan Csa_int_sottolineare_i_suoi_patimenti135AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, Csa_int_lamentarsi_mancanza_fiducia_da_parte_di_C121AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 1: Csa_int_sottolineare_i_suoi_patimenti135AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: S_int_guadagnare_credito_con_C160AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_S2Ag
+ !!!! WARNING: plan: S_int_guadagnare_credito_con_C160AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: S_int_guadagnare_credito_con_C160AbsPl is timeline TL_Init_40_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan S_int_far_pesare_aiuto_C85AbsPl
+    #### subplan S_int_chiedere_Csa_perdonare_C86AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 0, S_int_far_pesare_aiuto_C85AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 1: S_int_chiedere_Csa_perdonare_C86AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_ottenere_perdono_Csa_attraverso_aiuto_S156AbsPl is timeline TL_Init_40_End_48_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_supplicare_Csa_perdono127AbsPl
+    #### subplan C_int_chiedere_aiuto_S79AbsPl
+   #### in number ... 2
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 1
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_chiedere_aiuto_S79AbsPl, of 2 subplans
+ #### ObjPropAss of subplan 0: C_int_supplicare_Csa_perdono127AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: C_int_recuperare_posizione_preso_atto_situazione158AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_C1Ag
+ !!!! WARNING: plan: C_int_recuperare_posizione_preso_atto_situazione158AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: C_int_recuperare_posizione_preso_atto_situazione158AbsPl is timeline TL_Init_31_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl
+    #### subplan C_int_ottenere_perdono_da_Csa80AbsPl
+    #### subplan C_int_offrire_pace_Csa116AbsPl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, C_int_ottenere_perdono_da_Csa80AbsPl, of 3 subplans
+ #### ObjPropAss of subplan 0: C_int_controbattere_Csa_su_crudeltà_scherzo99AbsPl
+ #### ObjPropAss of subplan 2: C_int_offrire_pace_Csa116AbsPl
+
+@@@@ OBJ PROPERTY ASSERTIONS FOR Plan: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl
+ #### ObjPropAss of Agent of Plan: Agent_Csa4Ag
+ !!!! WARNING: plan: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl has no goal!!!
+  #### ObjectPropertyAssertion isMotivationFor for Abs Plan: Csa_int_mettere_C_in_soggezione_avendo_capito_suo_leggero_vantaggio159AbsPl is timeline TL_Init_31_End_68_fromNonMUC
+ #### ObjPropAss of subplans 
+    #### subplan Csa_int_difendersi_accuse_crudeltà_C144AbsPl
+    #### subplan Csa_int_attaccare_il_Conte83AbsPl
+    #### subplan Csa_int_accettare_pace_onorevole148AbsPl
+   #### in number ... 3
+
+@@@@ Object property assertion of all subplan OLEs: test of continuity ... 
+  #### ... curr is 2
+
+@@@@ Object property assertion of all subplan OLEs 
+ #### ObjPropAss of first subplan: 1, Csa_int_attaccare_il_Conte83AbsPl, of 3 subplans
+ #### ObjPropAss of subplan 0: Csa_int_difendersi_accuse_crudeltà_C144AbsPl
+ #### ObjPropAss of subplan 2: Csa_int_accettare_pace_onorevole148AbsPl
+
+ @@@@ 
+ @@@@ DATA PROPERTY ASSERTIONS!!! @@@@ 
+ @@@@ 
+ @@@@ 

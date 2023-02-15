@@ -1,0 +1,507 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<title id="You belong to me (Taylor Swift)" /> 
+ 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="PlanABS_Goal_sfogarsi_con__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_sfogarsi_con__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2" accomplished="T" mapping_init="Unit1.2.1" mapping_end="Unit1.2.2" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_salutare__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_salutare__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2.2" accomplished="T" mapping_init="Unit1.2.2" mapping_end="Unit1.2.2" print="NULL" set="PlanABS_Goal_sfogarsi_con__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ragazzo_biondo_litigare_con_Findanzata_Ag_Ragazza_bionda_Unit1.3.3" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_osservare_Ragazzo_biondo_litigare_con_Findanzata_Ag_Ragazza_bionda_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_decidere_se_andare_o_meno_al_ballo__Ag_Ragazza_bionda_Unit1.4.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_decidere_se_andare_o_meno_al_ballo__Ag_Ragazza_bionda_Unit1.4.2" accomplished="T" mapping_init="Unit1.4.2" mapping_end="Unit1.4.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_Ragazzo_biondo_vuole_chiaccherare_farsi_consolare_dall_amica_Ragazza_bionda__Ag_Ragazzo_biondo_Unit1.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_vuole_chiaccherare_farsi_consolare_dall_amica_Ragazza_bionda__Ag_Ragazzo_biondo_Unit1.1" accomplished="T" mapping_init="Unit1.1.1" mapping_end="Unit1.1.3" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_Ragazzo_biondo_parla_al_telefono_con_la_Ragazza__mora__Ag_Ragazzo_biondo_Unit1.1.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_parla_al_telefono_con_la_Ragazza__mora__Ag_Ragazzo_biondo_Unit1.1.1" accomplished="T" mapping_init="Unit1.1.1" mapping_end="Unit1.1.1" print="NULL" set="PlanABS_Goal_Ragazzo_biondo_vuole_chiaccherare_farsi_consolare_dall_amica_Ragazza_bionda__Ag_Ragazzo_biondo_Unit1.1" />
+   <pe  id="PlanDEP_Goal_Ragazzo_biondo_parlare_con_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_parlare_con_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.2" accomplished="T" mapping_init="Unit1.1.2" mapping_end="Unit1.1.2" print="NULL" set="PlanABS_Goal_Ragazzo_biondo_vuole_chiaccherare_farsi_consolare_dall_amica_Ragazza_bionda__Ag_Ragazzo_biondo_Unit1.1" />
+   <pe  id="PlanDEP_Goal_Ragazzo_biondo_osserva_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.3" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_osserva_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.3" accomplished="T" mapping_init="Unit1.1.3" mapping_end="Unit1.1.3" print="NULL" set="PlanABS_Goal_Ragazzo_biondo_vuole_chiaccherare_farsi_consolare_dall_amica_Ragazza_bionda__Ag_Ragazzo_biondo_Unit1.1" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_cercare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_cercare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.1" accomplished="T" mapping_init="Unit1.5.1" mapping_end="Unit1.5.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5" accomplished="T" mapping_init="Unit1.5.1" mapping_end="Unit1.5.4" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.1" accomplished="T" mapping_init="Unit1.5.1" mapping_end="Unit1.5.1" print="NULL" set="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5" />
+   <pe  id="PlanDEP_Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.2" accomplished="T" mapping_init="Unit1.5.2" mapping_end="Unit1.5.2" print="NULL" set="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5" />
+   <pe  id="PlanDEP_Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.3" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.3" accomplished="T" mapping_init="Unit1.5.3" mapping_end="Unit1.5.3" print="NULL" set="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5" />
+   <pe  id="PlanDEP_Goal_baciare_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.4" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_baciare_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.4" accomplished="T" mapping_init="Unit1.5.4" mapping_end="Unit1.5.4" print="NULL" set="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2.1" accomplished="T" mapping_init="Unit1.2.1" mapping_end="Unit1.2.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_andare_al_ballo_Ag_Ragazzo_biondo_Unit1.4.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_andare_al_ballo_Ag_Ragazzo_biondo_Unit1.4.2" accomplished="T" mapping_init="Unit1.4.2" mapping_end="Unit1.4.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_studiare_Ag_Ragazza_bionda_Unit1.4.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_studiare_Ag_Ragazza_bionda_Unit1.4.1" accomplished="T" mapping_init="Unit1.4.1" mapping_end="Unit1.4.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5" accomplished="T" mapping_init="Unit1.5.1" mapping_end="Unit1.5.4" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_cercare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_cercare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.1" accomplished="T" mapping_init="Unit1.5.1" mapping_end="Unit1.5.1" print="NULL" set="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5" />
+   <pe  id="PlanDEP_Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.3" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.3" accomplished="T" mapping_init="Unit1.5.3" mapping_end="Unit1.5.3" print="NULL" set="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5" />
+   <pe  id="PlanDEP_Goal_baciare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.4" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_baciare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.4" accomplished="T" mapping_init="Unit1.5.4" mapping_end="Unit1.5.4" print="NULL" set="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5" />
+ </plan> 
+
+ <plan  id="PlanABS_Goal_Ragazzo_biondo_vuole_stare_con_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_vuole_stare_con_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1" accomplished="T" mapping_init="Unit1.1.1" mapping_end="Unit1.5.4" print="NULL" rec_level="2" >
+   <pe  id="PlanABS_Goal_Ragazzo_biondo_vuole_dichiararsi_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.4" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_vuole_dichiararsi_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.4" accomplished="T" mapping_init="Unit1.4.1" mapping_end="Unit1.4.2" print="NULL" set="PlanABS_Goal_Ragazzo_biondo_vuole_stare_con_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incitare_la_Squadra_di_football_Ag_Cheerleaders_Unit1.3.3" type="PLA" agent="Ag_Cheerleaders" goal="Goal_incitare_la_Squadra_di_football_Ag_Cheerleaders_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incitare_la_Squadra_di_football_Ag_Banda_Unit1.3.2" type="PLA" agent="Ag_Banda" goal="Goal_incitare_la_Squadra_di_football_Ag_Banda_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_Ragazzo_biondo_vuole_dichiararsi_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.4" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_vuole_dichiararsi_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.4" accomplished="T" mapping_init="Unit1.4.1" mapping_end="Unit1.4.2" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_Ragazzo_biondo_chiede_a_Ragazza_bionda_se_va_al_ballo_scolastico_Ag_Ragazzo_biondo_Unit1.4.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_chiede_a_Ragazza_bionda_se_va_al_ballo_scolastico_Ag_Ragazzo_biondo_Unit1.4.1" accomplished="T" mapping_init="Unit1.4.1" mapping_end="Unit1.4.1" print="NULL" set="PlanABS_Goal_Ragazzo_biondo_vuole_dichiararsi_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.4" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Ragazzo_biondo_parla_al_telefono_con_la_Ragazza__mora__Ag_Ragazzo_biondo_Unit1.1.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_parla_al_telefono_con_la_Ragazza__mora__Ag_Ragazzo_biondo_Unit1.1.1" accomplished="T" mapping_init="Unit1.1.1" mapping_end="Unit1.1.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_baciare_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.4" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_baciare_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.4" accomplished="T" mapping_init="Unit1.5.4" mapping_end="Unit1.5.4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" rec_level="0" >
+   <pe  id="Action_ballare_Ag_Ragazza_bionda_Unit1.3.2" type="ACT" set="Unit1.3.2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Ragazzo_biondo_osserva_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.3" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_osserva_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.3" accomplished="T" mapping_init="Unit1.1.3" mapping_end="Unit1.1.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_giocare_a_football_Ag_Ragazzo_biondo_Unit1.3" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_giocare_a_football_Ag_Ragazzo_biondo_Unit1.3" accomplished="T" mapping_init="Unit1.3.1" mapping_end="Unit1.3.3" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_fare_meta_Ag_Ragazzo_biondo_Unit1.3.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_fare_meta_Ag_Ragazzo_biondo_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" set="PlanABS_Goal_giocare_a_football_Ag_Ragazzo_biondo_Unit1.3" />
+   <pe  id="PlanDEP_Goal_festeggiare_Ag_Ragazzo_biondo_Unit1.3.3" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_festeggiare_Ag_Ragazzo_biondo_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" set="PlanABS_Goal_giocare_a_football_Ag_Ragazzo_biondo_Unit1.3" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_fare_meta_Ag_Ragazzo_biondo_Unit1.3.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_fare_meta_Ag_Ragazzo_biondo_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" rec_level="0" >
+   <pe  id="Action_prendere_la_palla_Ag_Ragazzo_biondo_Unit1.3.2" type="ACT" set="Unit1.3.2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.2" accomplished="T" mapping_init="Unit1.5.2" mapping_end="Unit1.5.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_confessare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_confessare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1" accomplished="F" mapping_init="Unit1.1.1" mapping_end="Unit1.1.3" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_osservare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_osservare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.1" accomplished="T" mapping_init="Unit1.1.1" mapping_end="Unit1.1.1" print="NULL" set="PlanABS_Goal_confessare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1" />
+   <pe  id="PlanDEP_Goal_consolare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_consolare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.2" accomplished="T" mapping_init="Unit1.1.2" mapping_end="Unit1.1.2" print="NULL" set="PlanABS_Goal_confessare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1" />
+   <pe  id="PlanDEP_Goal_fantasticare_Ag_Ragazza_bionda_Unit1.1.3" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_fantasticare_Ag_Ragazza_bionda_Unit1.1.3" accomplished="T" mapping_init="Unit1.1.3" mapping_end="Unit1.1.3" print="NULL" set="PlanABS_Goal_confessare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_lasciare_Ragazzo_biondo_Ag_Ragazza_mora_Unit1.3.3" type="PLA" agent="Ag_Ragazza_mora" goal="Goal_lasciare_Ragazzo_biondo_Ag_Ragazza_mora_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_baciare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.4" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_baciare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.4" accomplished="T" mapping_init="Unit1.5.4" mapping_end="Unit1.5.4" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_salutare__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_salutare__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2.2" accomplished="T" mapping_init="Unit1.2.2" mapping_end="Unit1.2.2" print="NULL" rec_level="0" >
+   <pe  id="Action_baciare_Ag_Ragazzo_biondo_Unit1.2.2" type="ACT" set="Unit1.2.2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incitare_la_Squadra_di_football_Ag_Banda_Unit1.3.3" type="PLA" agent="Ag_Banda" goal="Goal_incitare_la_Squadra_di_football_Ag_Banda_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_andare_da_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.1" accomplished="T" mapping_init="Unit1.5.1" mapping_end="Unit1.5.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_festeggiare_Ag_Ragazzo_biondo_Unit1.3.3" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_festeggiare_Ag_Ragazzo_biondo_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2" accomplished="NULL" mapping_init="Unit1.2.1" mapping_end="Unit1.2.2" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2.1" accomplished="T" mapping_init="Unit1.2.1" mapping_end="Unit1.2.1" print="NULL" set="PlanABS_Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2" />
+   <pe  id="PlanDEP_Goal_osservare_Ag_Ragazza_bionda_Unit1.2.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_osservare_Ag_Ragazza_bionda_Unit1.2.2" accomplished="T" mapping_init="Unit1.2.2" mapping_end="Unit1.2.2" print="NULL" set="PlanABS_Goal_ascoltare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.2" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_osservare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.1" accomplished="T" mapping_init="Unit1.1.1" mapping_end="Unit1.1.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3" accomplished="T" mapping_init="Unit1.3.1" mapping_end="Unit1.3.3" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_ricordare__Ragazzo_biondo_che_bacia_Ragazza_mora__Ag_Ragazza_bionda_Unit1.3.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_ricordare__Ragazzo_biondo_che_bacia_Ragazza_mora__Ag_Ragazza_bionda_Unit1.3.1" accomplished="T" mapping_init="Unit1.3.1" mapping_end="Unit1.3.1" print="NULL" set="PlanABS_Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3" />
+   <pe  id="PlanDEP_Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" set="PlanABS_Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3" />
+   <pe  id="PlanDEP_Goal_osservare_Ragazzo_biondo_litigare_con_Findanzata_Ag_Ragazza_bionda_Unit1.3.3" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_osservare_Ragazzo_biondo_litigare_con_Findanzata_Ag_Ragazza_bionda_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" set="PlanABS_Goal_incoraggiare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.3" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_festeggiare_Ag_Ragazzo_moro_Unit1.3.3" type="PLA" agent="Ag_Ragazzo_moro" goal="Goal_festeggiare_Ag_Ragazzo_moro_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Squadra_di_football_Ag_Squadra_di_football_Unit1.3.3" type="PLA" agent="Ag_Squadra_di_football" goal="Goal_Squadra_di_football_Ag_Squadra_di_football_Unit1.3.3" accomplished="T" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.3" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_dichiarare_il_suo_amore_a_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.5.3" accomplished="T" mapping_init="Unit1.5.3" mapping_end="Unit1.5.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Ragazzo_biondo_chiede_a_Ragazza_bionda_se_va_al_ballo_scolastico_Ag_Ragazzo_biondo_Unit1.4.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_chiede_a_Ragazza_bionda_se_va_al_ballo_scolastico_Ag_Ragazzo_biondo_Unit1.4.1" accomplished="T" mapping_init="Unit1.4.1" mapping_end="Unit1.4.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_giocare_a_football_Ag_Ragazzo_moro_Unit1.3.2" type="PLA" agent="Ag_Ragazzo_moro" goal="Goal_giocare_a_football_Ag_Ragazzo_moro_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_consolare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_consolare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.1.2" accomplished="T" mapping_init="Unit1.1.2" mapping_end="Unit1.1.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_ricordare__Ragazzo_biondo_che_bacia_Ragazza_mora__Ag_Ragazza_bionda_Unit1.3.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_ricordare__Ragazzo_biondo_che_bacia_Ragazza_mora__Ag_Ragazza_bionda_Unit1.3.1" accomplished="T" mapping_init="Unit1.3.1" mapping_end="Unit1.3.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incitare_la_Squadra_di_football_Ag_Ragazza_mora_Unit1.3.2" type="PLA" agent="Ag_Ragazza_mora" goal="Goal_incitare_la_Squadra_di_football_Ag_Ragazza_mora_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" rec_level="0" >
+   <pe  id="Action_ballare_Ag_Ragazza_mora_Unit1.3.2" type="ACT" set="Unit1.3.2" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_giocare_a_football_Ag_Squadra_di_football_Unit1.3.2" type="PLA" agent="Ag_Squadra_di_football" goal="Goal_giocare_a_football_Ag_Squadra_di_football_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_consolare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.4" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_consolare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.4" accomplished="T" mapping_init="Unit1.4.1" mapping_end="Unit1.4.2" print="NULL" rec_level="1" >
+   <pe  id="PlanDEP_Goal_studiare_Ag_Ragazza_bionda_Unit1.4.1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_studiare_Ag_Ragazza_bionda_Unit1.4.1" accomplished="T" mapping_init="Unit1.4.1" mapping_end="Unit1.4.1" print="NULL" set="PlanABS_Goal_consolare_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.4" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_raccontare_a__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2.1" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_raccontare_a__Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.2.1" accomplished="T" mapping_init="Unit1.2.1" mapping_end="Unit1.2.1" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanABS_Goal_Ragazza_bionda_vuole_stare_con_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_Ragazza_bionda_vuole_stare_con_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1" accomplished="T" mapping_init="Unit1.1.1" mapping_end="Unit1.5.4" print="NULL" rec_level="2" >
+   <pe  id="PlanABS_Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5" accomplished="T" mapping_init="Unit1.5.1" mapping_end="Unit1.5.4" print="NULL" set="PlanABS_Goal_Ragazza_bionda_vuole_stare_con_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1" />
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_Ragazzo_biondo_parlare_con_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.2" type="PLA" agent="Ag_Ragazzo_biondo" goal="Goal_Ragazzo_biondo_parlare_con_Ragazza_bionda_Ag_Ragazzo_biondo_Unit1.1.2" accomplished="T" mapping_init="Unit1.1.2" mapping_end="Unit1.1.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_baciare_Ragazzo_biondo_Ag_Ragazza_mora_Unit1.2.2" type="PLA" agent="Ag_Ragazza_mora" goal="Goal_baciare_Ragazzo_biondo_Ag_Ragazza_mora_Unit1.2.2" accomplished="T" mapping_init="Unit1.2.2" mapping_end="Unit1.2.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_impedire_a_Ragazzo_biondo_e_Ragazza_bionda_di_stare_insieme_Ag_Ragazza_mora_Unit1.5.2" type="PLA" agent="Ag_Ragazza_mora" goal="Goal_impedire_a_Ragazzo_biondo_e_Ragazza_bionda_di_stare_insieme_Ag_Ragazza_mora_Unit1.5.2" accomplished="F" mapping_init="Unit1.5.2" mapping_end="Unit1.5.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_incitare_la_Squadra_di_football_Ag_Cheerleaders_Unit1.3.2" type="PLA" agent="Ag_Cheerleaders" goal="Goal_incitare_la_Squadra_di_football_Ag_Cheerleaders_Unit1.3.2" accomplished="T" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.3" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_dichiarare_il_suo_amore_a_Ragazzo_biondo_Ag_Ragazza_bionda_Unit1.5.3" accomplished="T" mapping_init="Unit1.5.3" mapping_end="Unit1.5.3" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_osservare_Ag_Ragazza_bionda_Unit1.2.2" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_osservare_Ag_Ragazza_bionda_Unit1.2.2" accomplished="T" mapping_init="Unit1.2.2" mapping_end="Unit1.2.2" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="PlanDEP_Goal_fantasticare_Ag_Ragazza_bionda_Unit1.1.3" type="PLA" agent="Ag_Ragazza_bionda" goal="Goal_fantasticare_Ag_Ragazza_bionda_Unit1.1.3" accomplished="T" mapping_init="Unit1.1.3" mapping_end="Unit1.1.3" print="NULL" rec_level="0" >
+   <pe  id="Action_ballare_Ag_Ragazza_bionda_Unit1.1.3" type="ACT" set="Unit1.1.3" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+ <scene  id="Scene_Unit1.1" type="SCE" mapping_init="Unit1.1.1" mapping_end="Unit1.1.3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.2" type="SCE" mapping_init="Unit1.2.1" mapping_end="Unit1.2.2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.3" type="SCE" mapping_init="Unit1.3.1" mapping_end="Unit1.3.3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.4" type="SCE" mapping_init="Unit1.4.1" mapping_end="Unit1.4.2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.5.4" type="SCE" mapping_init="Unit1.5.4" mapping_end="Unit1.5.4" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1" type="SCE" mapping_init="Unit1.1.1" mapping_end="Unit1.5.4" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.5.3" type="SCE" mapping_init="Unit1.5.3" mapping_end="Unit1.5.3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.5.2" type="SCE" mapping_init="Unit1.5.2" mapping_end="Unit1.5.2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.5.1" type="SCE" mapping_init="Unit1.5.1" mapping_end="Unit1.5.1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.4.2" type="SCE" mapping_init="Unit1.4.2" mapping_end="Unit1.4.2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.4.1" type="SCE" mapping_init="Unit1.4.1" mapping_end="Unit1.4.1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.1.1" type="SCE" mapping_init="Unit1.1.1" mapping_end="Unit1.1.1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.2.1" type="SCE" mapping_init="Unit1.2.1" mapping_end="Unit1.2.1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.1.3" type="SCE" mapping_init="Unit1.1.3" mapping_end="Unit1.1.3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.2.2" type="SCE" mapping_init="Unit1.2.2" mapping_end="Unit1.2.2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.3.1" type="SCE" mapping_init="Unit1.3.1" mapping_end="Unit1.3.1" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.1.2" type="SCE" mapping_init="Unit1.1.2" mapping_end="Unit1.1.2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.3.2" type="SCE" mapping_init="Unit1.3.2" mapping_end="Unit1.3.2" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.3.3" type="SCE" mapping_init="Unit1.3.3" mapping_end="Unit1.3.3" print="NULL" >
+ </scene> 
+
+ <scene  id="Scene_Unit1.5" type="SCE" mapping_init="Unit1.5.1" mapping_end="Unit1.5.4" print="NULL" >
+ </scene> 
+
+</scenes> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="Timeline_Unit1.1.1"> 
+
+   <te  id="Unit1.1.1" type="UNI" print="NULL">
+     <incident  id="Unit1.1.1" type="UNI" print="NULL" set="Unit1.1.1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.2.1"> 
+
+   <te  id="Unit1.2.1" type="UNI" print="NULL">
+     <incident  id="Unit1.2.1" type="UNI" print="NULL" set="Unit1.2.1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.1.2"> 
+
+   <te  id="Unit1.1.2" type="UNI" print="NULL">
+     <incident  id="Unit1.1.2" type="UNI" print="NULL" set="Unit1.1.2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.1.3"> 
+
+   <te  id="Unit1.1.3" type="UNI" print="NULL">
+     <incident  id="Unit1.1.3" type="UNI" print="NULL" set="Unit1.1.3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.2.2"> 
+
+   <te  id="Unit1.2.2" type="UNI" print="NULL">
+     <incident  id="Unit1.2.2" type="UNI" print="NULL" set="Unit1.2.2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Scene_Unit1.1"> 
+
+   <te  id="Unit1.1.1" type="UNI" print="NULL">
+     <incident  id="Unit1.1.1" type="UNI" print="NULL" set="Unit1.1.1" />
+   </te>
+   <te  id="Unit1.1.2" type="UNI" print="NULL">
+     <incident  id="Unit1.1.2" type="UNI" print="NULL" set="Unit1.1.2" />
+   </te>
+   <te  id="Unit1.1.3" type="UNI" print="NULL">
+     <incident  id="Unit1.1.3" type="UNI" print="NULL" set="Unit1.1.3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Scene_Unit1.2"> 
+
+   <te  id="Unit1.2.1" type="UNI" print="NULL">
+     <incident  id="Unit1.2.1" type="UNI" print="NULL" set="Unit1.2.1" />
+   </te>
+   <te  id="Unit1.2.2" type="UNI" print="NULL">
+     <incident  id="Unit1.2.2" type="UNI" print="NULL" set="Unit1.2.2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.4.1"> 
+
+   <te  id="Unit1.4.1" type="UNI" print="NULL">
+     <incident  id="Unit1.4.1" type="UNI" print="NULL" set="Unit1.4.1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.3.2"> 
+
+   <te  id="Unit1.3.2" type="UNI" print="NULL">
+     <incident  id="Unit1.3.2" type="UNI" print="NULL" set="Unit1.3.2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.3.1"> 
+
+   <te  id="Unit1.3.1" type="UNI" print="NULL">
+     <incident  id="Unit1.3.1" type="UNI" print="NULL" set="Unit1.3.1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.5.4"> 
+
+   <te  id="Unit1.5.4" type="UNI" print="NULL">
+     <incident  id="Unit1.5.4" type="UNI" print="NULL" set="Unit1.5.4" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.5.3"> 
+
+   <te  id="Unit1.5.3" type="UNI" print="NULL">
+     <incident  id="Unit1.5.3" type="UNI" print="NULL" set="Unit1.5.3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.5.2"> 
+
+   <te  id="Unit1.5.2" type="UNI" print="NULL">
+     <incident  id="Unit1.5.2" type="UNI" print="NULL" set="Unit1.5.2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.4.2"> 
+
+   <te  id="Unit1.4.2" type="UNI" print="NULL">
+     <incident  id="Unit1.4.2" type="UNI" print="NULL" set="Unit1.4.2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.3.3"> 
+
+   <te  id="Unit1.3.3" type="UNI" print="NULL">
+     <incident  id="Unit1.3.3" type="UNI" print="NULL" set="Unit1.3.3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Unit1.5.1"> 
+
+   <te  id="Unit1.5.1" type="UNI" print="NULL">
+     <incident  id="Unit1.5.1" type="UNI" print="NULL" set="Unit1.5.1" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_1"> 
+
+   <te  id="Unit1.1.1" type="UNI" print="NULL">
+     <incident  id="Unit1.1.1" type="UNI" print="NULL" set="Unit1.1.1" />
+   </te>
+   <te  id="Unit1.1.2" type="UNI" print="NULL">
+     <incident  id="Unit1.1.2" type="UNI" print="NULL" set="Unit1.1.2" />
+   </te>
+   <te  id="Unit1.1.3" type="UNI" print="NULL">
+     <incident  id="Unit1.1.3" type="UNI" print="NULL" set="Unit1.1.3" />
+   </te>
+   <te  id="Unit1.2.1" type="UNI" print="NULL">
+     <incident  id="Unit1.2.1" type="UNI" print="NULL" set="Unit1.2.1" />
+   </te>
+   <te  id="Unit1.2.2" type="UNI" print="NULL">
+     <incident  id="Unit1.2.2" type="UNI" print="NULL" set="Unit1.2.2" />
+   </te>
+   <te  id="Unit1.3.1" type="UNI" print="NULL">
+     <incident  id="Unit1.3.1" type="UNI" print="NULL" set="Unit1.3.1" />
+   </te>
+   <te  id="Unit1.3.2" type="UNI" print="NULL">
+     <incident  id="Unit1.3.2" type="UNI" print="NULL" set="Unit1.3.2" />
+   </te>
+   <te  id="Unit1.3.3" type="UNI" print="NULL">
+     <incident  id="Unit1.3.3" type="UNI" print="NULL" set="Unit1.3.3" />
+   </te>
+   <te  id="Unit1.4.1" type="UNI" print="NULL">
+     <incident  id="Unit1.4.1" type="UNI" print="NULL" set="Unit1.4.1" />
+   </te>
+   <te  id="Unit1.4.2" type="UNI" print="NULL">
+     <incident  id="Unit1.4.2" type="UNI" print="NULL" set="Unit1.4.2" />
+   </te>
+   <te  id="Unit1.5.1" type="UNI" print="NULL">
+     <incident  id="Unit1.5.1" type="UNI" print="NULL" set="Unit1.5.1" />
+   </te>
+   <te  id="Unit1.5.2" type="UNI" print="NULL">
+     <incident  id="Unit1.5.2" type="UNI" print="NULL" set="Unit1.5.2" />
+   </te>
+   <te  id="Unit1.5.3" type="UNI" print="NULL">
+     <incident  id="Unit1.5.3" type="UNI" print="NULL" set="Unit1.5.3" />
+   </te>
+   <te  id="Unit1.5.4" type="UNI" print="NULL">
+     <incident  id="Unit1.5.4" type="UNI" print="NULL" set="Unit1.5.4" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Scene_Unit1.3"> 
+
+   <te  id="Unit1.3.1" type="UNI" print="NULL">
+     <incident  id="Unit1.3.1" type="UNI" print="NULL" set="Unit1.3.1" />
+   </te>
+   <te  id="Unit1.3.2" type="UNI" print="NULL">
+     <incident  id="Unit1.3.2" type="UNI" print="NULL" set="Unit1.3.2" />
+   </te>
+   <te  id="Unit1.3.3" type="UNI" print="NULL">
+     <incident  id="Unit1.3.3" type="UNI" print="NULL" set="Unit1.3.3" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Scene_Unit1.4"> 
+
+   <te  id="Unit1.4.1" type="UNI" print="NULL">
+     <incident  id="Unit1.4.1" type="UNI" print="NULL" set="Unit1.4.1" />
+   </te>
+   <te  id="Unit1.4.2" type="UNI" print="NULL">
+     <incident  id="Unit1.4.2" type="UNI" print="NULL" set="Unit1.4.2" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="Timeline_Scene_Unit1.5"> 
+
+   <te  id="Unit1.5.1" type="UNI" print="NULL">
+     <incident  id="Unit1.5.1" type="UNI" print="NULL" set="Unit1.5.1" />
+   </te>
+   <te  id="Unit1.5.2" type="UNI" print="NULL">
+     <incident  id="Unit1.5.2" type="UNI" print="NULL" set="Unit1.5.2" />
+   </te>
+   <te  id="Unit1.5.3" type="UNI" print="NULL">
+     <incident  id="Unit1.5.3" type="UNI" print="NULL" set="Unit1.5.3" />
+   </te>
+   <te  id="Unit1.5.4" type="UNI" print="NULL">
+     <incident  id="Unit1.5.4" type="UNI" print="NULL" set="Unit1.5.4" />
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <agent id="Ag_Cheerleaders" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Ragazza_mora" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Banda" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Squadra_di_football" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Ragazza_bionda" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Ragazzo_moro" type="AGT" print="NULL"> </agent> 
+ <agent id="Ag_Ragazzo_biondo" type="AGT" print="NULL"> </agent> 
+</repository> 
+ 
+
+</drama> 
+ 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1523031665981" name="duplicate:http://www.cadmos.cirma.unito.it" uri="DB2OWL/Drammar12_no_individuals.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1523031665981" name="duplicate:http://www.cadmos.cirma.unito.it" uri="DB2OWL/drammar_ct.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1523031665981" name="http://www.cirma.unito.it/drammar/drammar" uri="DB2OWL/170717_Drammar12bis_integrata_NOexempio_owl_funzionante.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1523031665981" name="http://www.cirma.unito.it/drammar/drammar.owl" uri="drammar_VL.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1523031665981" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/untitled-ontology-464" uri="OWL2CHART/drammar_ct_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1523031665981" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/untitled-ontology-464" uri="OWL2CHART/drammar_ct_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1523031665981" name="shadowed:http://www.di.unito.it/~vincenzo/ontologies/untitled-ontology-464" uri="DB2OWL/drammar_ct_inferred.owl"/>
+    </group>
+</catalog>

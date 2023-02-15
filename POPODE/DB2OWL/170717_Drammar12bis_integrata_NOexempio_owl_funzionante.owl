@@ -1,0 +1,3065 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.cirma.unito.it/drammar/drammar"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.cirma.unito.it/drammar/drammar">
+    <Prefix name="" IRI="http://www.cirma.unito.it/drammar/drammar.owl#"/>
+    <Prefix name="olo" IRI="http://purl.org/ontology/olo/core#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isIntendedBy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Belief"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#hasManifestation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasPlanPrecondition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ExternalReference"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DramaEntity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#follows"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isFillerOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#inSupportOf"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#quale_framenetFrame"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasPropositionalContent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Action"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Role"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#State"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#coOccurInScene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DirectlyExecutablePlan"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasFiller"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasEmotionType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#UnintentionalProcess"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#containsLastOLE"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#hasMessage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#OrderedListElement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ExternalRefSchema"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isDoneStateOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasData"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#intends"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#target"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#List"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ExternalRefEntity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isEmotionOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isSpannedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#feels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Emotion"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#Goal_type"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#achieves"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isValueEngagedOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DescriptionTemplate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ADTComponent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasExtRef"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ConflictSet"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isGoalOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#describes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#shame_appraisingAgent"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#quale_YAGOSUMOConcept"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#appraisingAgent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isExtRefRoleOfExtRefSchema"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Scene"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#isIntentional"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ExternalRefRole"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ExternalRefEmotionType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Plan"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#spans"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#SetMember"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DramaPerdurant"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isOLEContained"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Done"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Process"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#AbstractPlan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#GoalSchema"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#love_appraisingAgent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ConsistentStateSet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#FrameNetSchema"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Agent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasDoneState"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#containsFirstOLE"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isPlanEffectOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#NegatedState"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#TreeNode"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasTimelinePrecondition"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isOrderedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#knows"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Unit"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isTimelinePreconditionOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#love_target"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isMemberOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#SituationSchema"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isMentalStateOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ValueEngagedSchema"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DramaEndurant"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasMember"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#quale_verbnetRoleLabel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DoneSchema"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasGoal"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#originalTerm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Tree"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasParent"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#atStake"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isDescribedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isPropositionalContentOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#inConflictWith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasADTComponent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Object"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isMotivationFor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#NegationSchema"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#accomplished"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isAchievedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasMotivationIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#shame_target"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasChild"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isDataOf"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#Schema_type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#quale"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Goal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DataStructure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hingesOn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#DrammarScene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#AbstractDataType"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasRole"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isKnownBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isExtRefOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#MentalState"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#orders"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Set"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasPlanEffect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#StateOfAffairs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#BeliefSchema"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#MentalStateSchema"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#happyFor_target"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isHingedOnBy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#ValueEngaged"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isTimelineEffectOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasRoot"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#quale_framenetRoleID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#Timeline"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isPlanPreconditionOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasMentalState"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI=".owl#quale_MWNSense"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#hasValueEngaged"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#precedes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#containsTN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#EmotionSchema"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=".owl#UnderspecifiedPlan"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#happyFor_appraisingAgent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI=".owl#isRoleOf"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI=".owl#AbstractPlan"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Plan"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#achieves"/>
+                <Class IRI=".owl#Goal"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#containsOLE"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#OrderedListElement"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#hasData"/>
+                        <Class IRI=".owl#Plan"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isMotivationFor"/>
+                <Class IRI=".owl#Timeline"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Action"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Process"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isDataOf"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#SetMember"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#isMemberOf"/>
+                        <Class IRI=".owl#Unit"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <DataHasValue>
+                <DataProperty IRI=".owl#isIntentional"/>
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Agent"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#DramaEndurant"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#intends"/>
+                <Class IRI=".owl#Plan"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Belief"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalState"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isKnownBy"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectSomeValuesFrom>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#BeliefSchema"/>
+            </ObjectExactCardinality>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isKnownBy"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#BeliefSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalStateSchema"/>
+            <DataHasValue>
+                <DataProperty IRI=".owl#Schema_type"/>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">belief</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#ConflictSet"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Set"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#hasMember"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#SetMember"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#hasData"/>
+                        <Class IRI=".owl#Plan"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#ConsistentStateSet"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Set"/>
+            <ObjectUnionOf>
+                <ObjectExactCardinality cardinality="1">
+                    <ObjectProperty IRI=".owl#isPlanEffectOf"/>
+                    <Class IRI=".owl#Plan"/>
+                </ObjectExactCardinality>
+                <ObjectExactCardinality cardinality="1">
+                    <ObjectProperty IRI=".owl#isPlanPreconditionOf"/>
+                    <Class IRI=".owl#Plan"/>
+                </ObjectExactCardinality>
+                <ObjectExactCardinality cardinality="1">
+                    <ObjectProperty IRI=".owl#isTimelineEffectOf"/>
+                    <Class IRI=".owl#Timeline"/>
+                </ObjectExactCardinality>
+                <ObjectExactCardinality cardinality="1">
+                    <ObjectProperty IRI=".owl#isTimelinePreconditionOf"/>
+                    <Class IRI=".owl#Timeline"/>
+                </ObjectExactCardinality>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#hasMember"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#SetMember"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#hasData"/>
+                        <Class IRI=".owl#State"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#DirectlyExecutablePlan"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Plan"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#achieves"/>
+                <Class IRI=".owl#Goal"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#containsOLE"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#OrderedListElement"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#hasData"/>
+                        <Class IRI=".owl#Action"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isMotivationFor"/>
+                <Class IRI=".owl#Timeline"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Done"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#State"/>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#DoneSchema"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#DoneSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#SituationSchema"/>
+            <DataHasValue>
+                <DataProperty IRI=".owl#Schema_type"/>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">done</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#DrammarScene"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Scene"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#hingesOn"/>
+                <Class IRI=".owl#ConflictSet"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Emotion"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalState"/>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#EmotionSchema"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#EmotionSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalStateSchema"/>
+            <DataHasValue>
+                <DataProperty IRI=".owl#Schema_type"/>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emotion</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#FrameNetSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#SituationSchema"/>
+            <DataHasValue>
+                <DataProperty IRI=".owl#Schema_type"/>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">framenet</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Goal"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalState"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isGoalOf"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectSomeValuesFrom>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#GoalSchema"/>
+            </ObjectExactCardinality>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isGoalOf"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#GoalSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalStateSchema"/>
+            <DataHasValue>
+                <DataProperty IRI=".owl#Schema_type"/>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">goal</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#MentalState"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#State"/>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#MentalStateSchema"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#MentalStateSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#SituationSchema"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isMentalStateOf"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#NegatedState"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#State"/>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#NegationSchema"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#NegationSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#SituationSchema"/>
+            <DataHasValue>
+                <DataProperty IRI=".owl#Schema_type"/>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">not</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Object"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#DramaEndurant"/>
+            <ObjectComplementOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI=".owl#intends"/>
+                    <Class IRI=".owl#Plan"/>
+                </ObjectSomeValuesFrom>
+            </ObjectComplementOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Plan"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#List"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isIntendedBy"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Role"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#DescriptionTemplate"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#hasFiller"/>
+                <ObjectUnionOf>
+                    <Class IRI=".owl#DramaEndurant"/>
+                    <Class IRI=".owl#DramaPerdurant"/>
+                </ObjectUnionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isRoleOf"/>
+                <Class IRI=".owl#FrameNetSchema"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Scene"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#TreeNode"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#spans"/>
+                <Class IRI=".owl#Timeline"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI=".owl#hasChild"/>
+                <Class IRI=".owl#Scene"/>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#State"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#DramaPerdurant"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isDataOf"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#SetMember"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#isMemberOf"/>
+                        <Class IRI=".owl#ConsistentStateSet"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#StateOfAffairs"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#State"/>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#FrameNetSchema"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Timeline"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#List"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+                <Class IRI=".owl#ConsistentStateSet"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#hasTimelinePrecondition"/>
+                <Class IRI=".owl#ConsistentStateSet"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI=".owl#containsOLE"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#OrderedListElement"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#hasData"/>
+                        <Class IRI=".owl#Unit"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#UnderspecifiedPlan"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Plan"/>
+            <ObjectComplementOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI=".owl#achieves"/>
+                    <Class IRI=".owl#Goal"/>
+                </ObjectSomeValuesFrom>
+            </ObjectComplementOf>
+            <ObjectComplementOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI=".owl#containsOLE"/>
+                    <Class IRI=".owl#OrderedListElement"/>
+                </ObjectSomeValuesFrom>
+            </ObjectComplementOf>
+            <ObjectComplementOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI=".owl#isMotivationFor"/>
+                    <Class IRI=".owl#Timeline"/>
+                </ObjectSomeValuesFrom>
+            </ObjectComplementOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#UnintentionalProcess"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Process"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isDataOf"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#SetMember"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#isMemberOf"/>
+                        <Class IRI=".owl#Unit"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <DataHasValue>
+                <DataProperty IRI=".owl#isIntentional"/>
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#Unit"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#Set"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#hasMember"/>
+                <ObjectIntersectionOf>
+                    <Class IRI=".owl#SetMember"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI=".owl#hasData"/>
+                        <ObjectIntersectionOf>
+                            <Class IRI=".owl#Action"/>
+                            <ObjectSomeValuesFrom>
+                                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                                <ObjectIntersectionOf>
+                                    <Class IRI=".owl#FrameNetSchema"/>
+                                    <ObjectMinCardinality cardinality="1">
+                                        <ObjectProperty IRI=".owl#hasRole"/>
+                                        <ObjectIntersectionOf>
+                                            <Class IRI=".owl#Role"/>
+                                            <ObjectSomeValuesFrom>
+                                                <ObjectProperty IRI=".owl#hasFiller"/>
+                                                <Class IRI=".owl#Agent"/>
+                                            </ObjectSomeValuesFrom>
+                                        </ObjectIntersectionOf>
+                                    </ObjectMinCardinality>
+                                </ObjectIntersectionOf>
+                            </ObjectSomeValuesFrom>
+                        </ObjectIntersectionOf>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isOrderedBy"/>
+                <Class IRI=".owl#Timeline"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#ValueEngaged"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalState"/>
+            <ObjectUnionOf>
+                <DataHasValue>
+                    <DataProperty IRI=".owl#atStake"/>
+                    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+                </DataHasValue>
+                <DataHasValue>
+                    <DataProperty IRI=".owl#atStake"/>
+                    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+                </DataHasValue>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI=".owl#isValueEngagedOf"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectSomeValuesFrom>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isDescribedBy"/>
+                <Class IRI=".owl#ValueEngagedSchema"/>
+            </ObjectExactCardinality>
+            <ObjectExactCardinality cardinality="1">
+                <ObjectProperty IRI=".owl#isValueEngagedOf"/>
+                <Class IRI=".owl#Agent"/>
+            </ObjectExactCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI=".owl#ValueEngagedSchema"/>
+        <ObjectIntersectionOf>
+            <Class IRI=".owl#MentalStateSchema"/>
+            <DataHasValue>
+                <DataProperty IRI=".owl#Schema_type"/>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">value</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI=".owl#ADTComponent"/>
+        <Class IRI=".owl#DataStructure"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#AbstractDataType"/>
+        <Class IRI=".owl#DataStructure"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#AbstractPlan"/>
+        <Class IRI=".owl#Plan"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Action"/>
+        <Class IRI=".owl#Process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Agent"/>
+        <Class IRI=".owl#DramaEndurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Belief"/>
+        <Class IRI=".owl#MentalState"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#BeliefSchema"/>
+        <Class IRI=".owl#MentalStateSchema"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#ConflictSet"/>
+        <Class IRI=".owl#Set"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#DirectlyExecutablePlan"/>
+        <Class IRI=".owl#Plan"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Done"/>
+        <Class IRI=".owl#State"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#DoneSchema"/>
+        <Class IRI=".owl#SituationSchema"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#DramaEndurant"/>
+        <Class IRI=".owl#DramaEntity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#DramaPerdurant"/>
+        <Class IRI=".owl#DramaEntity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#DramaPerdurant"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI=".owl#isDescribedBy"/>
+            <Class IRI=".owl#SituationSchema"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#DrammarScene"/>
+        <Class IRI=".owl#Scene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#EmotionSchema"/>
+        <Class IRI=".owl#MentalStateSchema"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#ExternalRefEmotionType"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#ExternalRefEntity"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#ExternalRefRole"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#ExternalRefSchema"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#FrameNetSchema"/>
+        <Class IRI=".owl#SituationSchema"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Goal"/>
+        <Class IRI=".owl#MentalState"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#GoalSchema"/>
+        <Class IRI=".owl#MentalStateSchema"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#List"/>
+        <Class IRI=".owl#AbstractDataType"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#List"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI=".owl#containsFirstOLE"/>
+            <Class IRI=".owl#OrderedListElement"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#List"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI=".owl#containsLastOLE"/>
+            <Class IRI=".owl#OrderedListElement"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#List"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI=".owl#containsOLE"/>
+            <Class IRI=".owl#OrderedListElement"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#MentalState"/>
+        <Class IRI=".owl#State"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#MentalStateSchema"/>
+        <Class IRI=".owl#SituationSchema"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#NegatedState"/>
+        <Class IRI=".owl#State"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#NegationSchema"/>
+        <Class IRI=".owl#SituationSchema"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Object"/>
+        <Class IRI=".owl#DramaEndurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#OrderedListElement"/>
+        <Class IRI=".owl#ADTComponent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Plan"/>
+        <Class IRI=".owl#List"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Process"/>
+        <Class IRI=".owl#DramaPerdurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Role"/>
+        <Class IRI=".owl#DescriptionTemplate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Scene"/>
+        <Class IRI=".owl#TreeNode"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Set"/>
+        <Class IRI=".owl#AbstractDataType"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Set"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI=".owl#hasMember"/>
+            <Class IRI=".owl#SetMember"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#SetMember"/>
+        <Class IRI=".owl#ADTComponent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#SituationSchema"/>
+        <Class IRI=".owl#DescriptionTemplate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#State"/>
+        <Class IRI=".owl#DramaPerdurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#StateOfAffairs"/>
+        <Class IRI=".owl#State"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Tree"/>
+        <Class IRI=".owl#AbstractDataType"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Tree"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI=".owl#containsTN"/>
+            <Class IRI=".owl#TreeNode"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#Tree"/>
+        <ObjectMaxCardinality cardinality="1">
+            <ObjectProperty IRI=".owl#hasRoot"/>
+            <Class IRI=".owl#TreeNode"/>
+        </ObjectMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#TreeNode"/>
+        <Class IRI=".owl#ADTComponent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#TreeNode"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI=".owl#hasChild"/>
+            <Class IRI=".owl#TreeNode"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#UnderspecifiedPlan"/>
+        <Class IRI=".owl#Plan"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#UnintentionalProcess"/>
+        <Class IRI=".owl#Process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#ValueEngaged"/>
+        <Class IRI=".owl#MentalState"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=".owl#ValueEngagedSchema"/>
+        <Class IRI=".owl#MentalStateSchema"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI=".owl#Action"/>
+        <Class IRI=".owl#UnintentionalProcess"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI=".owl#Agent"/>
+        <Class IRI=".owl#Object"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI=".owl#Belief"/>
+        <Class IRI=".owl#Goal"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI=".owl#DescriptionTemplate"/>
+        <Class IRI=".owl#DramaEntity"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI=".owl#List"/>
+        <Class IRI=".owl#Set"/>
+        <Class IRI=".owl#Tree"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#achieves"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#containsFirstOLE"/>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#containsLastOLE"/>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+        <ObjectProperty IRI=".owl#hasADTComponent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#containsTN"/>
+        <ObjectProperty IRI=".owl#hasADTComponent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#feels"/>
+        <ObjectProperty IRI=".owl#hasMentalState"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#follows"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#happyFor_appraisingAgent"/>
+        <ObjectProperty IRI=".owl#appraisingAgent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#happyFor_target"/>
+        <ObjectProperty IRI=".owl#target"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasChild"/>
+        <ObjectProperty IRI=".owl#hasADTComponent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasDoneState"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasEmotionType"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasGoal"/>
+        <ObjectProperty IRI=".owl#hasMentalState"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasMember"/>
+        <ObjectProperty IRI=".owl#hasADTComponent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasPlanEffect"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasPlanPrecondition"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasRoot"/>
+        <ObjectProperty IRI=".owl#containsTN"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasTimelinePrecondition"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#hasValueEngaged"/>
+        <ObjectProperty IRI=".owl#hasMentalState"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#inSupportOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#intends"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isAchievedBy"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isDescribedBy"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isEmotionOf"/>
+        <ObjectProperty IRI=".owl#isMentalStateOf"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isFillerOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isGoalOf"/>
+        <ObjectProperty IRI=".owl#isMentalStateOf"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isIntendedBy"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isKnownBy"/>
+        <ObjectProperty IRI=".owl#isMentalStateOf"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isMemberOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isOLEContained"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isPlanEffectOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isPlanPreconditionOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isRoleOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isSpannedBy"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isTimelineEffectOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isTimelinePreconditionOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#isValueEngagedOf"/>
+        <ObjectProperty IRI=".owl#isMentalStateOf"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#knows"/>
+        <ObjectProperty IRI=".owl#hasMentalState"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#love_appraisingAgent"/>
+        <ObjectProperty IRI=".owl#appraisingAgent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#love_target"/>
+        <ObjectProperty IRI=".owl#target"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#shame_appraisingAgent"/>
+        <ObjectProperty IRI=".owl#appraisingAgent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#shame_target"/>
+        <ObjectProperty IRI=".owl#target"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI=".owl#spans"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#achieves"/>
+        <ObjectProperty IRI=".owl#isAchievedBy"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+        <ObjectProperty IRI=".owl#isOLEContained"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#describes"/>
+        <ObjectProperty IRI=".owl#isDescribedBy"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#feels"/>
+        <ObjectProperty IRI=".owl#isEmotionOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#follows"/>
+        <ObjectProperty IRI=".owl#precedes"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasChild"/>
+        <ObjectProperty IRI=".owl#hasParent"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasData"/>
+        <ObjectProperty IRI=".owl#isDataOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasDoneState"/>
+        <ObjectProperty IRI=".owl#isDoneStateOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasExtRef"/>
+        <ObjectProperty IRI=".owl#isExtRefOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasFiller"/>
+        <ObjectProperty IRI=".owl#isFillerOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasGoal"/>
+        <ObjectProperty IRI=".owl#isGoalOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasMember"/>
+        <ObjectProperty IRI=".owl#isMemberOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasMotivationIn"/>
+        <ObjectProperty IRI=".owl#isMotivationFor"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasPlanEffect"/>
+        <ObjectProperty IRI=".owl#isPlanEffectOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasPlanPrecondition"/>
+        <ObjectProperty IRI=".owl#isPlanPreconditionOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasPropositionalContent"/>
+        <ObjectProperty IRI=".owl#isPropositionalContentOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasRole"/>
+        <ObjectProperty IRI=".owl#isRoleOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+        <ObjectProperty IRI=".owl#isTimelineEffectOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasTimelinePrecondition"/>
+        <ObjectProperty IRI=".owl#isTimelinePreconditionOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hasValueEngaged"/>
+        <ObjectProperty IRI=".owl#isValueEngagedOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#hingesOn"/>
+        <ObjectProperty IRI=".owl#isHingedOnBy"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#intends"/>
+        <ObjectProperty IRI=".owl#isIntendedBy"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#isKnownBy"/>
+        <ObjectProperty IRI=".owl#knows"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#isOrderedBy"/>
+        <ObjectProperty IRI=".owl#orders"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI=".owl#isSpannedBy"/>
+        <ObjectProperty IRI=".owl#spans"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#achieves"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasData"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasExtRef"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasFiller"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasParent"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasPlanEffect"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasPlanPrecondition"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasPropositionalContent"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasTimelinePrecondition"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isDescribedBy"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isDoneStateOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isEmotionOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isIntendedBy"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isMotivationFor"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isOLEContained"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isSpannedBy"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isTimelineEffectOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isValueEngagedOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#spans"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasRole"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#hingesOn"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isFillerOf"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isSpannedBy"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#isTimelineEffectOf"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI=".owl#spans"/>
+    </InverseFunctionalObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI=".owl#coOccurInScene"/>
+    </SymmetricObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI=".owl#inConflictWith"/>
+    </SymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#appraisingAgent"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#coOccurInScene"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#containsFirstOLE"/>
+        <Class IRI=".owl#List"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#containsLastOLE"/>
+        <Class IRI=".owl#List"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+        <Class IRI=".owl#List"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#containsTN"/>
+        <Class IRI=".owl#Tree"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#describes"/>
+        <Class IRI=".owl#SituationSchema"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#happyFor_appraisingAgent"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#happyFor_target"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasADTComponent"/>
+        <Class IRI=".owl#AbstractDataType"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasChild"/>
+        <Class IRI=".owl#TreeNode"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasData"/>
+        <Class IRI=".owl#ADTComponent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasEmotionType"/>
+        <Class IRI=".owl#EmotionSchema"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasExtRef"/>
+        <ObjectUnionOf>
+            <Class IRI=".owl#DescriptionTemplate"/>
+            <Class IRI=".owl#DramaEntity"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasFiller"/>
+        <Class IRI=".owl#Role"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasGoal"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasMember"/>
+        <Class IRI=".owl#Set"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasMentalState"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasPlanEffect"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasPlanPrecondition"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasPropositionalContent"/>
+        <ObjectUnionOf>
+            <Class IRI=".owl#BeliefSchema"/>
+            <Class IRI=".owl#GoalSchema"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasRole"/>
+        <Class IRI=".owl#FrameNetSchema"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasRoot"/>
+        <Class IRI=".owl#Tree"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+        <Class IRI=".owl#Timeline"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasTimelinePrecondition"/>
+        <Class IRI=".owl#Timeline"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hasValueEngaged"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#hingesOn"/>
+        <Class IRI=".owl#DrammarScene"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#inConflictWith"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#inSupportOf"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#intends"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#isAchievedBy"/>
+        <Class IRI=".owl#Goal"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#isDoneStateOf"/>
+        <Class IRI=".owl#DoneSchema"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#isEmotionOf"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#isExtRefRoleOfExtRefSchema"/>
+        <Class IRI=".owl#ExternalRefRole"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#isMotivationFor"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#knows"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#love_appraisingAgent"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#love_target"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#orders"/>
+        <Class IRI=".owl#Timeline"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#precedes"/>
+        <Class IRI=".owl#OrderedListElement"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#shame_appraisingAgent"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#shame_target"/>
+        <Class IRI=".owl#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI=".owl#spans"/>
+        <Class IRI=".owl#Scene"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#appraisingAgent"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#coOccurInScene"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#containsFirstOLE"/>
+        <Class IRI=".owl#OrderedListElement"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#containsLastOLE"/>
+        <Class IRI=".owl#OrderedListElement"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#containsOLE"/>
+        <Class IRI=".owl#OrderedListElement"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#containsTN"/>
+        <Class IRI=".owl#TreeNode"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#describes"/>
+        <Class IRI=".owl#DramaPerdurant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#happyFor_appraisingAgent"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#happyFor_target"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasADTComponent"/>
+        <Class IRI=".owl#ADTComponent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasChild"/>
+        <Class IRI=".owl#TreeNode"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasData"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasEmotionType"/>
+        <Class IRI=".owl#ExternalRefEmotionType"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasExtRef"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasFiller"/>
+        <Class IRI=".owl#DramaEntity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasGoal"/>
+        <Class IRI=".owl#Goal"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasMember"/>
+        <Class IRI=".owl#SetMember"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasMentalState"/>
+        <Class IRI=".owl#MentalState"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasPlanEffect"/>
+        <Class IRI=".owl#ConsistentStateSet"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasPlanPrecondition"/>
+        <Class IRI=".owl#ConsistentStateSet"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasRole"/>
+        <Class IRI=".owl#Role"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasRoot"/>
+        <Class IRI=".owl#TreeNode"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasTimelineEffect"/>
+        <Class IRI=".owl#ConsistentStateSet"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasTimelinePrecondition"/>
+        <Class IRI=".owl#ConsistentStateSet"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hasValueEngaged"/>
+        <Class IRI=".owl#ValueEngaged"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#hingesOn"/>
+        <Class IRI=".owl#ConflictSet"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#inConflictWith"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#inSupportOf"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#intends"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isAchievedBy"/>
+        <Class IRI=".owl#Plan"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isDoneStateOf"/>
+        <ObjectUnionOf>
+            <Class IRI=".owl#Plan"/>
+            <Class IRI=".owl#Process"/>
+        </ObjectUnionOf>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isEmotionOf"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isExtRefRoleOfExtRefSchema"/>
+        <Class IRI=".owl#ExternalRefSchema"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isGoalOf"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isKnownBy"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isMotivationFor"/>
+        <Class IRI=".owl#Timeline"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#isValueEngagedOf"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#knows"/>
+        <Class IRI=".owl#Belief"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#love_appraisingAgent"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#love_target"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#orders"/>
+        <Class IRI=".owl#Unit"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#precedes"/>
+        <Class IRI=".owl#OrderedListElement"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#shame_appraisingAgent"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#shame_target"/>
+        <Class IRI=".owl#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI=".owl#spans"/>
+        <Class IRI=".owl#Timeline"/>
+    </ObjectPropertyRange>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI=".owl#isExtRefOf"/>
+            <ObjectProperty IRI=".owl#isRoleOf"/>
+            <ObjectProperty IRI=".owl#hasExtRef"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI=".owl#isExtRefRoleOfExtRefSchema"/>
+    </SubObjectPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#Schema_type"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#accomplished"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#originalTerm"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#quale_MWNSense"/>
+        <DataProperty IRI=".owl#quale"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#quale_YAGOSUMOConcept"/>
+        <DataProperty IRI=".owl#quale"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#quale_framenetFrame"/>
+        <DataProperty IRI=".owl#quale"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#quale_framenetRoleID"/>
+        <DataProperty IRI=".owl#quale"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI=".owl#quale_verbnetRoleLabel"/>
+        <DataProperty IRI=".owl#quale"/>
+    </SubDataPropertyOf>
+    <FunctionalDataProperty>
+        <DataProperty IRI=".owl#hasManifestation"/>
+    </FunctionalDataProperty>
+    <FunctionalDataProperty>
+        <DataProperty IRI=".owl#isIntentional"/>
+    </FunctionalDataProperty>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#Goal_type"/>
+        <Class IRI=".owl#Goal"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#Schema_type"/>
+        <Class IRI=".owl#SituationSchema"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#accomplished"/>
+        <ObjectUnionOf>
+            <Class IRI=".owl#AbstractPlan"/>
+            <Class IRI=".owl#DirectlyExecutablePlan"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#atStake"/>
+        <Class IRI=".owl#ValueEngaged"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#hasManifestation"/>
+        <Class IRI=".owl#Unit"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#hasMessage"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#isIntentional"/>
+        <Class IRI=".owl#Process"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#originalTerm"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#quale"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#quale_YAGOSUMOConcept"/>
+        <Class IRI=".owl#ExternalReference"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#quale_framenetFrame"/>
+        <Class IRI=".owl#ExternalRefSchema"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#quale_framenetRoleID"/>
+        <Class IRI=".owl#ExternalRefRole"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI=".owl#quale_verbnetRoleLabel"/>
+        <Class IRI=".owl#ExternalRefRole"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#Goal_type"/>
+        <DataOneOf>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Achievement</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Maintenance</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Perform</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Query</Literal>
+        </DataOneOf>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#Schema_type"/>
+        <DataOneOf>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">belief</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">done</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emotion</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">framenet</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">goal</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">not</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">value</Literal>
+        </DataOneOf>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#accomplished"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#atStake"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#hasManifestation"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#hasMessage"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#isIntentional"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI=".owl#originalTerm"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ADTComponent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ADTComponent 
+
+This class includes the entities which provide the components of abstract data types. 
+
+Currently, only the list data type includes a component, the OrderedListElement.
+
+The mapping on the AbstractDataType class is given by the hasADTComponent object property, which has the AbstractDataType class as its domain, and the ADTComponent class as its range.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#AbstractDataType</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AbstractDataType
+
+The data types needed for describing drama are sets, lists and trees (more precisely, tree nodes).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#AbstractPlan</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Abstract Plan
+
+An abstract plan is a recursive plan, i.e., a plan whose elements are plans. 
+Formally, an AbstractPlan is a list (List class) containing (containsOLE) elements (OrderedListElements) that have plans as their data (hasData). 
+The plans contained in an abstract plan can be either abstract plans or directly executable plans.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An Action is an intentional Process, which is a type of Process.
+Formally, an action is an Process which is constrained to be contained (isMemberOf) some Unit.
+
+In Drammar, an Action can be part of a plan of an agent (formally, a plan ia a list of actions), or can be included in a Unit (ordered into some timeline). Only direct executable plans  (DirectlyExecutablePlan class) contain actions
+
+The Action class is formally disjoint with the UnintentionalEventiveProcess class.
+
+We have introduced an explicit boolean datatype property isIntentional, because it could be that the annotators will use actions directly in the units (i.e. without explicitly introducing a plan for it).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Agent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Agent.
+
+Derived from BDI model, a mentalist model of agent which sees the agent as a rational entity who form intentions, or plans, (based on her beliefs) to achieve her desires (or goals). See Bratman et al. 1988 and Cohen and Levesque 1995.
+
+Agents are those entities in drama, that potentially 
+-  have goals (object property hasGoal);
+-  intend plans to achieve goals (object property intends);
+-  participate in actions with some role (object property isFillerOf);
+
+In addition,  agents have emotional states (as a result of targeted emotions appraisal processes) and have moral values (hasValue):
+-  feel emotions as a result of a cognitive appraisal process (specific object properties link each the appraisal of each emotion type to the agent); 
+-  have values (object property hasValue);
+
+The requirement, in drama, is that an agent has a plan, since the fact of having a goal would not be sufficient to ensure that the goal is translated into some concrete, perceivable behavior in drama. Having a plan, instead, implies that the agent also has goal.
+
+Notice that some Agent (e.g. Polonius) is involved in an action without being intentional (e.g., being the topic of a conversation), it remains classified as an Agent in Drammar, though it fills a different role in the frame (e.g., Topic of Conversation).
+
+References:
+Bratman, M. E., Israel, D. J., &amp; Pollack, M. E. (1988). Plans and resource‐bounded practical reasoning. Computational intelligence, 4(3), 349-355.
+Cohen, P. R., &amp; Levesque, H. J. (1995, June). Communicative Actions for Artificial Agents. In ICMAS (Vol. 95, pp. 65-72).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Belief</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A belief is what an agent believes (which may be true or not in the world) In the BDI model, beliefs form the agent&apos;s knowledge about the world that the agent relies on for devising plans to achieve her goals.
+
+In Drammar there is no distinction between knowing and believing, because reasoning concerns the agent motivations for acting, rather than the relationship between single agent knowledge and shared knowledge. 
+
+A belief is formally defined as the type of MentalState described by a BeliefSchema. 
+
+In the annotation, it is in the scope a ConsistenStateSet, that is precondition or effect of a Plan. SWRL rules for mapping project a belief onto some ConsistentStateSet which precedes or follows a timeline.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#BeliefSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The BeliefSchema class describes a Belief (a type of MentalState). 
+
+This class is formally defined as the subclass of MentalStateSchema having as its quale_schemaType value the string &quot;belief&quot;.
+
+A BeliefSchema has as its propositional content (via the propositionalContent object property) a factual process (FactualProcess class) or state (FactualState class).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ConflictSet</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This class represents the relation of conflict distributed over a set of plans.  
+It represents the orchestration of conflicts in drama.
+
+Although conflict may occur, in drama, between (or within) entities of different types (characters may be in conflict with each other, ir the same character may experience conflicting emotions), here we reduce the notion of conflict to this single class.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ConsistentStateSet</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A ConsistentStateSet is a set of states held consistent by definition. 
+
+It can be a set of states bordering a timeline (i.e., the state of affairs holding before and after the timeline) or it can be the state of affairs that holds before and after a plan (in this case, it represents the plan precondintions and effects).
+
+The isTimelinePreconditionOf (isTimelineEffectOf) property connects a ConsistentStateSet with a Timeline.
+
+The isPlanPreconditionOf (isPlanEffectOf) property connects a ConsistentStateSet with a Plan.
+
+A ConsistentStateSet has one or more states as its members (hasMember property)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DataStructure</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DataStructure
+
+This class encodes the data structures that provide  structural organization to the other entities. It includes abstract data types (namely sets, lists and trees) and data type components.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DescriptionTemplate</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DescriptionTemplate
+
+This class contains a well known role-based pattern for representing the linguistic schemata that describe the elements of drama, such as the entities and dynamics. Drammar imports this pattern from other ontologies, namely DOLCE. 
+The class DescriptionTemplate contains two classes:
+
+- Role
+- SituationSchema
+
+The class SituationSchema provides the specific pattern for the description of incidents and states, generically termed here as &quot;situations&quot;. A situation can be either a process or a state, usually described by a linguistic expression consisting of a verb  (&quot;giving&quot;) for processes, such as in the expression  &quot;Ophelia gives the gift back to Hamlet&quot;, or a by a preposition (&quot;behind&quot;) for states, such as in the expression &quot;Polonius is behind the tapestry&quot;). 
+
+The Role class provides the pattern for the roles that play a part in the state or process (in the above example, the role of the &quot;donor&quot; filled by Ophelia, the role of the &quot;recipient&quot; filled by Hamlet, etc.). 
+
+The linguistic counterpart of the role-based structure of the description templates is provided by a frame-like accounts of the linguistic descriptions of events, such as Framenet or Verbnet (https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml). Based on a lexical semantics perspective, these initiatives are aimed at grouping verbs (including statives) into &quot;frames of action&quot;, i.e., linguistic structures representing a group of semantically similar verbs with the complements that accompany them.
+
+Following a design choice that characterizes the Drammar ontology, all references to the external (linguistic or commonsense) knowledge are mediated by the ExternalReference class, a top level class whose function is specifically to act as a bridge to the external knowledge (see the documentation of the class). So, neither the Roles nor the Situation Schemata directly refer to the external linguistic knowledge they assume: rather, the hasExtRef property links each component of the pattern onto its corresponding class within the ExternalReference class: the SituationSchema class is related to the ExternalRefSchema, the Role class is related to the ExternalRefRole class. 
+Each ExternalReference subclass, then, bridges each pattern component onto the corresponding component within the external knowledge source via a specific data type property.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DirectlyExecutablePlan</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DirectlyExecutablePlans
+
+Directly executable plans are plans that contain only actions. 
+Formally, a directly executale plan is a list (List class) that contains (containsOLE) only elements (OrderedListElement) that have actions as their data (hasData).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Done</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Done is a type of state that represents the outcome of the complete execution of a process.
+
+Formally, it is defined by constraining it to be described by a DoneSchema.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DoneSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This schema establishes, through the value  &apos;done&apos; of the datatype property quale_schemaType, that the representation of a Done state (i.e., the state where some action has been accomplished) requires a Done schema.
+
+The DoneSchema is connected through a property  isDoneStateOf with an EventiveProcess or the Plan that the Done state terminates.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DramaEndurant</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DramaEndurant is an entity of drama that can be described as an endurant following Gangemi et al. 2002. 
+In Gangemi et al. 2002 &quot;Endurants are wholly present (i.e., all their proper parts are present) at any time they are present&quot;, differently from perdurants, which are only partially present at any time they are present.
+
+Endurants (and Perdurants, in some cases) play a role in processes and states: an Endurant is connected to a role (Role class) in the description of a given process or state  by the hasRole object property.
+
+The class of drama endurants encompasses more specific drama entities such as Agent and Object.
+This bipartite distinction is derived from the drama literature, where
+- Agents that intentionally perform actions;
+- Objects are involved in the actions in an unintentional way. 
+
+For instance, in Hamlet, the King of England is a drama endurant (but non an agent) because it is the filler of a role in Claudius&apos; actions (sending ... ) but does not intend any plan (a feature would locate it in the Agent class).
+
+The difference beteween the King of England and a coffee machine is entrusted to common sense knowlegde (e.g., the external lexical knowledge stating the sementic type of these two entities).
+
+Reference:
+Gangemi, A., Guarino, N., Masolo, C., Oltramari, A., &amp; Schneider, L. (2002). Sweetening ontologies with DOLCE. In Knowledge engineering and knowledge management: Ontologies and the semantic Web (pp. 166-181). Springer Berlin Heidelberg.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DramaEntity</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DramaEntity 
+
+Class of all the dramatic entities, that is, of all the entities that are peculiar to drama.
+Its sisters are classes that are not peculiar to drama, but concern templates, (DescriptionTemplate), references to external lexical and semantic systems (ExternalReference) and data structures (DataStructure) from computer science.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DramaPerdurant</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The DramaPerdurant class contains the entities of drama that can described as perdurants in DOLCE (Gangemi et al. 2002):
+&quot;Perdurants [...] just extend in time by accumulating different temporal parts, so that, at any time they are present, they are only partially present, in the sense that some of their proper temporal parts (e.g., their previous or future phases) may be not present.&quot; In other words, perdurants, namaly processes, are not entirely present at any time they are present, differently from endurants.
+
+The DramaEdurant is the class of elements of Drama that describe the story dynamics, i.e. Processes and States.
+In the context of Drammar, the individuals of this class describe the story advancement in terms of incidents and states holding between incidents. Each has a specific relation to the segmentation of drama:  processes are grouped in units, states precedes and follows timelines (which contain units).
+
+Notice that processes and states are not distinct in Framenet, the knowledge source we refer to for describing perdurants outside of Drammar.
+
+Reference:
+Gangemi, A., Guarino, N., Masolo, C., Oltramari, A., &amp; Schneider, L. (2002). Sweetening ontologies with DOLCE. In Knowledge engineering and knowledge management: Ontologies and the semantic Web (pp. 166-181). Springer Berlin Heidelberg.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#DrammarScene</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DrammarScene
+
+A DrammarScene is a type of scene that hinges on characters&apos; conflicting plans. In Drammar, the conflict over plans is represented by a class, the ConflictSet, which contains the set of plans in conflict.
+
+The hingesOn object property connects the DrammarScene with the Conflict Set.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Emotion</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Emotion is the class of emotions felt by an agent in a scene.
+Formally, it is described as the subclass of MentalState described by an EmotionSchema.
+
+The emotions refer to OCC emotion ontology (22 emotions types). 
+Emotion type is an external resource (ExternalRefEmotionType).
+
+An Emotion has an appraising agent (appraisingAgent object property) and, when appraised, is an emotion of (isEmotionOf object property) that agent.
+An emotion also has a target (the agent or object that is the target of the emotion): a specifi object property connects each emotion type with its target (e.g., shame_target, love_target, etc.).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#EmotionSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An EmotionSchema represents the description of an EmotionState, bridged onto some external linguistic or semantic system through the mediation of the ExternalRefEmotionType class.
+
+The EmotionSchema is a MentalStateSchema for describing an Emotion. Formally, it is constrained to the value &quot;emotion&quot; for the quale_schemaType data property.
+
+The hasExtRef property links the EmotionSchema to the ExternalRefEmotionType class which in turn links the description of the Emotion to a reference theory of emotions.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ExternalRefEmotionType</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This class includes individuals for all the 22 emotion types referred by OCC theory.
+
+The individuals are bridge individuals to some external formal OCC-based knowledge source, which does not exist yet but is assumed here.
+
+These individuals could also be a bridge to some commonsense ontology, such as YagoSumo for Values, but it would be different from the adoption of the OCC theory, as committed in Drammar.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ExternalRefEntity</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The ExternalRefEntity class has the function of bridging the description of a DramaEntity (not an entity in general) to some external linguistic or semantic resource such a dictionary or an ontology. 
+
+An entity can be linked to its ExternalReference by the hasExtRef object property, which has the ExternalReference as its range.
+
+The ExternalRefEntity iherits the &quot;quale&quot; data property from its direct ancestor, ExternalReference class.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ExternalRefRole</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The ExternalRefRole class has the function of bridging the description of a Role (not an entity in general) to a description of the role in some external linguistic that represents the argument structure of an event. 
+
+An Role can be linked to its ExternalRefRole by the hasExtRef object property, which has the ExternalRefRole as its range.
+
+The ExternalRefRole class has three data properties which connect it to the reference system: 
+
+- role_framenetRoleID: connects the Role to the id of the corresponding role in FrameNet 
+- role_verbnetRoleType: connects the Role to the name of the corresponding role in VerdNet (a string)
+- role_ID_resource</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ExternalRefSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The ExternalRefSchema class has the function of bridging the description of a SituationSchema to some external lexical-semantic resource  representing apt to represent the role structure of a process or state.
+
+An SituationSchema (or, better, a subclass of it) can be linked to its ExternalRefSchema by the hasExtRef object property, which has the ExternalReference as its range.
+
+The quale_frame_URI data property connects the SituationSchema with the FrameNet frame which correponds to it, following the paradigm of Linked Data.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ExternalReference</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ExternalReference
+
+This is a class that provides the service of accumulating all the &quot;quale&quot; datatype properties that refer to external linguistic or commonsense knowledge sources. Through this class, the description of the drama entities is bridged onto some external lexicon or ontology.
+
+Its subclasses are useful in grouping, but do not represent specific issues in support.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#FrameNetSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A FrameNetSchema corresponds to a process or state describable by a frame in Framenet (https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml).
+
+The reference of the schema to the external linguistic reality (the FrameNet frame) is mediated through an apposite class subsumed by the ExternalReference class, the ExternalRefSchema class: the SituationSchema class (and, by inheritance, also the FrameNetSchema class) is linked to the ExternalRefSchema class via the hasExtRef property. The quale_frame_URI, then, bridges the ExternalRefSchema class onto the URI of the appropriate frame.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Goal</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The Goal class represents the objectives of an agent. In the BDI model, the agent is driven by her desires, or goal, and forms plans to achieve them. 
+
+In Drammar, a goal is achieved by a plan; the achives object property connects a plan with the goal it achieves (a single goal, since the achieves property is functional). An agent intends (intends object property) a goal.
+
+Formally, the Goal class is a defined as a subclass of the MentalState class which is constrained:
+- to be the goal of some agent 
+- to be part of some ConsistentStateState
+- to be described by a GoalSchema
+ 
+Goal has a propositional content that is
+- a process in the case of perform goal PG (Hamlet wants to ask Ophelia ...)
+- a state in the case of 
+  - achievement (Hamlet wants Ophelia goes to a nunnery)
+  - maintenance (Hamlet wants Claudius (keeps) believing Hamlet is mad)
+  - query (Hamlet wants to know whether Ophelia is honest)
+
+In these various cases the propositional content is different:
+- Perform Goal - PC: Action
+- AG - PC: State, embedded in one Belief, with status false or 
+                  Process, embedded in Belief, with accomplishment false
+- MG - PC: State or Process, embedded in Belief, 
+                  with status/accomplishment true 
+- Query Goal - PC: depends on query; e.g.:
+  - Y/N question: the boolean status of a state (currently implemented as a 
+                            State with status TRUE)
+  - Wh question: the filler of a role in some state or process (currently not      implemented)
+
+These are guidelines for writing the plans correctly.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#GoalSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The GoalSchema class describes a Goal (a type of MentalState). 
+
+This class is formally defined as the subclass of MentalStateSchema having as its quale_schemaType value the string &quot;goal&quot;.
+
+A GoalSchema has as its propositional content (via the propositionalContent object property) a factual process (FactualProcess class) or state (FactualState class).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Goal_type</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Type of the goal: one of the strings
+&quot;Achievement&quot;
+&quot;Maintainance&quot;
+&quot;Perform&quot;
+&quot;Query&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#List</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">List
+
+List is inspired by a well known ontology (http://smiy.sourceforge.net/olo/spec/orderedlistontology.html#ordered_list); however, its implementation in Drammar makes some simplifications (e.g., indexes are not included) and renames some entities according to the terminology of the drama domain.
+
+List in drama: 
+- Plan: sequence of plans (abstract plans) or single actions (directly executable plans);
+- Timeline: sequence of units.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#MentalState</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MentalStates are EventiveStates that are attributed to the mind of an agent. 
+There are four types of mental states:
+1. Emotion
+2. Belief
+3. Goal
+4. Value
+
+Belief and Goal are traditionally described as having a propositional content because they both concern some attitude of the agent toward a proposition; 
+in Drammar, we don&apos;t enforce this distinction because the reference theoriesd we adopt for emotion and values also enforce some time of propositional content. The only difference is that only the schema types for beliefs and goals (BeliefSchema and GoalSchema) have a propositional content attached to it (through the propositionalContent object property).
+
+A MentalState is defined as an EventiveState that is described by a MentalStateSchema. 
+The latter are to be specified as EmotionSchema, BeliefSchema, GoalSchema, ValueEngagedSchema, depending on the MentalState type: so, the MentalStateSchema type works as a selector for the right trait of the mental schema.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#MentalStateSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The MentalStateSchema class collects all the schemata that license the behavior of the mental states.
+
+Following the guidelines for describing mental states in Ferrario, R., &amp; Oltramari, A. (2005, March). Towards a computational ontology of mind. In Aerospace Conference, 2005 IEEE (pp. 1-9). IEEE, propositional attitudes such as beliefs and goals are considered mental states in Drammar.
+
+The MentalState class includes: 
+- BeliefSchema
+- EmotionSchema
+- GoalSchema
+- ValueEngagedSchema
+
+The schemata match the mental states included in Drammar. Mental states are grouped in the DramaPerdurant class as eventive mental states (MentalState class) or as factual mental states (F_MentalState class).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#NegatedState</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NegatedState is a type of state that corresponds to the negation of an other state. It is needed to represent changes in the state of the world operated by process. For example, the effect of a movement action may be that the proposition &quot;Hamlet is in the room&quot; is negated because it does not hold anymore. Its use in annotation is regulated by guidelines. 
+
+Formally, it is defined by constraining a State to be described by a NegationSchema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#NegationSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This schema establishes, through the value  &apos;not&apos; of the datatype property quale_schemaType, that the representation of a negated state (i.e., a state obtained by negating a given state of affairs) requires a NegationSchema.
+
+Notice that this is in line with the flat-style representation of states in Drammar (se the documentaion of the SituationSchema class): Drammar does not represent the transition between states in terms of the manipulation of the state content (for example, by allowing a state to be first negated and then asserted, or vice versa). Instead, the logics of drama is entirely contained in the representation of plans, which are mapped onto practical actions (in units) that affect the state of the world and the agents&apos; mental states.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Object</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Object
+
+Class of entities (endurant) that participates into Perdurants, but without having intentions. An object is formally defined as a subclass of DramaEndurant whose member do not have plans.
+
+Objects can be filler of roles in the description of processes and states (for example, a book can be &quot;theme&quot; in a giving action (i.e. the entity that changes ownership as a consequence of a giving act).
+
+This class is formally disjoint from Agents (Disjoint property).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#OrderedListElement</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Class of the elements of the ordered lists (lists are plans and timelines). Sometimes referred to as OLE.
+The hasOrderedListElement object property has the List class as its domain and the OrderedListElement as its range.
+
+Notice that this class works as a placeholder that represents the single item in a list (it is not the list content itself): the property hasData links the OrderedListElement with the actual data, i.e. the content of the item. For example, the OrderedListElements Plans have other plans or actions as their data.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Plan</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Plan
+
+A plan is a sequence of actions devised by an agent to achieve some Goal. 
+In the BDI model, the agent&apos;s &apos;intention&apos; to execute a plan is the bridge between goals and practical actions. 
+In Drammar, a plan is intended by (intendedBy object property) an Agent to achieve (achieve property) some Goal. As a consequence, the plan motivates (isMotivationFor object property) a timeline (i.e. a given extent of the drama text). These are the necessary and sufficient conditions of class.
+
+Following the paradigm of hierarchical planning, plans are recursive. So plans can contains actions or other, simpler plans.
+Formally, a Plan is a list (namely, it is a subclass of the List class) whose elements are simpler plans (for abstract plans) or actions (for directly executable plans). A plan is related to its elements by the containsOLE property.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Process</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Processes represents the dynamic class of the perdurants: they are gathered into units, which are contained into ordered timelines bordered by states.
+
+Process is the class that bridges to the concept of Process in upper ontologies, externally to Drammar (like DOLCE, where States and Processes are types of Statives: here, we include also the event types called accomplishments and achievements in DOLCE).
+
+Consider that such resources are not of linguistic type. The DescriptionTemplate class (or, better, its subclass FrameNetSchema), in fact, drives the behavior of the process inside a Plan or a Unit, linking it (via the ExternalReference Class) to:
+1. a Wordnet sense
+2. a Frame (from Framenet or Verbnet)
+3. a set of Roles, played by roles encompassed in the frame
+All these links are bridged by the ExternalReference Class, which has &quot;quale&quot; properties that link the reference to specific resources.
+
+In the external ontology, a process may be logically defined through the use of axioms:
+for example, in the action of asking, it is assumed that Speaker and Addressee are connected through some communication medium, e.g. co-presence in a room or a telephone.
+
+In Drammar, the DramaStructures that contain the Processes are Units (subclasses of DramaSets) and Plans (subclasses of DramaLists). 
+
+They are then subdivided through a further trait, that is 
+  whether the process is intentional (of an agent) or not
+  (Action or UnintentionalProcess).
+This trait is defined through a specific Datatype property, of boolean type, called isIntentional.
+
+So, its subclasses are:
+  - Action: with isIntentional property valued TRUE;
+  - UnintentionalProcess: with isIntentional property valued FALSE.
+
+Same happens in parallel to the States, although in that case the trait concerns the state schema.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Role</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Role provides the pattern for the role fillers in a frame instantiation, that occurs in SituationSchema, for describing processes and states.
+
+A Role is filled by a DramaEntity: the fact that a given role has an entity as a filler is represented by the hasFiller property and its inverse isFillerOf property. 
+
+A Role belongs (isRoleOf) to a given SituationSchema, namely a ProcessSchema or a StateSchema (hasRole property). The Role class is related to its filler by the hasFiller property, whose range is the DramaEntity class.
+
+For example, given the incident describable as &quot;Ophelia gives the gift back to Hamlet&quot;, the roles of &quot;donor&quot; (the one who does the action of giving), &quot;recipient&quot; (the one wjho receives the object to be given) and &quot;theme&quot; (the object of giving action) are all instance of the Role class connected to the same Situation, each labeled with a linguistic label (&quot;donor&quot;, &quot;recipient&quot;, etc.) and each connected to its filler via  the hasFiller property. Roles can also be intended as thematic roles of verbs following the description contained in the Verbnet resource (http://verbs.colorado.edu/verb-index/index.php).
+
+The Role class, via the hasExtRef object property, is linked to the subclass of the top level ExternalReference class, the ExternalRefRole class, whose function is to connect the description of the role with the appropriate role name or URI in a linguistic account of roles through apposite data properties (namely, the Role_framenetRoleID and Role_verbnetRoleType data properties respectively for FrameNet and VerbNet).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Scene</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Scene
+
+Drama is divided into scenes, which correspond to an extent of the &apos;text&apos; of drama.
+Scenes (as a type of TreeNode) form a hierarchy, which represents the recursive nature of drama. 
+
+This is obtained by implementing the Scene class as a subclass of the TreeNode class. 
+Scenes contains children scenes: this relation is modeled through the hasChild property. 
+
+All scenes span some timeline (spans object property), i.e., they have a correspondance with some extent of the drama text (represented by the Timeline class).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Schema_type</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This datatype property represents the type of schema for some construct. 
+
+Its value correspond to the different types of state acknowledged in Drammar : beliefs, goals, etc. Each value correspond to a state type: e.g., &quot;belief&quot; for the Belief class.
+In particular, framenet is the magic word for the schemata extracted from Framenet.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Set</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Set
+
+The class of set structures. The relation between sets and set members is represented by the hasMember object property.
+
+It includes specific subclasses, with each subclass characterized by a specific type of members.
+
+Sets include:
+
+- ConflictsSets: sets of conflicting plans;
+- ConsistentStateSets: sets of consistent states (left and right boundaries of timelines and plans).
+- Units: sets of actions.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#SituationSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The situation schema provides the pattern for the description of incidents and states. It is inspired by the Situation ontology Pattern of the Ontology Design Pattern initiative (http://ontologydesignpatterns.org/). 
+So, a SituationSchema describes (&quot;describes&quot; object property) a DramaPerdurant (either a State or a Process).
+
+The schema works as a hub for the roles involved in a situation. The property hasRole links the Situation class (its domain) with the Role class (the range of the property). 
+
+Also, notice that, as illustrated in the documentation of the SituationSchema class, a Situation Schema (or, better, its subclasses) does not directly refer to the external linguistic knowledge employed to describe drama: rather, it refers to the ExternalRefSchema class (subclass of the top level ExternalReference class), which in turn refers  to the linguistic knowledge.
+
+The SituationSchema class specializes into specific schemata for describing specific type of situations:
+
+- FrameNetSchema: for describing processes, like giving or killing (in Drammar, they are grouped into units arranged on timelines), and states, like being behind some object or being dead (in Dramamr, they are bundled into sets that border timelines and plans).
+- DoneSchema: for describing states that result from the accomplishment of some action (for example, the state in which an action has been done).
+- NegationSchema: for describing states that are characterized by the negation of some propositional content (for example, the state in which it is not true that a given state of affaris holds).
+- MentalStateSchema: this class groups the specific types of schemata for describing the mental states of the agents in Drammar, namely beliefs, goals, emotions and values. 
+
+Technically, the subtypes of SituationSchema are characterized by different values of the quale_schemaType data property: &quot;belief&quot;, &quot;done&quot;, &quot;emotion&quot;, &quot;framenet&quot;, &quot;goal&quot;, &quot;not&quot;, &quot;value&quot;.
+
+Finally, it worth mentioning that is a specific design choice of Drammar not to represent the nesting of states: only the type of the top level state, be it a negation or a belief or else,  is represented, independent of what that negation or belief contains in turn. This flat style of representation is determined by the decision not to commit to a specific logical account of state types. When Drammar is employed for annotation, the content nested into a state is described informally in natural language description accompanying the state, if needed.
+
+
+Refs: Gangemi, A., &amp; Presutti, V. (2009). Ontology design patterns. In Handbook on ontologies (pp. 221-243). Springer Berlin Heidelberg.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#State</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">State represents the static class of the Perdurant. 
+
+State is the class that bridges to the concept of State in upper ontologies, externally to Drammar. For example, in DOLCE, states and process are the two distinct types of statives.
+
+Both factual and eventive states are further divided into different state types: 
+
+- MentalStates, namely Belief, Goals, Values and Emotions (all sharing some propositional content in their description);
+- StateOfAffairs, namely situations holding in the world;
+- ad hoc state types, needed to represent change in drama, namely Done and Negated.
+
+States participate to some structure. In Drammar, these structures are ConsistenStateSets (types of Sets), which borders timelines and plans.
+ 
+The specific type pf States are defined through the use of specific  types of StateSchema (subclass of DescriptionTemplate). 
+
+So, its subclasses are:
+  - DoneState: the state resulting from some action that has come at an end, i.e., has been accomplished:
+  - NegatedSchema: the state obtained as the negation of another state;
+  - MentalState: the mental state of an agent;
+  - StateOfAffairs: an objective state of the story world.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#StateOfAffairs</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StateofAffairs are states that concern the storyworld as a whole; they are described by a FrameNetSchema, namely a SituationSchema that points (through the ExternalRefSchema class) points to a specific frame. 
+
+This class gathers all states that are external to the characters&apos; mental states, and can be linguistically described through some external resources such as FrameNet.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Timeline</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Timeline
+
+Timeline is a subclass of List whose function is to impose some ordering on the units in a drama. Notice that the notion of timeline cannot be collapsed onto the actual text: rather, it is simply an indexing posed upon units (which correspond to a manifestation of drama in FRBR sense). In formal terms, the orders object property has Timeline as its domain and units as its range, so a unit &quot;orders&quot; some units.
+
+A Timeline contains unit. Formally, the elements (OrderedListElements class) contained in a timeline (containsOLE property) are units.
+
+A Timeline is surrounded by states of affairs that hold before and after it, namely instances of the ConsistentSateSets class that precede and follow a given timeline.  Formally, the Timeline class is the domain of  the hasTimelineEffect(Precondition) properties, which have the ConsistentStateSet class as their range.
+
+A timeline is motivated by some plan (motivates object property) and is spanned by some unit (span object property). The relation between units and timelines is independent of the scene/timeline relation.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#TreeNode</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TreeNode
+
+The TreeNode class represents tree-like structures in drama, namely Scenes.
+This class only represents the recursive structure of drama without an explicit commitment to the notion of &apos;drama as a tree&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#UnderspecifiedPlan</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An UnderspecifiedPlan is a plan that is part of a larger plan to achieve some goal, but has not been executed.
+
+In drama, it represents the unobservable part of a plan that has not been fully carried out by some agent. 
+Its existence (in the agent&apos;s mind) can only be conjectured - remember that a Plan is intended by some agent by definition. As the object of a conjecture, it does not contain any details in the representation of drama (this does not mean that it does not contain them in the agent&apos;s mind). 
+As such, an UnderspecifiedPlan:
+
+- does *not* motivate a timeline (it has not taken place);
+- does *not* achieve a goal (the actions/subplans composing it and its specific goal are not known);
+- does *not* contain any actions.
+
+These conditions, part of its definition as an Equivalent Class, distinguish it from Abstract and Directly Executable Plans.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#UnintentionalProcess</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">UnintentionalProcess is an unintentional Process.
+
+So, an UnintentionalProcess is a Process with the property isIntentional that values FALSE.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#Unit</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Unit
+
+Units are the segmentation of drama. A drama can have multiple segmentations.
+Units are ordered by some Timeline.
+
+Units are devoted to the representation of characters&apos; actions. So, we require that any unit contains at least one action whose description (ProcessSchema) encompasses at least one role having an agent as a filler. If a building collapses, this action, by itself, can be part of Unit only if an agent is involved in it (e.g., an agent dies).
+
+This definition guarantees that, in the minimal case, at least one agent appears as filler of the roles in the description of at least an action of every unit.
+
+A Unit has one or more actions as its members (hasMember property).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ValueEngaged</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The ValueEngagedClass represents the valued of an agent. These values are engaged in drama by the execution of the agents&apos; plans. 
+
+Formally, a ValueEngaged is a subclass of the MentalState class which is constrained to:
+
+- be in a given state, true or false, of the boolean property atStake
+- be in a ConsistentStateSet (namely, the consequences of some plan that puts the value at stake or brings it back to balance)
+- be described by a ValueEngagedSchema.
+
+For example, in the nunnery scene, Ophelia&apos;s answer &quot;At home, my Lord&quot;, being a lie, results in a state that puts at stake Hamlet&apos;s value of honesty.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ValueEngaged</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This class represents the dynamic state of a value</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#ValueEngagedSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The ValueEngagedSchema class describes an agent&apos;s ValueEngaged. 
+
+Formally, it is a subclass of MentalStateSchema whose property quale_schemaType is constrained to the string &quot;value&quot;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#accomplished</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Accomplished = true stands for entirely executed and goal achieved
+Accomplished = false stands for entirely executed and goal not achieved
+
+When missing, nothing is said about execution.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#achieves</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">achieves links a Plan to the Goal it aims at achieving</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#appraisingAgent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The appraisingAgent property connects an Emotion with the Agent who appraises it.
+
+It encompasses specific subproperties for the specific emotion types (in OCC theory, there are 22 emotion types such as Love or Shame)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#atStake</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Boolean property of a ValueEngaged:
+- true, if the value is at stake; 
+- false, if the value is balanced.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#coOccurInScene</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">coOccurInScene can be used to describe the fact that two Plans co-occur in the same Scene.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#containsOLE</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inverse of isOLElementOf.
+Connects the ordered list to its elements. </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#describes</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A SituationSchema describes a DramaPerdurant, i.e. provides a template for describing processes and states.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#follows</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inverse of precedes.
+Sequential order in an ordered list.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasADTComponent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A generic property for representing the relation among a given abstract structure type and its components.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasChild</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the basic relation employed for modelling the computational data structure of tree.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasData</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Property that connects a structural element (e.g. of the class OLE) with the data contained in it. 
+Range is not defined; it is defined for each specific structure element. </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasExtRef</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Quality of an entity (DramaEndurant)
+
+In particular:
+
+Object_type
+This property provides a URI, in YAGOSUMO or in Wordnet, or a custom string that defines the class of some object. E.g., object individual PinkOctopus in Oktapodi is of Object_type &quot;octopus&quot; in Yago.
+
+Environment_periodOfYear
+Epoch of some environment. 
+E.g. summer, january, Easter.
+Can be a URI or forced custom string. This is why Range is empty.
+
+Environment_location
+Can be &quot;exterior&quot; or &quot;interior&quot;. From a fixed menu.
+
+Environment_timeOfDay
+Can be 
+&quot;dawn&quot;
+&quot;morning&quot;
+&quot;afternoon&quot;
+&quot;evening&quot;
+&quot;night&quot;. 
+From a fixed menu.
+
+Environment_type
+The type of an envrironment.
+E.g.: forest, kitchen, office, ... .
+It can be custom string or URI.
+This is why Range is empty.
+
+Environment_epoch
+Epoch of some environment. 
+E.g. 20th century, 1710&apos;s, 50&apos;s.
+Can be a URI or forced custom string. This is why Range is empty.
+
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasFiller</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Filler is the property that connects a Role of a FrameNetSchema with the DramaEntity (DramaEndurant or DramaPerdurant) that fills that Role.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasGoal</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The property which connects an agent with her/his goals.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasManifestation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasManifestation
+
+This property connects a Unit to a manifestation of drama according to FRBR model. In the real world, a manifestation is represented by a IRI (e.g., the URL of a movie, of the recording of a performance, or of the digital edition of a novel).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasMember</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The specific property for modelling Sets (as a data structure). Any entity, in Drammar, can be a member of a Set.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasMessage</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anything can convey a message.
+Standard cases: 
+Signpost at a city entrance &quot;Ciudad de Mexico&quot;; 
+Toothpaste brand name on the object toothpaste: &quot;Colgate&quot;
+A specific utterance in a communication action.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasMotivationIn</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The hasMotivation property represents the relation bewteen a plan and the timeline it motivates (namely, where the actions of the plan are actually contained).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasParent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The parent/child relation for modelling tree structures.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasPlanEffect</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Property that connects a plan with the consistent set of states that is the effect of a plan (ConsistentStateSet).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasPlanPrecondition</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Property that connect a plan with the ConsistentStateState which forms its precondition.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasPropositionalContent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasPropositionalContent links  a BeliefSchema or a GoalSchema to the its content (a factual state or process), that is, the Process or State that is the actual content of the belief or the goal.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasRole</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Connects a SituationSchema ( modelled by a frame-like linguistic structure) with each Role of the schema.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasTimelineEffect</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Property that connect a Timeline with the ConsistentStateState which forms its effects.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasTimelinePrecondition</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Property that connect a Timeline with the ConsistentStateState which forms its precondition.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hasValueEngaged</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The property hasValue connects an agent to her/his ValueEngaged</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#hingesOn</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A DrammarScene hinges on some ConflictSet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#inConflictWith</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The conflict relation over plans. The ontology is neutral with respect with conflicts over other entity types, such a goals: it only assumes that conflicts over plans are observable.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#inSupportOf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The support relation over goals (parallel to inConflictWith)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#intends</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Intends has as domain an Agent and as range a Plan.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isAchievedBy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This property connects a goal with the plan that achieves it.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isDataOf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">isDataOf connects some entity to a data structure component (namely, an OrderedListElement) of which it is the content.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isDescribedBy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inverse of describes, this property connects a Dynamics (Process or State) with the SituationSchema that describes it.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isDoneStateOf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This is the property that connects a process with a particular state, called a done state, that holds whether the process has terminated. </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isEmotionOf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Connects an emotion with the agent who feels it.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isExtRefRoleOfExtRefSchema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This property chain serves the purpose of connecting a frame role with the frame it belongs to, via the following property chain: 
+
+isExtRefOf o isRoleOf o hasExtRef
+
+where
+- isExtRefOf connects ExtRefRole to Role
+- isRoleOf connects Role to ProcessSchema
+- hasExtRef connects ProcessSchema to ExtRefSchema
+
+(remember that the actual reference to the frame or frame role in an external resources are dealt with by attaching a &quot;quale&quot; data property to the classes that represent the external references)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isFillerOf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Connects some DramaEndurant or Perdurant to a Role in a SituationSchema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isGoalOf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">inverse of hasGoal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isHingedOnBy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inverse of hingesOn.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isIntendedBy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inverse of intends.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isIntentional</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Boolean property for Intentionality of processes. Applies to Processes to distinguish Action from an UnintentionalProcess.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isMotivationFor</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A plan is the motivation for a timeline, namely for a list of units containing actions.
+
+This property is functional: so, a plan can motivate only a timeline. Notice that this implies that a plan cannot motivate the same timeline motivated by a sub-plan, and that a plan cannot motivate the same timeline motivated by a more abstract plan. Of course, the fact that this property is functional does not imply that a single timeline cannot be motivated by more plans.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isOLEContained</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Connects the element of an ordered list to the ordered list.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#isPropositionalContentOf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inverse of hasPropositionalContent. It links a BeliefSchema or a GoalSchema to a State or Process.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#knows</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Property of an agent, who BELIEVES a Belief (a mental state with a propositional content).
+BELIEVES = KNOWS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#orders</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A Timeline orders Unit.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#originalTerm</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This is the string originally inserted for searching the URI in the external ontology. E.g. &quot;parlare&quot; &quot;eleganza&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#precedes</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sequential order in an ordered list.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#quale</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Any quality associated to anything. 
+
+Its range is a string (if a URI is needed to resolve the reference, this is dealt with when processing the annotation)
+
+All its subproperties are introduced on the basis of some specific annotation task. So, its current subproperties refer to FrameNet, VerbNet, YagoSumo, MWN corpora, respectively.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#quale_YAGOSUMOConcept</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The range is a concept in YagoSUMO. E.g. &amp;%Speaking+, &amp;%Arriving=, these two probably from SUMO; http://www.mpii.de/yago/resource/wordnet_bathing_100427853, probably from YAGO.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#quale_framenetFrame</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This property of the ExternalRefSchema links the schema to the frame it corresponds to, needed to describe some state or process occurring in drama.
+
+The value is the ID in Framenet.
+
+Currently, in the implementation, it is the string of the number of choice in the list of frames returned. E.g. &quot;1&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#quale_framenetRoleID</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Role_framenetRoleID
+ID of the role as stated by Framenet. It is the string returned through the access to Framenet. The string represent the ID of the Frame Element. </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#quale_verbnetRoleLabel</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Type of the role as stated by Verbnet. It is the string returned through the access to Verbnet. This happens when the access to Framenet fails.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#spans</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The coincidence relation of a Scene on a Timeline.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>.owl#target</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A generic property for describing the relation of an appraised emotional state with the target of the emotion, further articulated into more specific target types for each emotion type (see appraisingAgent property).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>owl:Thing</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Thing contains four major taxonomies:
+
+- DescriptionTemplate
+- DramaEntity
+- ExternalReference
+- DataStructure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>owl:topDataProperty</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">All these properties are data associated with classes. Labels are self-explaining (e.g. hasDMO domain is absolutely Unit) or have domain Thing. In non-obvious names, the domain class is in the prefix of the name (e.g. Environment_epoch). </Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

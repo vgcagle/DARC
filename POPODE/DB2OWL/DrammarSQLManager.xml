@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>COnfiguration file for DB connection</comment>
+<entry key="DB_NAME">NdF</entry>
+<entry key="USER">root</entry>
+<entry key="PORT">8889</entry>
+<entry key="SERVER">localhost</entry>
+<entry key="PASSWORD">root</entry>
+</properties>

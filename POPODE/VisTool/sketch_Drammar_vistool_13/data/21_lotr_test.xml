@@ -1,0 +1,59 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="P_Frodo_intends_slipping_away_from_Boromir" type="PLA" agent="Frodo" goal="G_Frodo_wants_to_keep_the_Ring" accomplished="T" mapping_init="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" mapping_end="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" print="NULL" rec_level="0" >
+ </plan> 
+
+ <plan  id="P_Boromir_intends_snatching_the_Ring_from_Frodo" type="PLA" agent="Boromir" goal="G_Boromir_wants_to_have_the_Ring" accomplished="F" mapping_init="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" mapping_end="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" print="NULL" rec_level="0" >
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+ <scene  id="Act_The_Fellowship_of_the_Ring" type="SCE" mapping_init="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" mapping_end="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" print="NULL" >
+ </scene> 
+
+</scenes> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="TL_BsRF"> 
+
+   <te  id="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" type="UNI" print="NULL">
+     <incident  id="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" type="UNI" print="NULL" set="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_total"> 
+
+   <te  id="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" type="UNI" print="NULL">
+     <incident  id="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" type="UNI" print="NULL" set="U_Boromir_tries_to_snatch_the_Ring_from_Frodo" />
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <agent id="Frodo" type="AGT" print="NULL"> </agent> 
+ <agent id="Boromir" type="AGT" print="NULL"> </agent> 
+</repository> 
+ 
+
+</drama> 
+ 

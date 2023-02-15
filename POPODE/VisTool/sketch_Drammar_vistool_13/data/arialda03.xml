@@ -1,0 +1,434 @@
+<drama>
+
+
+<!-- SCENES -->
+
+<scenes>
+
+  <!-- PLAY-->
+   <scene id="Arialda" print="Arialda" mapping_init="INC_01" mapping_end="INC_47" /> 
+  <!-- ATTI-->
+  <scene  id="I TEMPO" print="Primo Tempo" mapping_init="INC_01" mapping_end="INC_31" /> 
+  <scene  id="II TEMPO" print="Secondo Tempo" mapping_init="INC_32" mapping_end="INC_47" /> 
+  
+  <!-- SCENE-->
+  <scene  id="SCENA_I_I" print="Presentazione dei personaggi alla cava." mapping_init="INC_01" mapping_end="INC_08" />
+  <scene  id="SCENA_I_II" print="Situazione dei rapporti familiari interni ai Candidezza e con l'Arialda." mapping_init="INC_09" mapping_end="INC_13" />
+  <scene  id="SCENA_I_III" print="Situazione dei rapporti familiari interni ai Repossi." mapping_init="INC_14" mapping_end="INC_18" />
+  <scene  id="SCENA_I_IV" print="Continuazione delle storie parallele alla cava." mapping_init="INC_19" mapping_end="INC_21_2" />
+  <scene  id="SCENA_I_V" print="Situazione dei rapporti familiari interni alle Carimati." mapping_init="INC_22_1" mapping_end="INC_22_4" />
+  <scene  id="SCENA_I_VI" print="L'Arialda cambia atteggiamento: dall'attesa alla vendetta." mapping_init="INC_23" mapping_end="INC_25" />
+  <scene  id="SCENA_I_VII" print="L'Arialda si confronta con Amilcare e Gaetana." mapping_init="INC_26" mapping_end="INC_31" />
+  <scene  id="SCENA_II_I" print="L'Arialda avvia la vendetta." mapping_init="INC_32" mapping_end="INC_32" />
+  <scene  id="SCENA_II_II" print="Continuazione amara delle storie parallele e seduzione della Mina." mapping_init="INC_33" mapping_end="INC_37" />
+  <scene  id="SCENA_II_III" print="Confronto tra Arialda e Gaetana." mapping_init="INC_38" mapping_end="INC_41" />
+  <scene  id="SCENA_II_IV" print="Epilogo tragico di Gaetana e Lino e sanzione della relazione tra Amilcare e Mina." mapping_init="INC_42" mapping_end="INC_44" />
+  <scene  id="SCENA_II_V" print="Epilogo delle vicende personali di Eros e Arialda." mapping_init="INC_45" mapping_end="INC_47" />
+</scenes>
+
+
+<!-- TIMELINE OF INCIDENTS -->
+
+<timelines>
+<timeline id="Timeline_total">
+
+<unit id="INC_01" print="L'Angelo e l'Adele si incontrano intorno alla cava per amoreggiare e pianificare il matrimonio."/>
+<unit id="INC_02" print="Il Lino e l'Eros si incontrano alla cava perché Eros deve informare Lino di qualcosa, ma finisce per mandarlo a casa."/>
+<unit id="INC_03_1" print="Il Gino e la Rosangela entrano nella cava. Gino vuole sedurre Rosangela."/>
+<unit id="INC_03_2" print="La Rosangela accetta le avances."/>
+<unit id="INC_04" print="Il Quattretti, con testimone il Tino, sgama le intenzioni del Gino."/>
+<unit id="INC_05" print="Il Gino punisce il Quattretti, facendogli rimangiare le minacce di ricatto."/>
+<unit id="INC_06" print="L'Angelo e l'Adele progettano il futuro."/>
+<unit id="INC_07" print="L'Amilcare e l'Arialda progettano il matrimonio. L'Amilcare convince l'Arialda ad amoreggiare con lui."/>
+<unit id="INC_08" print="L'Eros maltratta la Mina e respinge le sue profferte."/>
+<unit id="INC_09" print="Il Gino cerca di stanare il Quattretti che si è chiuso nel gabinetto di casa Candidezza."/>
+<unit id="INC_10" print="L'Amilcare cerca di far uscire il Quattretti dal gabinetto."/>
+<unit id="INC_11" print="L'Amilcare fa restituire il portafoglio dal Quattretti al Gino."/>
+<unit id="INC_12" print="Il Quattretti rinfaccia la perversione di Eros all'Arialda."/>
+<unit id="INC_13" print="L'Amilcare si scusa con l'Arialda del comportamento dei figli."/>
+<unit id="INC_14" print="L'Alfonsina si lamenta con l'Arialda dell'andamento della loro vita."/>
+<unit id="INC_15" print="L'Arialda accusa Luigi, il fidanzato morto, per i suoi guai."/>
+<unit id="INC_16" print="L'Arialda e l'Alfonsina commentano sulla famiglia e sulla condotta di Eros."/>
+<unit id="INC_17" print="L'Arialda ribadisce le sue accuse a Luigi."/>
+<unit id="INC_18" print="L'Arialda rinfaccia a Eros di corrompere Lino."/>
+<unit id="INC_19" print="L'Adele e l'Angelo progettano la casa."/>
+<unit id="INC_20_1" print="La Rosangela resiste alle avances di Gino per paura della madre Gaetana"/>
+<unit id="INC_20_2" print="Gino rivela a Rosangela la tresca tra Gaetana e Amilcare"/>
+<unit id="INC_20_3" print="Rosangela accetta le avances di Gino"/>
+<unit id="INC_21_1" print="L'Eros minaccia l'Oreste perché lasci stare il Lino."/>
+<unit id="INC_21_2" print="Oreste cede al ricatto di Eros."/>
+<unit id="INC_22_1" print="Gaetana vuole che Rosangela lasci Gino"/>
+<unit id="INC_22_2" print="Rosangela rinfaccia a Gaetana las sua tresca con Amilcare"/>
+<unit id="INC_22_3" print="Gaetana prega che Rosangela rompa con il Gino"/>
+<unit id="INC_22_4" print="Rosangela rifiuta di lasciare Gino"/>
+<unit id="INC_23" print="Arialda e Alfonsina attendono il ritorno di Eros"/>
+<unit id="INC_24" print="Eros comunica all'Arialda che Amilcare sta con la Gaetana e non sposerà più Arialda."/>
+<unit id="INC_25" print="L'Arialda giura vendetta."/>
+<unit id="INC_26" print="Il Quattretti ricatta il Gino con il fazzoletto di Rosangela."/>
+<unit id="INC_27" print="Il Quattretti rivela ad Arialda la tresca di Gino con Rosangela."/>
+<unit id="INC_28" print="L'Arialda compra il fazzoletto dal Quattretti."/>
+<unit id="INC_29" print="L'Arialda accusa Gaetana e Amilcare della loro tresca e rivendica il proprio diritto a sposare Amilcare."/>
+<unit id="INC_30" print="L'Amilcare conferma il suo rifiuto al matrimonio per la frigidità di Arialda e la cattiva condotta di Eros."/>
+<unit id="INC_31" print="L'Arialda rinfaccia ad Amilcare e Gaetana l'incesto dei loro figli (la relazione tra Gino e Rosangela) e giura vendetta."/>
+<unit id="INC_32" print="L'Arialda chiede a Eros di incaricare la Mina di scompigliare i rapporti di coppia tra Amilcare e Gaetana."/>
+<unit id="INC_33" print="L'Angelo si lamenta con l'Adele per il suo destino (è stato licenziato) e non può più sposarsi."/>
+<unit id="INC_34" print="La Mina seduce l'Amilcare."/>
+<unit id="INC_35" print="La Mina inizia una storia con l'Amilcare e lo costringe a ripudiare e sputtanare Gaetana."/>
+<unit id="INC_36" print="La Rosangela lascia il Gino per i suoi continui tradimenti."/>
+<unit id="INC_37" print="L'Eros piange con il Lino."/>
+<unit id="INC_38" print="L'Alfonsina cerca di calmare l'Arialda, invitandola a riprendere la vita normale."/>
+<unit id="INC_39" print="Gaetana chiede all'Arialda di ripensare i suoi piani."/>
+<unit id="INC_40" print="L'Arialda rifiuta la proposta di Gaetana."/>
+<unit id="INC_41" print="Gaetana implora pietà."/>
+<unit id="INC_42" print="L'Amilcare costringe Mina a restare con lui."/>
+<unit id="INC_43" print="L'Arialda annuncia che la Gaetana si è suicidata."/>
+<unit id="INC_44" print="Il Gino annuncia l'incidente del Lino."/>
+<unit id="INC_45" print="L'Eros accusa l'Oreste della morte del Lino."/>
+<unit id="INC_46" print="L'Eros insulta la Mina."/>
+<unit id="INC_47" print="L'Arialda invoca i morti."/>
+
+</timeline>
+
+</timelines>
+
+
+<!-- PLANS: WHAT CHARACTERS INTEND TO DO -->
+
+
+<plans>
+  <plan id="P_Angelo_01"   
+        print="P_Angelo_01: Angelo INTENDE far immediatamente l'amore con Adele."
+        agent="Angelo" 
+        accomplished="F" 
+        mapping_init="INC_01" mapping_end="INC_01"> 
+  </plan>
+  
+  <plan id="P_Adele_01"   
+        print="P_Adele_01: Adele INTENDE condurre Angelo in un luogo appartato per far l'amore."
+        agent="Adele" 
+        accomplished="T" 
+        mapping_init="INC_01" mapping_end="INC_01"> 
+  </plan>
+ 
+ <plan id="P_Lino_01"   
+        print="P_Lino_01: Lino INTENDE attendere istruzioni da Eros."
+        agent="Lino" 
+        accomplished="T" 
+        mapping_init="INC_02" mapping_end="INC_02"> 
+  </plan>
+  
+
+  <plan id="P_Eros_01"   
+        print="P_Eros_01: Eros INTENDE convincere Lino ad andare a casa."
+        agent="Eros" 
+        accomplished="F" 
+        mapping_init="INC_02" mapping_end="INC_02"> 
+  </plan>
+ 
+ <plan id="P_Gino_01"   
+        print="P_Gino_01: Gino INTENDE sedurre Rosangela."
+        agent="Gino" 
+        accomplished="T" 
+        mapping_init="INC_03_1" mapping_end="INC_03_2"> 
+  </plan>
+      
+  <plan id="P_Rosangela_01"   
+        print="P_Rosangela_01: Rosangela INTENDE resistere alle avances di Gino."
+        agent="Rosangela" 
+        accomplished="T" 
+        mapping_init="INC_03_1" mapping_end="INC_03_1"> 
+  </plan>
+  
+  <plan id="P_Rosangela_02"   
+        print="P_Rosangela_02: Rosangela INTENDE accettare le avances di Gino."
+        agent="Rosangela" 
+        accomplished="T" 
+        mapping_init="INC_03_2" mapping_end="INC_03_2"> 
+  </plan>
+  
+  <plan id="P_Quattretti_01"   
+        print="P_Quattretti: Quattretti INTENDE ricattare il Gino."
+        agent="Quattretti" 
+        accomplished="F" 
+        mapping_init="INC_04" mapping_end="INC_04"> 
+  </plan>
+  
+    <plan id="P_Tino_01"   
+        print="P_Tino: Tino INTENDE aiutare Quattretti."
+        agent="Tino" 
+        accomplished="T" 
+        mapping_init="INC_04" mapping_end="INC_04"> 
+  </plan>
+  
+      <plan id="P_Gino_02"   
+        print="P_Gino: Gino INTENDE picchiare Quattretti."
+        agent="Gino" 
+        accomplished="T" 
+        mapping_init="INC_05" mapping_end="INC_05"> 
+  </plan>
+ 
+  
+      <plan id="P_Gino_03"   
+        print="P_Gino: Gino INTENDE fare sesso con Rosangela."
+        agent="Gino" 
+        accomplished="T" 
+        mapping_init="INC_03_1" mapping_end="INC_05">  
+   </plan>
+  
+   <plan id="P_Arialda_A"   
+        print="P_Arialda: Arialda vuole sposare l'Amilcare."
+        agent="Arialda" 
+        accomplished="F" 
+        mapping_init="INC_07" mapping_end="INC_30">
+</plan>
+
+ <plan id="P_Arialda_B"   
+        print="P_Arialda: Arialda vuole vendicarsi della Gaetana e dell'Amilcare."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_31" mapping_end="INC_43">  
+  </plan>
+  
+  <plan id="P_Arialda_02"   
+        print="P_Arialda: Arialda vuole chiedere a Eros di mandare Mina a sedurre Amilcare."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_32" mapping_end="INC_32"> 
+  </plan>
+
+  <plan id="P_Arialda_001"   
+        print="P_Arialda: Arialda intende sancire il fidanzamento Amilcare."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_07" mapping_end="INC_07"> 
+  </plan>  
+  
+        <plan id="P_Arialda_002"   
+        print="P_Arialda: Arialda intende supportare Amilcare."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_10" mapping_end="INC_10"> 
+  </plan>
+  
+        <plan id="P_Arialda_003"   
+        print="P_Arialda: Arialda intende calmare il Quattretti."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_11" mapping_end="INC_11"> 
+  </plan>
+  
+  	<plan id="P_Arialda_004"   
+        print="P_Arialda: Arialda intende educare il Quattretti."
+        agent="Arialda" 
+        accomplished="F" 
+        mapping_init="INC_12" mapping_end="INC_12">  
+</plan>
+
+ <plan id="P_Arialda_005"   
+        print="P_Arialda: Arialda intende distinguere la propria condotta da quella di Eros."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_13" mapping_end="INC_13">  
+</plan>
+
+ <plan id="P_Arialda_0B"   
+        print="P_Arialda: Arialda intende confermare il proprio ruolo di futura moglie."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_10" mapping_end="INC_13">  
+</plan>
+
+
+ <plan id="P_Arialda_006"   
+        print="P_Arialda: Arialda intende accusare il fidanzato morto (Luigi)."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_15" mapping_end="INC_15">  
+</plan>
+
+ <plan id="P_Arialda_007"   
+        print="P_Arialda: Arialda intende difendere lo stile di vita di Eros."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_16" mapping_end="INC_16">  
+</plan>
+
+ <plan id="P_Arialda_008"   
+        print="P_Arialda: Arialda intende continuare a maledire il ricordo di Luigi."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_17" mapping_end="INC_17">  
+</plan>
+
+ <plan id="P_Arialda_009"   
+        print="P_Arialda: Arialda intende rimproverare l'Eros per la frequentazione di Lino."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_18" mapping_end="INC_18">  
+</plan>
+
+ <plan id="P_Alfonsina_001"   
+        print="P_Alfonsina: Alfonsina intende conoscere i problemi che sono emersi con Amilacare nel matrimonio."
+        agent="Alfonsina" 
+        accomplished="T" 
+        mapping_init="INC_17" mapping_end="INC_17">  
+</plan>
+
+
+ <plan id="P_Arialda_0BB"   
+        print="P_Arialda: Arialda intende dissimulare la sua preoccupazione per il matrimonio."
+        agent="Arialda" 
+        accomplished="F" 
+        mapping_init="INC_14" mapping_end="INC_17">  
+</plan>
+    
+  
+    <plan id="P_Arialda_03"   
+        print="P_Arialda: Arialda vuole maltrattare Gaetana."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_39" mapping_end="INC_39"> 
+  </plan>
+  
+      <plan id="P_Arialda_04"   
+        print="P_Arialda: Arialda vuole rifiutare la supplica di Gaetana."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_40" mapping_end="INC_40"> 
+  </plan>
+  
+        <plan id="P_Arialda_05"   
+        print="P_Arialda: Arialda vuole istigare al suicidio la Gaetana."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_41" mapping_end="INC_41"> 
+  </plan>
+
+ <plan id="P_Arialda_BB"   
+        print="P_Arialda: Arialda rifiuta di aiutare la Gaetana."
+        agent="Arialda" 
+        accomplished="T" 
+        mapping_init="INC_39" mapping_end="INC_41">  
+ </plan>
+ 
+
+
+ <plan id="P_Eros_A"   
+        print="P_Eros: Eros vuole proteggere Lino."
+        agent="Eros" 
+        accomplished="F" 
+        mapping_init="INC_02" mapping_end="INC_45"> 
+  </plan>
+
+ <plan id="P_Eros_B"   
+        print="P_Eros: Eros vuole aiutare l'Arialda a vendicarsi."
+        agent="Eros" 
+        accomplished="T" 
+        mapping_init="INC_32" mapping_end="INC_43">        
+   </plan>
+   
+   <plan id="P_Amilcare_AA"   
+        print="P_Amilcare: Amilcare vuole una moglie per badare la casa e i figli."
+        agent="Amilcare" 
+        accomplished="NULL" 
+        mapping_init="INC_07" mapping_end="INC_34">  
+</plan>
+ 
+ <plan id="P_Amilcare_A"   
+        print="P_Amilcare: Amilcare vuole sposare l'Arialda."
+        agent="Amilcare" 
+        accomplished="NULL" 
+        mapping_init="INC_07" mapping_end="INC_30"> 
+  </plan>
+
+<plan id="P_Amilcare_B"   
+        print="P_Amilcare: Amilcare vuole sposare la Gaetana."
+        agent="Amilcare" 
+        accomplished="F" 
+        mapping_init="INC_30" mapping_end="INC_34">  
+</plan>
+
+<plan id="P_Amilcare_03"   
+        print="P_Amilcare: Amilcare intende sedare la rissa tra i due figli."
+        agent="Amilcare" 
+        accomplished="T" 
+        mapping_init="INC_10" mapping_end="INC_10">  
+</plan>
+
+<plan id="P_Amilcare_04"   
+        print="P_Amilcare: Amilcare intende ottenere dal Quattretti che sia restituito il portafogli a Gino."
+        agent="Amilcare" 
+        accomplished="T" 
+        mapping_init="INC_11" mapping_end="INC_11">  
+</plan>
+
+<plan id="P_Amilcare_05"   
+        print="P_Amilcare: Amilcare intende dare ad Arialda l'autorità per rimproverare il Quattretti."
+        agent="Amilcare" 
+        accomplished="T" 
+        mapping_init="INC_12" mapping_end="INC_12">  
+</plan>
+
+<plan id="P_Amilcare_06"   
+        print="P_Amilcare: Amilcare intende minimizzarele preoccupazioni di Arialda circa Eros."
+        agent="Amilcare" 
+        accomplished="T" 
+        mapping_init="INC_13" mapping_end="INC_13">  
+</plan>
+
+<plan id="P_Amilcare_BBB"   
+        print="P_Amilcare: Amilcare intende insediare Arialda come futura padrona di casa."
+        agent="Amilcare" 
+        accomplished="T" 
+        mapping_init="INC_10" mapping_end="INC_13">  
+</plan>
+  
+  <plan id="P_Amilcare_C"   
+        print="P_Amilcare: Amilcare vuole stare con la Mina."
+        agent="Amilcare" 
+        accomplished="T" 
+        mapping_init="INC_34" mapping_end="INC_42">  
+</plan>
+ 
+ <plan id="P_Quattretti_02"   
+        print="P_Quattretti: Quattretti intende rinfacciare ad Arialda la condotta di Eros."
+        agent="Quattretti" 
+        accomplished="T" 
+        mapping_init="INC_12" mapping_end="INC_12">  
+</plan>
+    
+ </plans>
+
+<!-- REPOSITORY -->
+
+<repository>
+
+<!-- AGENTS -->
+<agent id="Angelo" print="Angelo Gariboldi"> </agent>
+<agent id="Adele" print="Adele Resnati"> </agent>
+<agent id="Lino" print="Lino Giannetti"> </agent>
+<agent id="Eros" print="Eros Repossi, figlio di Alfonsina"> </agent>
+<agent id="Gino" print="Gino Candidezza, figlio di Amilcare"> </agent>
+<agent id="Rosangela" print="Rosangela Carimati, figlia di Gaetana"> </agent>
+<agent id="Quattretti" print="Stefano Candidezza, figlio di Amilcare, detto il Quattretti"> </agent>
+<agent id="Tino" print="Tino Airaghi"> </agent>
+<agent id="Amilcare" print="Amilcare Candidezza"> </agent>
+<agent id="Arialda" print="Arialda Repossi, figlia di Alfonsina"> </agent>
+<agent id="Mina" print="Mina Boniardi"> </agent>
+<agent id="Luigi" print="Luigi, il marcione"> </agent>
+<agent id="Alfonsina" print="Alfonsina Repossi, madre di Arialda"> </agent>
+<agent id="Gaetana" print="Gaetana Molise, vedova Carimati"> </agent>
+<agent id="Oreste" print="Oreste Scotti"> </agent>
+
+ </repository>
+
+
+</drama>
+
+
+
+
+
+
+
+

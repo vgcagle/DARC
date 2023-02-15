@@ -1,0 +1,1179 @@
+<?xml version="1.0"?> 
+ 
+
+<drama> 
+<!-- ############################### PLANS ################################# --> 
+
+<plans> 
+
+ <plan  id="Plan_AB_OW_Turn_down_R" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Turn_down_R" accomplished="F" mapping_init="Unit_04" mapping_end="Unit_06" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Reaching_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Arriving_M" accomplished="T" mapping_init="OLE_Plan_AB_R_Reaching_M_Unit_01" mapping_end="Unit_02" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_D_END_09_R_Awareness_OW-Perception_Experience_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_09" mapping_end="Unit_09" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_03_Contacting" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Contacting" accomplished="T" mapping_init="Unit_03" mapping_end="Unit_03" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_02-1_OW_Feigning-Fall_asleep" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Feigning-NOT-Possibility-Communication_response[being_noticed]" accomplished="T" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_05_Apologizing" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Not_Irate_OW_[Emotion_directed]" accomplished="F" mapping_init="Unit_05" mapping_end="Unit_05" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_02-2_R_Seeking" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Finding_M" accomplished="F" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_14_OW_Answering" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Answering_RQuestion" accomplished="T" mapping_init="Unit_14" mapping_end="Unit_14" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_07_Fegning-Activity" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Feigning-Activiy_R" accomplished="F" mapping_init="Unit_07" mapping_end="Unit_07" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_11_OW_Complaining" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-Communication_Response" accomplished="F" mapping_init="Unit_11" mapping_end="Unit_11" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Discussion_with_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Justifying_with_M" accomplished="NULL" mapping_init="Unit_01" mapping_end="Unit_13" print="NULL" rec_level="5" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Awareness_OW-Perception_Experience_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Awareness_OW-Perception_Experience_M" accomplished="F" mapping_init="Unit_08" mapping_end="Unit_09" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_D_END_03_OW_Avoiding-R_Becoming_aware" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_03" mapping_end="Unit_03" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_END_11_R_Awareness_OW-Perception_Experience_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_11" mapping_end="Unit_11" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_13_R_Request[Commanding]_OW-Perception_Experience" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Request[Commanding]_OW-Perception_Experience" accomplished="T" mapping_init="Unit_13" mapping_end="Unit_13" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_09_Feigning-NOT-Perceptual_experience" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-Communication_Response" accomplished="F" mapping_init="Unit_09" mapping_end="Unit_09" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_AB_OW_Save_herself_from_R" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Being_peacefully" accomplished="T" mapping_init="Unit_02" mapping_end="Unit_14" print="NULL" rec_level="5" >
+ </plan> 
+
+ <plan  id="Plan_AB_OW_Be_Quiet" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Being_peacefully" accomplished="F" mapping_init="Unit_01" mapping_end="Unit_02" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Awareness_OW-Perception_Experience_M_2" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Awareness_OW-Perception_Experience_M" accomplished="F" mapping_init="Unit_10" mapping_end="Unit_11" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_D_06-1_Respond_to_Proposal_[reject]" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Respond_to_Proposal_[reject]" accomplished="F" mapping_init="Unit_06" mapping_end="Unit_06" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_01-2_Sleep_Baby" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Baby_Sleeps" accomplished="T" mapping_init="Unit_01" mapping_end="Unit_01" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_06-2_R_Justifying" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Justifying_with_OW" accomplished="F" mapping_init="Unit_06" mapping_end="Unit_06" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_AB_OW_Get_free_from_R_[pushing_away]" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Get_free_from_R_[pushing_away]" accomplished="F" mapping_init="Unit_04" mapping_end="Unit_11" print="NULL" rec_level="3" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Make_acquaintance_with_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Make_acquaintance_with_OW" accomplished="T" mapping_init="Unit_03" mapping_end="Unit_06" print="NULL" rec_level="3" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Flattering_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Flattering" accomplished="F" mapping_init="Unit_05" mapping_end="Unit_06" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_AB_OW_Avoiding-Interaction_with_R" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-Interaction_with_R" accomplished="F" mapping_init="Unit_02" mapping_end="Unit_11" print="NULL" rec_level="4" >
+ </plan> 
+
+ <plan  id="Plan_AB_OW_Betrayed_M" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_R_Departing" accomplished="T" mapping_init="Unit_14" mapping_end="Unit_14" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Meeting_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_meet_with_M" accomplished="F" mapping_init="Unit_01" mapping_end="Unit_02" print="NULL" rec_level="3" >
+ </plan> 
+
+ <plan  id="Plan_AB_OW_Avoiding-R_Becoming_aware" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-R_Becoming_aware" accomplished="F" mapping_init="Unit_02" mapping_end="Unit_03" print="NULL" rec_level="2" >
+ </plan> 
+
+ <plan  id="Plan_D_01-1_Arriving" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Arriving" accomplished="T" mapping_init="Unit_01" mapping_end="Unit_01" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_12_R_Threaten_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Receiving-Communication_response" accomplished="T" mapping_init="Unit_12" mapping_end="Unit_12" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_END_OW_Be_Quiet" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_END_02_R_Meeting_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_04_Blame_R_[Judgement]" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Removing_G_[pushing_away]" accomplished="F" mapping_init="Unit_04" mapping_end="Unit_04" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_10_R_Demanding[twice]Plan_D_10_R_Demanding[twice]_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Receiving-Communication_response" accomplished="F" mapping_init="Unit_10" mapping_end="Unit_10" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_D_08_Questioning[asking]_OW-Perception_experience" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Asking" accomplished="F" mapping_init="Unit_08" mapping_end="Unit_08" print="NULL" rec_level="1" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Awareness-Co-location_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Awareness-Co-location_M" accomplished="T" mapping_init="Unit_08" mapping_end="Unit_13" print="NULL" rec_level="4" >
+ </plan> 
+
+ <plan  id="Plan_AB_R_Awareness_OW-Perception_Experience_M_3" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Awareness_OW-Perception_Experience_M" accomplished="F" mapping_init="Unit_12" mapping_end="Unit_13" print="NULL" rec_level="2" >
+ </plan> 
+
+</plans> 
+ 
+<!-- ############################### SCENES ################################# --> 
+
+<scenes> 
+
+</scenes> 
+ 
+<!-- ############################### PLAYS ################################# --> 
+
+<plays> 
+
+</plays> 
+ 
+<!-- ############################### ACTS ################################# --> 
+
+<acts> 
+
+</acts> 
+ 
+<!-- ############################### TIMELINES ################################# --> 
+
+<timelines> 
+
+<timeline id="TL_SceneD_L04_01"> 
+
+   <te  id="Unit_01" type="UNI" print="NULL">
+     <incident  id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Discussion_with_M"> 
+
+   <te  id="Unit_01" type="UNI" print="NULL">
+     <incident  id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Scene_02"> 
+
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Awareness_OW-Perception_Experience_M_3"> 
+
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_SceneD_L05"> 
+
+   <te  id="Unit_01" type="UNI" print="NULL">
+     <incident  id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_14" type="UNI" print="NULL">
+     <incident  id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_SceneD_L01_03-1"> 
+
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_OW_Save_herself_from_R"> 
+
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_14" type="UNI" print="NULL">
+     <incident  id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Total"> 
+
+   <te  id="Unit_01" type="UNI" print="NULL">
+     <incident  id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_14" type="UNI" print="NULL">
+     <incident  id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_01"> 
+
+   <te  id="CSS_TL_Unit_01_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_01" type="UNI" print="NULL">
+     <incident  id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_01_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_13"> 
+
+   <te  id="CSS_TL_Unit_13_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_03"> 
+
+   <te  id="CSS_TL_Unit_03_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_03_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_OW_Avoiding-R_Becoming_aware"> 
+
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_OW_Avoiding-Interaction_with_R"> 
+
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_11"> 
+
+   <te  id="CSS_TL_Unit_11_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_11_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_09"> 
+
+   <te  id="CSS_TL_Unit_09_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_09_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_OW_Betrayed_M"> 
+
+   <te  id="Unit_14" type="UNI" print="NULL">
+     <incident  id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_05"> 
+
+   <te  id="CSS_TL_Unit_05_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_05_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_SceneD_L02_01"> 
+
+   <te  id="Unit_01" type="UNI" print="NULL">
+     <incident  id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_07"> 
+
+   <te  id="CSS_TL_Unit_07_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_07_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_SceneD_L02_03"> 
+
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_SceneD_L04_02"> 
+
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_14" type="UNI" print="NULL">
+     <incident  id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Awareness_OW-Perception_Experience_M"> 
+
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_OW_Be_Quiet"> 
+
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_OW_Get_free_from_R_[pushing_away]"> 
+
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_OW_Turn_down_R"> 
+
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Scene_L02_04"> 
+
+   <te  id="Unit_14" type="UNI" print="NULL">
+     <incident  id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Awareness-Co-location_M"> 
+
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_09" type="UNI" print="NULL">
+     <incident  id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_13" type="UNI" print="NULL">
+     <incident  id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Awareness_OW-Perception_Experience_M_2"> 
+
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_SceneD_L01_03-2"> 
+
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_11" type="UNI" print="NULL">
+     <incident  id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_12"> 
+
+   <te  id="CSS_TL_Unit_12_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_12" type="UNI" print="NULL">
+     <incident  id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_12_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_02"> 
+
+   <te  id="CSS_TL_Unit_02_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_02_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_14"> 
+
+   <te  id="CSS_TL_Unit_14_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_14" type="UNI" print="NULL">
+     <incident  id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_14_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Meeting_M"> 
+
+   <te  id="Unit_01" type="UNI" print="NULL">
+     <incident  id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Reaching_M"> 
+
+   <te null>
+     <incident null set="OLE_Plan_AB_R_Reaching_M_Unit_01" />
+   </te>
+   <te  id="Unit_02" type="UNI" print="NULL">
+     <incident  id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_04"> 
+
+   <te  id="CSS_TL_Unit_04_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_04_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_10"> 
+
+   <te  id="CSS_TL_Unit_10_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_10" type="UNI" print="NULL">
+     <incident  id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_10_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Flattering_OW"> 
+
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_06"> 
+
+   <te  id="CSS_TL_Unit_06_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_06_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_SceneD_L02_02"> 
+
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_04" type="UNI" print="NULL">
+     <incident  id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_07" type="UNI" print="NULL">
+     <incident  id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Plan_AB_R_Make_acquaintance_with_OW"> 
+
+   <te  id="Unit_03" type="UNI" print="NULL">
+     <incident  id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_05" type="UNI" print="NULL">
+     <incident  id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="Unit_06" type="UNI" print="NULL">
+     <incident  id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+     <incident  id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+</timeline> 
+ 
+
+<timeline id="TL_Unit_08"> 
+
+   <te  id="CSS_TL_Unit_08_Pre" type="CSS" pre_or_eff="PRE" print="NULL" >
+   </te>
+   <te  id="Unit_08" type="UNI" print="NULL">
+     <incident  id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL" />
+   </te>
+   <te  id="CSS_TL_Unit_08_Effect" type="CSS" pre_or_eff="EFF" print="NULL" >
+   </te>
+</timeline> 
+ 
+
+</timelines> 
+ 
+
+<!-- ############################### REPOSITORY ################################# --> 
+
+<repository> 
+
+ <rep_elem id="CSS_Plan_Sleep_Baby_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Communication" set="Plan_AB_OW_Get_free_from_R_[pushing_away]" type="ACC" seq_or_hie="SEQUENCE" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_END_11_R_Awareness_OW-Perception_Experience_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_11" mapping_end="Unit_11" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_11_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_03_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_Co-location_M" set="CSS_Plan_R_Demanding_OW_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_Co-location_M" set="CSS_Plan_OW_Answering_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_go_away" set="CSS_Plan_AB_OW_Avoiding-Interaction_with_R_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Aware_OW" set="CSS_Plan_AB_OW_Avoiding-R_Becoming_aware_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Chatting" set="CSS_Plan_OW_Reject_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_01-1_R_arriving" type="ACT" set="Plan_D_01-1_Arriving" seq_or_hie="HIERARCHY" mapping="Action_01-1_R_arriving" mapping_set="Unit_01" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Awareness-Co-location_M" type="TML" init="Unit_08" end="Unit_13"> </rep_elem> 
+ <rep_elem id="SOA_R_go_away" set="CSS_Plan_AB_OW_Get_free_from_R_[pushing_away]_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_10_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_02_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Unit_14" type="TML" init="Unit_14" end="Unit_14"> </rep_elem> 
+ <rep_elem id="TL_Unit_13" type="TML" init="Unit_13" end="Unit_13"> </rep_elem> 
+ <rep_elem id="TL_Unit_12" type="TML" init="Unit_12" end="Unit_12"> </rep_elem> 
+ <rep_elem id="TL_Unit_11" type="TML" init="Unit_11" end="Unit_11"> </rep_elem> 
+ <rep_elem id="TL_Unit_10" type="TML" init="Unit_10" end="Unit_10"> </rep_elem> 
+ <rep_elem id="Plan_D_04_Blame_R_[Judgement]" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Removing_G_[pushing_away]" accomplished="F" mapping_init="Unit_04" mapping_end="Unit_04" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_10_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_02_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Encounter" set="CSS_Plan_R_Seeking_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Discussion_with_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Unit_09" type="TML" init="Unit_09" end="Unit_09"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Turn_down_R_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Unit_08" type="TML" init="Unit_08" end="Unit_08"> </rep_elem> 
+ <rep_elem id="Action_10_R_Demand_[insists]" type="ACT" set="Unit_10" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Unit_07" type="TML" init="Unit_07" end="Unit_07"> </rep_elem> 
+ <rep_elem id="TL_Unit_06" type="TML" init="Unit_06" end="Unit_06"> </rep_elem> 
+ <rep_elem id="TL_Unit_05" type="TML" init="Unit_05" end="Unit_05"> </rep_elem> 
+ <rep_elem id="TL_Unit_04" type="TML" init="Unit_04" end="Unit_04"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Unit_03" type="TML" init="Unit_03" end="Unit_03"> </rep_elem> 
+ <rep_elem id="TL_Unit_02" type="TML" init="Unit_02" end="Unit_02"> </rep_elem> 
+ <rep_elem id="Plan_AB_OW_Turn_down_R" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Turn_down_R" accomplished="F" mapping_init="Unit_04" mapping_end="Unit_06" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Unit_01" type="TML" init="Unit_01" end="Unit_01"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Asking[Questioning]_OW" set="CSS_Plan_OW_Complaining_Effect" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_R_Arriving" set="CSS_Plan_AB_OW_Save_herself_from_R_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_11_OW_Fear_R" type="ACT" set="Plan_D_11_OW_Complaining" seq_or_hie="HIERARCHY" mapping="Action_11_OW_Fear_R" mapping_set="Unit_11" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_10_R_Demand_[insists]" type="ACT" set="Plan_D_10_R_Demanding[twice]Plan_D_10_R_Demanding[twice]_OW" seq_or_hie="HIERARCHY" mapping="Action_10_R_Demand_[insists]" mapping_set="Unit_10" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_M_Attending_appointment" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_2_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_11_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_friendly_R" set="CSS_Plan_AB_R_Flattering_OW_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Personal_relationship_OW" set="CSS_Plan_AB_R_Make_acquaintance_with_OW_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_awake" set="CSS_Plan_Feigning-Fall_asleep_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Questioning_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Discussion_with_M" type="TML" init="Unit_01" end="Unit_13"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Make_acquaintance_with_OW_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Unit_14" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_3_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Flattering_OW_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Flattering_OW" type="TML" init="Unit_05" end="Unit_06"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Awareness_OW-Perception_Experience_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Unit_05" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Save_herself_from_R_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_01_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Unit_07" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Betrayed_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L01_03-2" type="TML" init="Unit_10" end="Unit_10"> </rep_elem> 
+ <rep_elem id="SceneD_L04_02" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L01_03-1" type="TML" init="Unit_08" end="Unit_08"> </rep_elem> 
+ <rep_elem id="SceneD_L04_01" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Discussion_with_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Justifying_with_M" accomplished="NULL" mapping_init="Unit_01" mapping_end="Unit_13" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Save_herself_from_R_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Contacting_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SceneD_L05" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_OW_Avoiding-R_Becoming_aware" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-R_Becoming_aware" accomplished="F" mapping_init="Unit_02" mapping_end="Unit_03" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_14_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_OW_Get_free_from_R_[pushing_away]" type="TML" init="Unit_04" end="Unit_11"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_06_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Meeting_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Reaching_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Scene_L02_04" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Departing" set="CSS_Plan_OW_Feigning_Activity_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_OW_Be_Quiet" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Being_peacefully" accomplished="F" mapping_init="Unit_01" mapping_end="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_far_from_M" set="CSS_Plan_AB_R_Reaching_M_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Aware_OW" set="CSS_Plan_AB_OW_Avoiding-R_Becoming_aware_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Plan_D_12_R_Threaten_OW" seq_or_hie="HIERARCHY" mapping="Action_12_R_Commitment_OW_[threaten]" mapping_set="Unit_12" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_Co-location_M" set="CSS_Plan_AB_R_Awareness-Co-location_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_OW_Avoiding-R_Becoming_aware" type="TML" init="Unit_02" end="Unit_03"> </rep_elem> 
+ <rep_elem id="TL_Scene_02" type="TML" init="Unit_02" end="Unit_02"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Answering_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Awareness-Co-location_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Awareness-Co-location_M" accomplished="T" mapping_init="Unit_08" mapping_end="Unit_13" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Asking" set="CSS_Plan_R_Demanding_OW_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_03_Contacting" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Contacting" accomplished="T" mapping_init="Unit_03" mapping_end="Unit_03" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_END_OW_Be_Quiet" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Make_acquaintance_with_OW" type="TML" init="Unit_03" end="Unit_06"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_09_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_M_presence" set="CSS_Plan_AB_R_Awareness-Co-location_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_and_V_silence" set="CSS_Plan_Contacting_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_01-2_OW_Sleep_Baby" type="ACT" set="Plan_D_01-2_Sleep_Baby" seq_or_hie="HIERARCHY" mapping="Action_01-2_OW_Sleep_Baby" mapping_set="Unit_01" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Arriving_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Contacting_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_10_R_Demanding[twice]Plan_D_10_R_Demanding[twice]_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Receiving-Communication_response" accomplished="F" mapping_init="Unit_10" mapping_end="Unit_10" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_02-2_R_looking_for_M" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Unit_04" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_Meet_with" set="CSS_Plan_AB_R_Meeting_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Asking" set="CSS_Plan_Feigning-NOT-Perceptual_experience_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_END_03_OW_Avoiding-R_Becoming_aware" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_03" mapping_end="Unit_03" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_M_Attending_appointment" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_3_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Get_free_from_R_[pushing_away]_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_06-1_OW_Rebuke" type="ACT" set="Plan_D_06-1_Respond_to_Proposal_[reject]" seq_or_hie="HIERARCHY" mapping="Action_06-1_OW_Rebuke" mapping_set="Unit_06" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_OW_irated_[emotion_directed]" set="CSS_Plan_R_Justifying_Effect" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_Fears_R" set="CSS_Plan_AB_OW_Avoiding-R_Becoming_aware_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L02_03" type="TML" init="Unit_08" end="Unit_13"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L02_02" type="TML" init="Unit_03" end="Unit_07"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L02_01" type="TML" init="Unit_01" end="Unit_01"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Apologizing_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Questioning_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_03_R_Contacting_OW" type="ACT" set="Plan_D_03_Contacting" seq_or_hie="HIERARCHY" mapping="Action_03_R_Contacting_OW" mapping_set="Unit_03" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Avoiding-Interaction_with_R_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Unit_09" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_END_02_R_Meeting_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Make_acquaintance_with_OW_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Plan_D_13_R_Request[Commanding]_OW-Perception_Experience" seq_or_hie="HIERARCHY" mapping="Action_13_R_Request[Command]_OW-Perception_Experience" mapping_set="Unit_13" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_14_OW_Communication_response_[Answering]" type="ACT" set="Plan_D_14_OW_Answering" seq_or_hie="HIERARCHY" mapping="Action_14_OW_Communication_response_[Answering]" mapping_set="Unit_14" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_01-2_Sleep_Baby" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Baby_Sleeps" accomplished="T" mapping_init="Unit_01" mapping_end="Unit_01" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Meet_with" set="CSS_Plan_AB_R_Meeting_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_14_OW_Answering" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Answering_RQuestion" accomplished="T" mapping_init="Unit_14" mapping_end="Unit_14" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Communication" set="CSS_Plan_Contacting_Effect" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Feigning-NOT-Possibility-Communication_response_Effect" type="CSS" pre_or_eff="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Agent_Masha" type="AGT" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_OW_Save_herself_from_R" type="TML" init="Unit_02" end="Unit_14"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_03_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Total" type="TML" init="Unit_01" end="Unit_14"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Blame_R_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L05" type="TML" init="Unit_01" end="Unit_01"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Feigning_Activity_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_sleeps" set="CSS_Plan_Feigning-Fall_asleep_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_M_Attending_appointment" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_2_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_M_Attending_appointment" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_R_Request" set="CSS_Plan_R_Demanding_OW_Effect" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Agent_Old_Woman" type="AGT" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_13_R_Request[Commanding]_OW-Perception_Experience" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Request[Commanding]_OW-Perception_Experience" accomplished="T" mapping_init="Unit_13" mapping_end="Unit_13" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Asking" set="CSS_Plan_OW_Complaining_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Complaining_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_11_OW_Fear_R" type="ACT" set="Unit_11" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_05_Apologizing" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Not_Irate_OW_[Emotion_directed]" accomplished="F" mapping_init="Unit_05" mapping_end="Unit_05" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Answering_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Communication" set="CSS_Plan_AB_OW_Get_free_from_R_[pushing_away]_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Seeking_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_R_hindrance_clockRepairerForKremlin" set="CSS_Plan_AB_R_Meeting_M_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_and_V_silence" set="CSS_Plan_OW_Feigning_Activity_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_12_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Departing" set="CSS_Plan_Feigning-NOT-Perceptual_experience_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_M_Attending_appointment" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_3_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Avoiding_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Plan_D_08_Questioning[asking]_OW-Perception_experience" seq_or_hie="HIERARCHY" mapping="Action_08_R_Questioning[asking]_OW-Perception_experience" mapping_set="Unit_08" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_Co-location_M" set="CSS_Plan_AB_R_Meeting_M_Effect" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_talking_OW" set="CSS_Plan_AB_OW_Turn_down_R_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Reaching_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Arriving_M" accomplished="T" mapping_init="OLE_Plan_AB_R_Reaching_M_Unit_01" mapping_end="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Scene_L02_04" type="TML" init="Unit_14" end="Unit_14"> </rep_elem> 
+ <rep_elem id="Plan_D_01-1_Arriving" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Arriving" accomplished="T" mapping_init="Unit_01" mapping_end="Unit_01" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_Quiet" set="CSS_Plan_AB_OW_Save_herself_from_R_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_06-2_R_Contacting_OW" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Discussion_with_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Threaten_OW_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Feigning_Activity_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness-Co-location_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Baby_awake" set="CSS_Plan_Sleep_Baby_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_Quiet" set="CSS_Plan_AB_OW_Be_Quiet_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Threaten_OW_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_R_Awareness_OW-Perception_Experience_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_go_away" set="CSS_Plan_AB_OW_Save_herself_from_R_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_2_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Be_Quiet_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_07_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_OW_sympathathetic_R" set="CSS_Plan_R_Justifying_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Get_free_from_R_[pushing_away]_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Demanding_OW_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Present" set="CSS_Plan_Arriving_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_R_Demanding_OW_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Demanding_OW_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_Fears_R" set="CSS_Plan_AB_OW_Save_herself_from_R_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_OW_Avoiding-Interaction_with_R" type="TML" init="Unit_02" end="Unit_11"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_09_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_co-location_M" set="CSS_Plan_AB_OW_Betrayed_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Blame_R_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_M_offended_R_[emotion_directed]" set="CSS_Plan_AB_R_Discussion_with_M_Effect" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_OW_Betrayed_M" type="TML" init="Unit_14" end="Unit_14"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_OW_meet_with_M" set="CSS_Plan_OW_Answering_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Flattering_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Flattering" accomplished="F" mapping_init="Unit_05" mapping_end="Unit_06" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Seeking_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" type="ACT" set="Plan_D_09_Feigning-NOT-Perceptual_experience" seq_or_hie="HIERARCHY" mapping="Action_09_OW_Feigning-NOT-Perception_experience_[Repel]" mapping_set="Unit_09" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_02-1_OW_Feigning-Fall_asleep" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Feigning-NOT-Possibility-Communication_response[being_noticed]" accomplished="T" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Feigning-NOT-Perceptual_experience_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_END_09_R_Awareness_OW-Perception_Experience_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="NO GOAL!!!" accomplished="NULL" mapping_init="Unit_09" mapping_end="Unit_09" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Avoiding-R_Becoming_aware_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Justifying_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_03_R_Contacting_OW" type="ACT" set="Unit_03" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_11_OW_Complaining" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-Communication_Response" accomplished="F" mapping_init="Unit_11" mapping_end="Unit_11" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_06-2_R_Justifying" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Justifying_with_OW" accomplished="F" mapping_init="Unit_06" mapping_end="Unit_06" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Reject_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness-M_Arriving" set="CSS_Plan_Questioning_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_R_Awareness_OW-Perception_Experience_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Apologizing_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Reaching_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_13_R_Request[Command]_OW-Perception_Experience" type="ACT" set="Unit_13" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_08_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_R_Arriving" set="CSS_Plan_AB_OW_Avoiding-Interaction_with_R_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Flattering_OW_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_hostile_R" set="CSS_Plan_AB_R_Flattering_OW_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_absent" set="CSS_Plan_Arriving_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_go_away" set="CSS_Plan_Avoiding_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_OW_Save_herself_from_R" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Being_peacefully" accomplished="T" mapping_init="Unit_02" mapping_end="Unit_14" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L04_02" type="TML" init="Unit_02" end="Unit_14"> </rep_elem> 
+ <rep_elem id="TL_SceneD_L04_01" type="TML" init="Unit_01" end="Unit_02"> </rep_elem> 
+ <rep_elem id="SOA_R_close_M" set="CSS_Plan_AB_R_Reaching_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_M_offended_R_[emotion_directed]" set="CSS_Plan_AB_R_Discussion_with_M_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Avoiding-Interaction_with_R_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_01_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_sympathathetic_R" set="CSS_Plan_Apologizing_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Agent_Rybakov" type="AGT" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Meeting_M" type="TML" init="Unit_01" end="Unit_02"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_Co-location_M" set="CSS_Plan_AB_OW_Betrayed_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_OW_knows[familiarity]_R" set="CSS_Plan_R_Threaten_OW_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Baby_sleeps" set="CSS_Plan_Sleep_Baby_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Awareness_OW-Perception_Experience_M_3" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Awareness_OW-Perception_Experience_M" accomplished="F" mapping_init="Unit_12" mapping_end="Unit_13" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Awareness_OW-Perception_Experience_M_3" type="TML" init="Unit_12" end="Unit_13"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Awareness_OW-Perception_Experience_M_2" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Awareness_OW-Perception_Experience_M" accomplished="F" mapping_init="Unit_10" mapping_end="Unit_11" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Awareness_OW-Perception_Experience_M_2" type="TML" init="Unit_10" end="Unit_11"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_OW_Be_Quiet" type="TML" init="Unit_01" end="Unit_02"> </rep_elem> 
+ <rep_elem id="SOA_N_OW_sympathathetic_R" set="CSS_Plan_Apologizing_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_OW_Betrayed_M" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_R_Departing" accomplished="T" mapping_init="Unit_14" mapping_end="Unit_14" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_R_Arriving" set="CSS_Plan_Avoiding_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Turn_down_R_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_06-2_R_Contacting_OW" type="ACT" set="Plan_D_06-2_R_Justifying" seq_or_hie="HIERARCHY" mapping="Action_06-2_R_Contacting_OW" mapping_set="Unit_06" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_02-2_R_looking_for_M" type="ACT" set="Plan_D_02-2_R_Seeking" seq_or_hie="HIERARCHY" mapping="Action_02-2_R_looking_for_M" mapping_set="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Feigning-Fall_asleep_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_07_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Awareness_OW-Perception_Experience_M" type="TML" init="Unit_08" end="Unit_09"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Arriving_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_3_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_irated_[emotion_directed]" set="CSS_Plan_R_Justifying_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_believes_R_dangerous" set="CSS_Plan_R_Threaten_OW_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_06-1_OW_Rebuke" type="ACT" set="Unit_06" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness-M_Arriving" set="CSS_Plan_Questioning_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Betrayed_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_co-location_M" set="CSS_Plan_R_Seeking_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_Co-location_M" set="CSS_Plan_R_Seeking_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_R_Awareness-Co-location_M" set="CSS_Plan_AB_R_Awareness-Co-location_M_Effect" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_06-1_Respond_to_Proposal_[reject]" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Respond_to_Proposal_[reject]" accomplished="F" mapping_init="Unit_06" mapping_end="Unit_06" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Make_acquaintance_with_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_Make_acquaintance_with_OW" accomplished="T" mapping_init="Unit_03" mapping_end="Unit_06" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Change_event_time" set="CSS_Plan_AB_R_Meeting_M_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_04_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_2_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Communication" set="CSS_Plan_OW_Feigning_Activity_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Feigning-NOT-Possibility-Communication_response_Pre" type="CSS" pre_or_eff="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_09_Feigning-NOT-Perceptual_experience" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-Communication_Response" accomplished="F" mapping_init="Unit_09" mapping_end="Unit_09" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Reject_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_sympathathetic_R" set="CSS_Plan_R_Justifying_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_M_Attending_appointment" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_R_Reaching_M" type="TML" init="OLE_Plan_AB_R_Reaching_M_Unit_01" end="Unit_02"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Awareness_OW-Perception_Experience_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Awareness_OW-Perception_Experience_M" accomplished="F" mapping_init="Unit_08" mapping_end="Unit_09" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_14_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_06_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_irated_[emotion_directed]" set="CSS_Plan_Apologizing_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_talking_OW" set="CSS_Plan_AB_OW_Turn_down_R_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_2_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_04_OW_Judgement_direct_address_[Rebuke]_R" type="ACT" set="Plan_D_04_Blame_R_[Judgement]" seq_or_hie="HIERARCHY" mapping="Action_04_OW_Judgement_direct_address_[Rebuke]_R" mapping_set="Unit_04" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_Chatting" set="CSS_Plan_OW_Reject_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_12_R_Commitment_OW_[threaten]" type="ACT" set="Unit_12" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="TL_Plan_AB_OW_Turn_down_R" type="TML" init="Unit_04" end="Unit_06"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Meeting_M_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Feigning-NOT-Perceptual_experience_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_13_Effect" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_05_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SceneD_L02_03" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="SceneD_L02_02" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="SceneD_L02_01" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Justifying_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Personal_relationship_OW" set="CSS_Plan_AB_R_Make_acquaintance_with_OW_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_Encounter" set="CSS_Plan_R_Seeking_M_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_07_OW_Feigning_R_Acvity_[Rebuke]" type="ACT" set="Plan_D_07_Fegning-Activity" seq_or_hie="HIERARCHY" mapping="Action_07_OW_Feigning_R_Acvity_[Rebuke]" mapping_set="Unit_07" print="NULL"> </rep_elem> 
+ <rep_elem id="SceneD_L01_03-2" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="SceneD_L01_03-1" type="SCE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_3_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Be_Quiet_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_Done_Communication" set="CSS_Plan_AB_OW_Feigning-NOT-Possibility-Communication_response_Pre" type="ACC" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_OW_Complaining_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_13_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_05_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_and_V_Communication" set="CSS_Plan_Contacting_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_08_Questioning[asking]_OW-Perception_experience" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Asking" accomplished="F" mapping_init="Unit_08" mapping_end="Unit_08" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_02-1_OW_Dozes_off" type="ACT" set="Plan_D_02-1_OW_Feigning-Fall_asleep" seq_or_hie="HIERARCHY" mapping="Action_02-1_OW_Dozes_off" mapping_set="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_OW_Avoiding-Interaction_with_R" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Avoiding-Interaction_with_R" accomplished="F" mapping_init="Unit_02" mapping_end="Unit_11" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_14" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_13" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_OW_Avoiding-R_Becoming_aware_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_12" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_11" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_05_R_Request-Forgiveness_OW" type="ACT" set="Plan_D_05_Apologizing" seq_or_hie="HIERARCHY" mapping="Action_05_R_Request-Forgiveness_OW" mapping_set="Unit_05" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_3_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_10" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_08_R_Questioning[asking]_OW-Perception_experience" type="ACT" set="Unit_08" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Delay" set="CSS_Plan_AB_R_Reaching_M_Pre" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_R_Meeting_M" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_R_meet_with_M" accomplished="F" mapping_init="Unit_01" mapping_end="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Asking[Questioning]_OW" set="CSS_Plan_Feigning-NOT-Perceptual_experience_Effect" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_08_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_2_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_OW_Quiet" set="CSS_Plan_AB_OW_Be_Quiet_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_AB_R_Awareness-Co-location_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_OW_irated_[emotion_directed]" set="CSS_Plan_Apologizing_Effect" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_N_R_Awareness_Co-location_M" set="CSS_Plan_Questioning_Pre" type="NEG" seq_or_hie="HIERARCHY" status="T" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_12_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_09" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Feigning-Fall_asleep_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_08" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_07" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_TL_Unit_04_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_06" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_05" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_04" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_03" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_02" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="Unit_01" type="UNI" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Sleep_Baby_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_co-location_M" set="CSS_Plan_Questioning_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_AB_OW_Get_free_from_R_[pushing_away]" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_Get_free_from_R_[pushing_away]" accomplished="F" mapping_init="Unit_04" mapping_end="Unit_11" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_07_Fegning-Activity" type="PLA" plantype="NULL" agent="Agent_Old_Woman" goal="Goal_OW_Feigning-Activiy_R" accomplished="F" mapping_init="Unit_07" mapping_end="Unit_07" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_01-1_R_arriving" type="ACT" set="Unit_01" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Action_02-1_OW_Dozes_off" type="ACT" set="Unit_02" seq_or_hie="SEQUENCE" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_12_R_Threaten_OW" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Receiving-Communication_response" accomplished="T" mapping_init="Unit_12" mapping_end="Unit_12" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Departing" set="CSS_Plan_AB_OW_Feigning-NOT-Possibility-Communication_response_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_R_Awareness_OW-Perception_Experience_M_Effect" type="CSS" pre_or_eff="EFF" print="NULL"> </rep_elem> 
+ <rep_elem id="Plan_D_02-2_R_Seeking" type="PLA" plantype="NULL" agent="Agent_Rybakov" goal="Goal_Finding_M" accomplished="F" mapping_init="Unit_02" mapping_end="Unit_02" print="NULL"> </rep_elem> 
+ <rep_elem id="CSS_Plan_Avoiding_Pre" type="CSS" pre_or_eff="PRE" print="NULL"> </rep_elem> 
+ <rep_elem id="SOA_R_Awareness_OW-Perception_Experience_M" set="CSS_Plan_AB_R_Awareness_OW-Perception_Experience_M_Effect" type="SOA" seq_or_hie="HIERARCHY" status="NULL" mapping="NULL" mapping_set="NULL" print="NULL"> </rep_elem> 
+</repository> 
+ 
+
+</drama> 
+ 

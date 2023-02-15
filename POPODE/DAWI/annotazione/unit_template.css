@@ -1,0 +1,344 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* centratura*/
+
+* {
+	margin:0;
+	padding:0;
+  }
+
+	html, body {
+		height:100%;
+		}
+
+	body {
+	  display:block;
+	  background-color:#ffffff;
+	  font:100.01%/ 1.0 Futura;
+	  text-align:center;
+	  }
+
+	#titolo {
+		display:block;
+		margin:auto;
+		position:relative;
+		text-align:center;
+		vertical-align:center;
+		height:5%;
+		width:100%;
+	    z-index:0;
+		/* clear:left; */
+		background-color:#d7d7d7; /*#000000;*/
+		}
+
+	#container {
+		display:block;
+		margin:auto;
+		position:relative;
+		text-align:left;
+		height:95%; /* 16/9 */
+		width:100%;
+	    z-index:0;
+		/* clear:left; */
+		background-color:#d7c987; /*#000000;*/
+		}
+
+    #unit_header { 
+	    display:block;
+	    position:absolute;
+	    width: 100%;
+	    height:25%;
+	    vertical-align:center;
+	    z-index:1;
+	    left:0%;
+	    top:1%;
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+    }
+	#unit_content {
+		display:block;
+		position:absolute;
+		width:100%;
+		height:70%;
+		z-index:1;
+		top:31%;
+		background-image:url(immagini/sfondotesto.png);
+	}
+
+	  #unit_header_title {
+		display:block;
+		margin:auto;
+		position:absolute;
+		text-align:center;
+		vertical-align:center;
+		height:15%;
+		width:100%;
+	    z-index:1;
+		/* clear:left; */
+		background-color:#d7d7d7; /*#000000;*/
+		}
+
+      #previous { 
+	    display:block;
+	    position:absolute;
+		text-align:center;
+	    width: 25%;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:0%;
+	    top:20%;
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+      #previous_arrow { 
+	    display:block;
+	    position:absolute;
+		text-align:center;
+	    width: 10%;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:25%;
+	    top:20%;
+	    /* padding:1%; */
+	    /* background-image:url(immagini/sfondotesto.png);*/
+        }
+      #select_or_create_unit { 
+	    display:block;
+	    position:absolute;
+		text-align:center;
+	    width: 30%;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:35%;
+	    top:20%;
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+      #next_arrow { 
+	    display:block;
+	    position:absolute;
+		text-align:center;
+	    width: 10%;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:65%;
+	    top:20%;
+	    /* padding:1%; */
+	    /*background-image:url(immagini/sfondotesto.png);*/
+        }
+      #next { 
+	    display:block;
+	    position:absolute;
+		text-align:center;
+	    width: 25%;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:75%;
+	    top:20%;
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+/* ****** UNIT CONTENT SUB DIV ***** */
+	  #unit_content_title {
+		display:block;
+		margin:auto;
+		position:relative;
+		text-align:center;
+		vertical-align:center;
+		height:5%;
+		width:100%;
+	    z-index:1;
+		/* clear:left; */
+		background-color:#d7d7d7; /*#000000;*/
+		}
+
+      #preconditions { 
+	    display:block;
+	    position:absolute;
+	    width: 30%;
+	    text-align:left;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:1%;
+	    top:10%;
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+      }
+      #incidents { 
+	    display:block;
+	    position:absolute;
+	    width: 30%;
+	    text-align:left;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:35%;
+	    top:10%;
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+      }
+      #effects { 
+	    display:block;
+	    position:absolute;
+	    text-align:left;
+	    width: 30%;
+	    /* height:48%; */
+	    vertical-align:center;
+	    z-index:1;
+	    left:70%;
+	    top:10%;
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+      }
+
+
+/* ------------- SPECIFICI HOME PAGE -------------- */
+
+/* ALTRO */
+
+.metadata_table {
+  table-layout: fixed;
+  width: 100%;
+	height: 100%;
+  white-space: nowrap;
+}
+.metadata_table td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* Column widths are based on these cells */
+.row-ID {width: 15%;}
+.row-name {width: 25%;}
+.row-job {width: 40%;}
+.row-email {width: 20%;}
+.col-1 {height:15px;}
+.col-2 {height:15%;}
+.col-3 {height:15%;}
+.col-4 {height:15%;}
+.col-5 {height:15%;}
+.col-6 {height:15%;}
+
+button {background-color: transparent; border:none;}
+
+table {
+	border: 1px solid black;
+	width: 100%;
+}
+
+div {
+	/* border: 1px solid black;*/
+}
+
+h1 {font-size: 24pt;}
+h2 {font-size: 8pt;}
+
+
+td {
+    /*padding: 10px;*/
+    width: 100px; /* 100px; */
+		max-width:100px;
+		/* height:15px;*/
+		max-height:50px;
+		overflow:hidden;
+		/* border: 1px solid black;*/
+	}
+
+img {
+			/**height: auto;
+			width: auto;*/
+			max-width: 100%;
+			max-height: 100%;
+    }
+
+input[type=submit], input[type=text] {
+  	border: 0;
+		margin: 0;
+    line-height:15px;
+		width:90px; /*width:90px;*/
+		vertical-align: middle;
+		height: 25px;
+		float: left;
+		display: block;
+		font-size:12px;
+		padding-left: 5px;
+		padding-right: 5px;
+		color:#000000; /*7F7F7F;*/
+		white-space:pre;
+}
+
+input[type=radio] {
+  	border: 0;
+		margin: 0;
+		width:auto; /*width:90px;*/
+		height:auto; /*25px;*/
+		float: center;
+	  vertical-align: middle;
+		/*display: block;
+		font-size:12px;*/
+		padding-left: 5px;
+		padding-right: 5px;
+		/*color:#ffffff; 7F7F7F;*/
+		/* white-space:pre;*/
+}
+
+.Titolo {
+	font-family:Futura;
+	font-size:24pt;
+	color:#000000;
+	line-height:30px;
+}
+
+
+.Testo {
+	font-family:Futura;
+	font-size:10pt;
+	color:#000000;
+	line-height:13px;
+}
+
+
+a:link {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #999999;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+a:visited {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #de00ff;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+a:hover {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #0000ff;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+a:active {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #bbbbbb;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+
+.External {
+	font-family:Futura;
+	font-size:10pt;
+	color:#000000;
+	padding-top:3px;
+}
+
+}

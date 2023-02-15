@@ -1,0 +1,404 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* centratura*/
+
+* {
+	margin:0;
+	padding:0;
+  }
+
+	html, body {
+		/* height:100%;*/
+		}
+
+	body {
+	  /*display:block;*/
+	  font:100.01%/ 1.0 Futura;
+      text-align:left;
+	  z-index:0;
+      /* clear:left; */
+	  background-color:#d7c987; /*#000000;*/
+	  }
+
+	#titolo {
+		/* display:block; */
+		/*margin:auto;*/
+	    /*position:static;/*; absolute, relative*/
+		text-align:center;
+		/*span-display: inline-block;
+		span-vertical-align: middle;*/
+		/*height:3%;*/
+		min-height:20px; 
+		width:100%;
+	    z-index:0;
+	    color:#FFFFFF;
+	    margin-bottom: 10px;
+		/* clear:left; */
+		background-color:#000000; /*#000000;*/
+		/* border: 2px solid #73AD21;*/
+	}
+/* ****** HEADER SUB DIV ***** */
+	#header_title {
+		/*display:block;*/
+		/* margin:auto;*/
+	    /*position:absolute; /*relative;*/
+		text-align:center;
+		/*height:7%;*/
+		width:100%;
+	    z-index:2;
+	    /*top:100px;*/
+		/* clear:left; */
+		margin-bottom: 5px;
+		background-color:#d7d7d7; /*#000000;*/
+	}
+
+      /* ###################### UNIT CONTENT ################### */
+      #previous {
+	    /* display:block;*/
+	    /* position:absolute;*/
+		text-align:center;
+	    /*width: 20%;*/
+	    /* height:48%; */
+	    /* vertical-align:center;*/
+	    z-index:1;
+	    /*left:1%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+      #previous_arrow {
+	    /* display:block;*/
+	    /*position:absolute;*/
+		text-align:center;
+	    /*width: 4%;*/
+	    /* height:48%; */
+	    /* vertical-align:center;*/
+	    z-index:1;
+	    /* left: 22%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    /* background-image:url(immagini/sfondotesto.png);*/
+        }
+      #select_or_create_unit {
+	    /* display:block;*/
+	    /* position:absolute;*/
+		text-align:center;
+	    /*width: 45%;*/
+	    /* height:48%; */
+	    /* vertical-align:center;*/
+	    z-index:1;
+	    /*left:27%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+		background-color: #ffff33;
+	    /*background-image:url(immagini/sfondotesto.png);*/
+        }
+      #next_arrow {
+	    /* display:block;*/
+	    /*position:absolute;*/
+		text-align:center;
+	    /*width: 4%;*/
+	    /* height:48%; */
+	    /* vertical-align:center;*/
+	    z-index:1;
+	    /*left:73%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    /*background-image:url(immagini/sfondotesto.png);*/
+        }
+      #next {
+	    /* display:block;*/
+	    /*position:absolute;*/
+		text-align:center;
+	    /*width: 20%;*/
+	    /* height:48%; */
+	    /* vertical-align:center;*/
+	    z-index:1;
+	    /*left:78%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+
+/* ****** CONTENT SUB DIV ***** */
+	  #plan_content_title {
+		/* display:block;*/
+		/*margin:auto;*/
+		margin-bottom: 5px;
+	    /*position:absolute; relative;*/
+		text-align:center;
+		/*span-display: inline-block;
+		span-vertical-align: middle;*/
+		/* height:7%; */
+		/*width:100%;*/
+	    z-index:2;
+		/* clear:left; */
+		background-color:#d7d7d7; /*#000000;*/
+		}
+
+      #ups_agent {
+	    /* display:block;
+	    position:absolute; /*relative;*/
+		text-align:center;
+	    /*width: 20%;*/
+	    vertical-align:middle;
+	    z-index:1;
+	    /*left:1%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+      #ups_goal {
+	    /*display:block;
+	    position:absolute; /*relative;*/
+		text-align:center;
+	    /*width: 25%;*/
+	    vertical-align:middle;
+	    z-index:1;
+	    /*left:22%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+      #ups_select_or_create_deplan {
+	    /* display:block;
+	    position:absolute; /*relative;*/
+		text-align:center;
+	    /*width: 35%;*/
+	    vertical-align:center;
+	    z-index:1;
+	    /*left:48%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    background-color: #ffff33;
+	    /*background-image:url(immagini/sfondotesto.png);*/
+        }
+      #ups_accomplished_conflict_support {
+	    /* display:block;
+	    position:absolute; /*relative;*/
+		text-align:center;
+	    /*width: 15%;*/
+	    vertical-align:center;
+	    z-index:1;
+	    /*left:84%;*/
+	    /*top:10%;*/
+	    /* padding:1%; */
+	    background-image:url(immagini/sfondotesto.png);
+        }
+
+/* ------------- SPECIFICI HOME PAGE -------------- */
+
+/* ALTRO */
+
+.metadata_table {
+  table-layout: fixed;
+  width: 100%;
+  height: 100%;
+  white-space: nowrap;
+}
+.metadata_table td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* Column widths are based on these cells */
+.row-ID {width: 15%;}
+.row-name {width: 25%;}
+.row-job {width: 40%;}
+.row-email {width: 20%;}
+.col-1 {height:15px;}
+.col-2 {height:15%;}
+.col-3 {height:15%;}
+.col-4 {height:15%;}
+.col-5 {height:15%;}
+.col-6 {height:15%;}
+
+/*button {background-color: transparent; border:none;}*/
+
+table {
+	border: 1px solid black;
+	width: 100%;
+}
+
+div {
+	/* border: 1px solid black;*/
+}
+
+h1 {font-size: 24pt;}
+h2 {font-size: 8pt;}
+
+
+td {
+    /*padding: 10px;*/
+    /* width: 100px; /* 100px; */
+	/*max-width:100px;*/
+	/* height:15px;*/
+	/*max-height:50px;*/
+	overflow:hidden;
+	border: 1px solid black;
+	}
+
+img {
+			/**height: auto;
+			width: auto;*/
+			/*max-width: 100%;
+			max-height: 100%;*/
+    }
+
+input[type=submit], input[type=text] {
+  	border: 0;
+	margin: 0;
+    line-height:15px;
+    /* width:auto;
+	width:90px; /*width:90px;*/
+	vertical-align: middle;
+	height: auto; /*25px;*/
+	float: left;
+	display: block;
+	font-size:12px;
+	padding-left: 5px;
+	padding-right: 5px;
+	color:#000000; /*7F7F7F;*/
+	white-space:pre;
+}
+
+input[type=radio] {
+  	border: 0;
+	margin: 0;
+	width:auto; /*width:90px;*/
+	height:auto; /*25px;*/
+	float: center;
+	vertical-align: middle;
+	/*display: block;
+	font-size:12px;*/
+	padding-left: 5px;
+	padding-right: 5px;
+	color:#00ff00; /*7F7F7F;*/
+	background-color: #00ff00; 
+	/* white-space:pre;*/
+}
+
+input[type=button] {
+  	border: 0;
+	margin: 0;
+	width:auto; /*width:90px;*/
+	height:auto; /*25px;*/
+	float: center;
+	vertical-align: middle;
+	/*display: block;
+	font-size:12px;*/
+	padding-left: 5px;
+	padding-right: 5px;
+	color:#ffffff; /*7F7F7F;*/
+	background-color: #007700; 
+	/* white-space:pre;*/
+}
+
+.styled-select select {
+   background: transparent;
+   /*width: 40%;*/
+   /* 
+   padding: 5px;
+   font-size: 12px;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 34px;
+   -webkit-appearance: none;*/
+   }
+
+.Titolo {
+	font-family:Futura;
+	font-size:16pt;
+	color:#FFFFFF;
+	line-height:24px;
+}
+
+.TitoloSezione {
+	font-family:Futura;
+	font-size:16pt;
+	color:#000000;
+	line-height:20px;
+}
+
+.TitoloColonna {
+	font-family:Futura;
+	font-size:14pt;
+	color:#000000;
+	line-height:18px;
+}
+
+.SottoTitoloColonna {
+	font-family:Futura;
+	font-size:12pt;
+	color:#000000;
+	line-height:16px;
+}
+
+.TitoloColonnaNew {
+	font-family:Futura;
+	font-size:12pt;
+	color:#FF0000;
+	line-height:30px;
+}
+
+
+.Testo {
+	font-family:Futura;
+	font-size:10pt;
+	color:#000000;
+	line-height:13px;
+}
+
+.TestoNew {
+	font-family:Futura;
+	font-size:10pt;
+	color:#FF0000;
+	line-height:13px;
+}
+
+
+a:link {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #999999;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+a:visited {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #de00ff;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+a:hover {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #0000ff;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+a:active {
+	font-family:Futura;
+	font-size: 10pt;
+	color: #bbbbbb;
+	/* font-weight: bold; */
+	text-decoration: underline;
+}
+
+.External {
+	font-family:Futura;
+	font-size:10pt;
+	color:#000000;
+	padding-top:3px;
+}
+
+mark{
+    background: orange;
+    color: black;
+}
+
+}
+

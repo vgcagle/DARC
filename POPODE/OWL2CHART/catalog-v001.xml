@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.cirma.unito.it/drammar/" uri="Drammar12bis_integrata_exempio_rdf_funzionante_copia_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.cirma.unito.it/drammar/" uri="Drammar12bis_integrata_exempio_rdf_funzionante_copia_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-204" uri="ExportedOWLs/10_TaylorSwift1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-204" uri="ExportedOWLs/10_TaylorSwift1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-213" uri="ExportedOWLs/01_ApocalypseNow_Valchirie1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-213" uri="ExportedOWLs/01_ApocalypseNow_Valchirie1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/02_TaxiDriver_TalkingMe1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/02_TaxiDriver_TalkingMe1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/03_Matrix_Terrazzo1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/03_Matrix_Terrazzo1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/04_LaDolceVita_FontanaTrevi1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/04_LaDolceVita_FontanaTrevi1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/05_AranciaMeccanica_banda1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/05_AranciaMeccanica_banda1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/06_Blade_Runner1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/06_Blade_Runner1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/07_Il_Cacciatore1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/07_Il_Cacciatore1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/09_The_Snatch1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/09_The_Snatch1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/13_Kill_Bill_Vol2_xml_mano1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-214" uri="ExportedOWLs/13_Kill_Bill_Vol2_xml_mano1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-215" uri="ExportedOWLs/08_The_Godfather_xml_mano1_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/Drammar/2017/0/untitled-ontology-215" uri="ExportedOWLs/08_The_Godfather_xml_mano1_inferred_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/untitled-ontology-339" uri="drammar_ct_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1500473548545" name="duplicate:http://www.di.unito.it/~vincenzo/ontologies/untitled-ontology-339" uri="drammar_ct_inferred_2.owl"/>
+    </group>
+</catalog>

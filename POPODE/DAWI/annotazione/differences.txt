@@ -1,0 +1,11 @@
+DIFFERENCES
+
+
+
+delete_action_from_repository è diversa per le unit e per i piani
+
+get_plan in abstract plans aveva anche mapping init e mapping end
+
+get_state_features_timeline si differenzia nelle unit perché c’è la timeline
+idem per get_states.php
+
